@@ -1,8 +1,238 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2025-11-03T12:00:00Z",
+  "updatedAt": "2025-11-05T12:00:00Z",
   "language": "en",
   "articles": [
+    {
+      "id": "93e877d3-7695-4cbe-a066-06171c6d48f1",
+      "title": "Introducing Allergens During Baby’s Weaning",
+      "teaser": "Why early, measured exposure to allergenic foods can lower the risk of future reactions.",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/allergy.webp",
+        "caption": "Allergenic foods prepared for baby-led weaning"
+      },
+      "blocks": [
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Allergies in babies are common during early childhood. Older advice suggested avoiding allergenic foods, yet modern research shows that timely, well-controlled introduction actually reduces the risk of developing allergies."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "The modern approach"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Guidelines from the WHO, ESPGHAN, and the American Academy of Pediatrics recommend offering allergenic foods around 6 months, once your baby is developmentally ready for solids."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "“Early exposure to tiny amounts of allergens helps the immune system build tolerance,” emphasize pediatric experts."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Before each new food, be sure your baby is healthy, without rashes or cold symptoms. Introduce just one allergen at a time so you can clearly spot any reaction."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Major food allergens"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "The EU recognizes 14 major food allergens: gluten, peanuts, tree nuts, celery, mustard, milk, eggs, sesame, fish, crustaceans, mollusks, soy, sulfites, and lupin."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "For infant weaning, the most relevant are usually eggs, fish, milk, wheat, soy, peanuts, celery, nuts, and sesame."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "When and how to start"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Once your baby manages vegetables, cereals, and meats, you can gradually add allergenic foods starting with micro portions."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Guidelines:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Begin with micro servings — 1/4 teaspoon or just a few crumbs."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• If no reaction appears, slowly increase the amount over several days."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Leave at least a 3-day observation window between new foods."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Safe allergen introduction"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "1. Offer only one new food at a time."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "2. Start with the smallest possible portion."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "3. Avoid adding other new foods for three days."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "4. Serve in the morning or midday so you can watch for reactions."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "5. Repeat once or twice a week if it is well tolerated."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Possible allergy signs"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Watch for these warning signs:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Rash or redness around the mouth."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Swelling of the lips, eyelids, or face."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Coughing, sneezing, or trouble breathing."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Vomiting, diarrhea, or pronounced tummy cramps."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Sudden fussiness, itching, or restlessness."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "If you notice severe symptoms — especially breathing difficulty or swelling — seek medical care immediately."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "If your child already has allergies"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Do not reintroduce the food without medical advice. A specialist will guide you toward a safe reintroduction plan."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Some children outgrow allergies, but every new attempt should be supervised by an allergist."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Key takeaway"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Allergens are not enemies when you introduce them carefully. Consistent, measured exposure builds healthy eating habits and lowers the risk of future allergies."
+          }
+        }
+      ]
+    },
     {
       "id": "3f91c5db-5f06-4e36-9d2c-2b9188cbf65c",
       "title": "When to Start Complementary Feeding: Signs Your Baby Is Ready",
@@ -1082,6 +1312,200 @@
           "type": "paragraph",
           "data": {
             "text": "The ultimate goal of solids is not just feeding but teaching a child to eat with joy, confidence, and safety ❤️."
+          }
+        }
+      ]
+    },
+    {
+      "id": "08e35bc2-a02f-4d59-bb5f-c4698ceef69e",
+      "title": "Introducing Allergens During Baby's Weaning",
+      "teaser": "Why timely and well-monitored allergen exposure lowers the risk of food allergies later in life.",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/allergy.webp",
+        "caption": "Parent offering an allergenic food safely during baby-led weaning."
+      },
+      "blocks": [
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Food allergies are among the most common concerns in early childhood."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Parents were once advised to delay allergenic foods, but current evidence shows the opposite: offering tiny, controlled portions early on trains the immune system to tolerate new ingredients."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "The modern approach"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Leading organizations such as WHO, ESPGHAN, and the American Academy of Pediatrics suggest introducing allergenic foods around six months, when the baby is developmentally ready for solids."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "“Gradual exposure in small amounts builds immune tolerance,” emphasize pediatric allergists. Always choose a moment when your baby is healthy and free from rashes or colds."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Introduce only one new ingredient at a time and do it earlier in the day so you can observe how your baby reacts."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Major food allergens"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "The European Union recognizes 14 major allergens: gluten, peanuts, tree nuts, celery, mustard, milk, eggs, sesame, fish, crustaceans, mollusks, soy, sulfites, and lupin."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "For infants, the most relevant are eggs, fish, milk, wheat, soy, peanuts, celery, assorted nuts, and sesame."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "When and how to start"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Begin allergen exposure once your baby comfortably handles vegetables, cereals, and meats."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Start with micro portions — just a crumb or a quarter teaspoon."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Increase gradually if no reactions appear and keep a feeding log with dates and amounts."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Offer the same allergen again during the week to reinforce tolerance."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Safe allergen introduction checklist"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "1. Add only one new food at a time so you can pinpoint any reaction."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "2. Present the tiniest portion first and serve it during daytime hours."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "3. Leave a three-day window before trying a different new food."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "4. If the food is well tolerated, repeat it one to two times per week to maintain tolerance."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Possible allergy signs"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Watch for redness around the mouth, hives, swelling of the lips or eyelids, coughing, sneezing, breathing difficulties, vomiting, diarrhea, or sudden irritability."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Seek urgent medical attention if you notice trouble breathing, facial swelling, or any signs of anaphylaxis."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "If your child already reacted"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Do not reintroduce the allergen without guidance from your pediatrician or an allergist. They can advise on supervised challenges and the right timing."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Many children outgrow specific allergies, but it must happen gradually and under expert supervision."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Key takeaway"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Allergens are not the enemy when introduced mindfully. Consistent, monitored exposure encourages healthy eating habits and reduces the likelihood of future allergies."
           }
         }
       ]
