@@ -258,6 +258,28 @@
             "text": "Пам’ятайте: застосунок — зручний щоденник прикорму, але не замінює консультацію лікаря."
           }
         }
+      ],
+      "sources": [
+        {
+          "title": "NHS — перші тверді продукти малюка",
+          "url": "https://www.nhs.uk/baby/weaning-and-feeding/babys-first-solid-foods/"
+        },
+        {
+          "title": "Start4Life / UNICEF — Introducing Solid Foods",
+          "url": "https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2008/02/Start4Life-Introducing-Solid-Foods-2015.pdf"
+        },
+        {
+          "title": "ESPGHAN — Complementary Feeding Position Paper",
+          "url": "https://alimentacionysalud.unam.mx/wp-content/uploads/2020/12/Complementary-Feeding_-A-Position-Paper-by-the-European-Society-for-Paediatric-Gastroenterology-Hepatology-and-Nutrition-ESPGHAN-Committee-on-Nutrition.pdf"
+        },
+        {
+          "title": "AAP — Starting Solid Foods (handout)",
+          "url": "https://18andundermd.com/wp-content/uploads/2020/02/solid-food-introduction-handout.pdf"
+        },
+        {
+          "title": "Allergy UK — Weaning guide",
+          "url": "https://www.allergyuk.org/wp-content/uploads/2022/02/Weaning-%E2%80%93-Introducing-Your-Baby-to-Solids.pdf"
+        }
       ]
     },
     {
@@ -734,6 +756,24 @@
           "data": {
             "text": "Пам'ятайте: кожна ложечка — це маленьке відкриття, шлях до самостійності й нових відчуттів."
           }
+        }
+      ],
+      "sources": [
+        {
+          "title": "WHO complementary feeding guidance",
+          "url": "https://www.who.int/publications/i/item/9789240081864"
+        },
+        {
+          "title": "UNICEF Baby Friendly: Start4Life",
+          "url": "https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2008/02/Start4Life-Introducing-Solid-Foods-2015.pdf"
+        },
+        {
+          "title": "EFSA Journal 5780",
+          "url": "https://www.efsa.europa.eu/en/efsajournal/pub/5780"
+        },
+        {
+          "title": "NHS: From around 6 months",
+          "url": "https://www.nhs.uk/best-start-in-life/baby/weaning/what-to-feed-your-baby/from-around-6-months"
         }
       ]
     },
@@ -1584,263 +1624,32 @@
           "data": {
             "text": "Адже головне завдання прикорму — не просто нагодувати, а навчити їсти з насолодою, впевненістю і безпекою ❤️."
           }
-        }
-      ]
-    },
-    {
-      "id": "0facc9ad-b02f-4614-9d4b-a7a3a2354b6e",
-      "title": "Як користуватися застосунком «Мій прикорм»",
-      "teaser": "Покрокова навігація по головних розділах застосунку для ведення щоденника прикорму.",
-      "cover": {
-        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/app.webp",
-        "caption": "Інтерфейс застосунку «Мій прикорм»"
-      },
-      "blocks": [
+        }      ],
+      "sources": [
+
         {
-          "type": "heading",
-          "data": {
-            "text": "Важливе медичне застереження"
-          }
+          "title": "ВООЗ — Complementary Feeding",
+          "url": "https://www.who.int/health-topics/complementary-feeding"
         },
         {
-          "type": "paragraph",
-          "data": {
-            "text": "Застосунок «Мій прикорм» не замінює консультацію лікаря."
-          }
+          "title": "ВООЗ — Continued Breastfeeding",
+          "url": "https://www.who.int/tools/elena/bbc/continued-breastfeeding"
         },
         {
-          "type": "paragraph",
-          "data": {
-            "text": "Перед додаванням нових продуктів, зміною графіка прикорму чи реакцією на симптоми звертайтеся до педіатра або алерголога."
-          }
+          "title": "NHS — Baby’s First Solid Foods",
+          "url": "https://www.nhs.uk/baby/weaning-and-feeding/babys-first-solid-foods/"
         },
         {
-          "type": "divider"
+          "title": "NHS — Weaning & Readiness Signs",
+          "url": "https://bedslutonchildrenshealth.nhs.uk/feeding-and-eating/weaning-and-introducing-solid-foods/"
         },
         {
-          "type": "heading",
-          "data": {
-            "text": "Що робить застосунок"
-          }
+          "title": "UNICEF / Start4Life — Introducing Solid Foods",
+          "url": "https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2008/02/Start4Life-Introducing-Solid-Foods-2015.pdf"
         },
         {
-          "type": "paragraph",
-          "data": {
-            "text": "«Мій прикорм» допомагає відстежувати процес введення прикорму та зберігати важливі нотатки в одному місці."
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "• Фіксуйте, які продукти вже спробувала дитина."
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "• Записуйте реакції, нотатки та коментарі."
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "• Створюйте власні страви."
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "• Плануйте харчування на день або тиждень."
-          }
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "heading",
-          "data": {
-            "text": "Основні розділи"
-          }
-        },
-        {
-          "type": "heading",
-          "data": {
-            "text": "📊 Статистика"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "Показує коротке зведення прийомів їжі, реакцій та нових продуктів, щоб відстежувати динаміку прикорму."
-          }
-        },
-        {
-          "type": "heading",
-          "data": {
-            "text": "🥣 Продукти"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "Переглядайте базу продуктів за віком, позначайте введені позиції та додавайте спостереження чи реакції."
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "Позначки ⚠️ означають офіційні алергени, а ❗ позначає потенційно чутливі продукти."
-          }
-        },
-        {
-          "type": "heading",
-          "data": {
-            "text": "🍽️ Меню"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "Плануйте сніданок, обід, вечерю або перекуси, додаючи продукти та короткі коментарі."
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "Меню поділяється на три блоки:"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "1. Сьогодні."
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "2. Плануємо з’їсти."
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "3. Ми з’їли."
-          }
-        },
-        {
-          "type": "heading",
-          "data": {
-            "text": "🧾 Власні продукти"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "Створюйте власні продукти або страви, вказуйте спосіб приготування та примітки."
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "Їх можна редагувати або видаляти будь-коли."
-          }
-        },
-        {
-          "type": "heading",
-          "data": {
-            "text": "⚙️ Налаштування"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "Увімкніть або вимкніть синхронізацію з iCloud у будь-який момент."
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "Кнопка «Синхронізувати зараз» оновлює дані вручну, також можна очистити кеш або підказки."
-          }
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "heading",
-          "data": {
-            "text": "Синхронізація"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "Усі дані зберігаються у приватній базі iCloud, доступній лише вам."
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "Синхронізація між пристроями відбувається автоматично."
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "Якщо пам’ять iCloud заповнена, звільніть місце або оновіть тариф."
-          }
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "heading",
-          "data": {
-            "text": "Конфіденційність"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "Дані не передаються третім сторонам, а розробники не мають доступу до ваших записів."
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "Усе зберігається безпечно у вашому Apple ID."
-          }
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "heading",
-          "data": {
-            "text": "Підтримка"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "Для технічних питань або ідей відкрийте Налаштування → Зворотний зв’язок."
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "Також напишіть на офіційну пошту, вказавши модель пристрою, версію iOS та опис проблеми."
-          }
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "Пам’ятайте: застосунок — зручний щоденник прикорму, але не замінює консультацію лікаря."
-          }
+          "title": "AAP — Baby-Led Weaning: Is It Safe?",
+          "url": "https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/baby-led-weaning-is-it-safe.aspx"
         }
       ]
     }

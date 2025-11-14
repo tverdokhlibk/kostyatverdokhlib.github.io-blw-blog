@@ -258,6 +258,28 @@
             "text": "Remember: the app is a handy companion, but it never replaces professional medical consultation."
           }
         }
+      ],
+      "sources": [
+        {
+          "title": "NHS — Your baby’s first solid foods",
+          "url": "https://www.nhs.uk/baby/weaning-and-feeding/babys-first-solid-foods/"
+        },
+        {
+          "title": "Start4Life / UNICEF — Introducing Solid Foods",
+          "url": "https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2008/02/Start4Life-Introducing-Solid-Foods-2015.pdf"
+        },
+        {
+          "title": "ESPGHAN — Complementary Feeding Position Paper",
+          "url": "https://alimentacionysalud.unam.mx/wp-content/uploads/2020/12/Complementary-Feeding_-A-Position-Paper-by-the-European-Society-for-Paediatric-Gastroenterology-Hepatology-and-Nutrition-ESPGHAN-Committee-on-Nutrition.pdf"
+        },
+        {
+          "title": "AAP — Starting Solid Foods handout",
+          "url": "https://18andundermd.com/wp-content/uploads/2020/02/solid-food-introduction-handout.pdf"
+        },
+        {
+          "title": "Allergy UK — Weaning: Introducing Your Baby to Solids",
+          "url": "https://www.allergyuk.org/wp-content/uploads/2022/02/Weaning-%E2%80%93-Introducing-Your-Baby-to-Solids.pdf"
+        }
       ]
     },
     {
@@ -490,6 +512,24 @@
           "data": {
             "text": "Remember: every spoonful is a small discovery, a step toward independence and new sensations."
           }
+        }
+      ],
+      "sources": [
+        {
+          "title": "WHO complementary feeding guidance",
+          "url": "https://www.who.int/publications/i/item/9789240081864"
+        },
+        {
+          "title": "UNICEF Baby Friendly: Start4Life",
+          "url": "https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2008/02/Start4Life-Introducing-Solid-Foods-2015.pdf"
+        },
+        {
+          "title": "EFSA Journal 5780",
+          "url": "https://www.efsa.europa.eu/en/efsajournal/pub/5780"
+        },
+        {
+          "title": "NHS: From around 6 months",
+          "url": "https://www.nhs.uk/best-start-in-life/baby/weaning/what-to-feed-your-baby/from-around-6-months"
         }
       ]
     },
@@ -1341,6 +1381,32 @@
             "text": "The ultimate goal of solids is not just feeding but teaching a child to eat with joy, confidence, and safety ❤️."
           }
         }
+      ],
+      "sources": [
+        {
+          "title": "WHO – Complementary Feeding",
+          "url": "https://www.who.int/health-topics/complementary-feeding"
+        },
+        {
+          "title": "WHO – Continued Breastfeeding",
+          "url": "https://www.who.int/tools/elena/bbc/continued-breastfeeding"
+        },
+        {
+          "title": "NHS – Baby’s First Solid Foods",
+          "url": "https://www.nhs.uk/baby/weaning-and-feeding/babys-first-solid-foods/"
+        },
+        {
+          "title": "NHS – Weaning & Readiness Signs",
+          "url": "https://bedslutonchildrenshealth.nhs.uk/feeding-and-eating/weaning-and-introducing-solid-foods/"
+        },
+        {
+          "title": "UNICEF / Start4Life – Introducing Solid Foods",
+          "url": "https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2008/02/Start4Life-Introducing-Solid-Foods-2015.pdf"
+        },
+        {
+          "title": "AAP – Baby-Led Weaning: Is It Safe?",
+          "url": "https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/baby-led-weaning-is-it-safe.aspx"
+        }
       ]
     },
     {
@@ -1561,250 +1627,16 @@
       },
       "blocks": [
         {
-          "type": "heading",
-          "data": {
-            "text": "Important medical notice"
-          }
+          "title": "HealthyChildren.org",
+          "url": "https://www.healthychildren.org/English/healthy-living/nutrition/Pages/when-to-introduce-egg-peanut-butter-and-other-common-food-allergens-to-your-baby-food-allergy-prevention-tips.aspx"
         },
         {
-          "type": "paragraph",
-          "data": {
-            "text": "The My Feeding app does not replace professional medical advice."
-          }
+          "title": "AAP Pediatrics",
+          "url": "https://publications.aap.org/pediatrics/article/152/5/e2023062836/194356/Updates-in-Food-Allergy-Prevention-in-Children"
         },
         {
-          "type": "paragraph",
-          "data": {
-            "text": "Always consult your pediatrician or allergist before adding new foods, changing the feeding schedule, or responding to symptoms."
-          }
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "heading",
-          "data": {
-            "text": "About the app"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "My Feeding Tracker helps you monitor complementary feeding progress and keep every note tidy."
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "• Track which foods your baby has already tried."
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "• Log reactions, notes, and comments."
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "• Create custom dishes."
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "• Plan meals for a day or an entire week."
-          }
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "heading",
-          "data": {
-            "text": "Main sections"
-          }
-        },
-        {
-          "type": "heading",
-          "data": {
-            "text": "📊 Statistics"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "Gives you a snapshot of recent meals, reactions, and newly introduced foods so you can follow progress."
-          }
-        },
-        {
-          "type": "heading",
-          "data": {
-            "text": "🥣 Products"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "Browse age-appropriate foods, mark the items you have introduced, and add observations."
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "The ⚠️ label marks regulated allergens while ❗ highlights potential sensitivities."
-          }
-        },
-        {
-          "type": "heading",
-          "data": {
-            "text": "🍽️ Menu"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "Plan breakfast, lunch, dinner, or snacks by adding dishes and quick notes."
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "The menu is split into three sections:"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "1. Today."
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "2. Planned meals."
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "3. History."
-          }
-        },
-        {
-          "type": "heading",
-          "data": {
-            "text": "🧾 Custom foods"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "Add your own foods or recipes, including preparation details and notes."
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "Edit or delete them whenever needed."
-          }
-        },
-        {
-          "type": "heading",
-          "data": {
-            "text": "⚙️ Settings"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "Toggle iCloud sync on or off at any time."
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "Use the “Sync Now” button for manual updates, and clear cache or hints when required."
-          }
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "heading",
-          "data": {
-            "text": "Synchronization"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "All information is stored in your private iCloud database and visible only to you."
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "Devices stay up to date automatically."
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "If your iCloud storage is full, free up space or upgrade your plan."
-          }
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "heading",
-          "data": {
-            "text": "Privacy"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "No data is shared with third parties, and developers cannot access your records."
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "Everything stays secure inside your Apple ID."
-          }
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "heading",
-          "data": {
-            "text": "Support"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "For technical questions or ideas, open Settings → Feedback."
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "You can also email support with your device model, iOS version, and issue description."
-          }
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "Remember: the app is a handy companion, but it never replaces professional medical consultation."
-          }
+          "title": "EFSA: Food allergens",
+          "url": "https://www.efsa.europa.eu/en/safe2eat/food-allergens"
         }
       ]
     }
