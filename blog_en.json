@@ -258,28 +258,6 @@
             "text": "Remember: the app is a handy companion, but it never replaces professional medical consultation."
           }
         }
-      ],
-      "sources": [
-        {
-          "title": "NHS — Your baby’s first solid foods",
-          "url": "https://www.nhs.uk/baby/weaning-and-feeding/babys-first-solid-foods/"
-        },
-        {
-          "title": "Start4Life / UNICEF — Introducing Solid Foods",
-          "url": "https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2008/02/Start4Life-Introducing-Solid-Foods-2015.pdf"
-        },
-        {
-          "title": "ESPGHAN — Complementary Feeding Position Paper",
-          "url": "https://alimentacionysalud.unam.mx/wp-content/uploads/2020/12/Complementary-Feeding_-A-Position-Paper-by-the-European-Society-for-Paediatric-Gastroenterology-Hepatology-and-Nutrition-ESPGHAN-Committee-on-Nutrition.pdf"
-        },
-        {
-          "title": "AAP — Starting Solid Foods handout",
-          "url": "https://18andundermd.com/wp-content/uploads/2020/02/solid-food-introduction-handout.pdf"
-        },
-        {
-          "title": "Allergy UK — Weaning: Introducing Your Baby to Solids",
-          "url": "https://www.allergyuk.org/wp-content/uploads/2022/02/Weaning-%E2%80%93-Introducing-Your-Baby-to-Solids.pdf"
-        }
       ]
     },
     {
@@ -898,6 +876,28 @@
           "data": {
             "text": "Above all, stay calm, unhurried, and caring. Every new spoonful is your baby's step into the big world of family meals."
           }
+        }
+      ],
+      "sources": [
+        {
+          "title": "NHS — Your baby’s first solid foods",
+          "url": "https://www.nhs.uk/baby/weaning-and-feeding/babys-first-solid-foods/"
+        },
+        {
+          "title": "Start4Life / UNICEF — Introducing Solid Foods",
+          "url": "https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2008/02/Start4Life-Introducing-Solid-Foods-2015.pdf"
+        },
+        {
+          "title": "ESPGHAN — Complementary Feeding Position Paper",
+          "url": "https://alimentacionysalud.unam.mx/wp-content/uploads/2020/12/Complementary-Feeding_-A-Position-Paper-by-the-European-Society-for-Paediatric-Gastroenterology-Hepatology-and-Nutrition-ESPGHAN-Committee-on-Nutrition.pdf"
+        },
+        {
+          "title": "AAP — Starting Solid Foods handout",
+          "url": "https://18andundermd.com/wp-content/uploads/2020/02/solid-food-introduction-handout.pdf"
+        },
+        {
+          "title": "Allergy UK — Weaning: Introducing Your Baby to Solids",
+          "url": "https://www.allergyuk.org/wp-content/uploads/2022/02/Weaning-%E2%80%93-Introducing-Your-Baby-to-Solids.pdf"
         }
       ]
     },
