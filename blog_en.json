@@ -1,8 +1,275 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2025-11-05T12:00:00Z",
+  "updatedAt": "2025-02-20T12:00:00Z",
   "language": "en",
   "articles": [
+    {
+      "id": "b6dd27cc-8a79-4d12-a609-6bc0afd4f1b9",
+      "title": "How to Use the “My Feeding” App",
+      "teaser": "Tour the main sections of the My Feeding Tracker app and keep baby-led weaning notes in order.",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/app.webp",
+        "caption": "My Feeding app interface"
+      },
+      "blocks": [
+        {
+          "type": "heading",
+          "data": {
+            "text": "Important medical notice"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "The My Feeding app does not replace professional medical advice."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Always consult your pediatrician or allergist before adding new foods, changing the feeding schedule, or responding to symptoms."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "About the app"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "My Feeding Tracker helps you monitor complementary feeding progress and keep every note tidy."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Track which foods your baby has already tried."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Log reactions, notes, and comments."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Create custom dishes."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Plan meals for a day or an entire week."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Main sections"
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "📊 Statistics"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Gives you a snapshot of recent meals, reactions, and newly introduced foods so you can follow progress."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "🥣 Products"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Browse age-appropriate foods, mark the items you have introduced, and add observations."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "The ⚠️ label marks regulated allergens while ❗ highlights potential sensitivities."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "🍽️ Menu"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Plan breakfast, lunch, dinner, or snacks by adding dishes and quick notes."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "The menu is split into three sections:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "1. Today."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "2. Planned meals."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "3. History."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "🧾 Custom foods"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Add your own foods or recipes, including preparation details and notes."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Edit or delete them whenever needed."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "⚙️ Settings"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Toggle iCloud sync on or off at any time."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Use the “Sync Now” button for manual updates, and clear cache or hints when required."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Synchronization"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "All information is stored in your private iCloud database and visible only to you."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Devices stay up to date automatically."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "If your iCloud storage is full, free up space or upgrade your plan."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Privacy"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "No data is shared with third parties, and developers cannot access your records."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Everything stays secure inside your Apple ID."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Support"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "For technical questions or ideas, open Settings → Feedback."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "You can also email support with your device model, iOS version, and issue description."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Remember: the app is a handy companion, but it never replaces professional medical consultation."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "American Academy of Pediatrics — Starting Solids",
+          "url": "https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Starting-Solid-Foods.aspx"
+        },
+        {
+          "title": "WHO: Complementary feeding guidance",
+          "url": "https://www.who.int/publications-detail-redirect/9789241597494"
+        }
+      ]
+    },
     {
       "id": "93e877d3-7695-4cbe-a066-06171c6d48f1",
       "title": "Introducing Allergens During Baby’s Weaning",
