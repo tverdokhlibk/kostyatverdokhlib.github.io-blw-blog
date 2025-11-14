@@ -1616,29 +1616,6 @@
           "url": "https://www.efsa.europa.eu/en/safe2eat/food-allergens"
         }
       ]
-    },
-    {
-      "id": "b6dd27cc-8a79-4d12-a609-6bc0afd4f1b9",
-      "title": "How to Use the “My Feeding” App",
-      "teaser": "Tour the main sections of the My Feeding Tracker app and keep baby-led weaning notes in order.",
-      "cover": {
-        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/app.webp",
-        "caption": "My Feeding app interface"
-      },
-      "blocks": [
-        {
-          "title": "HealthyChildren.org",
-          "url": "https://www.healthychildren.org/English/healthy-living/nutrition/Pages/when-to-introduce-egg-peanut-butter-and-other-common-food-allergens-to-your-baby-food-allergy-prevention-tips.aspx"
-        },
-        {
-          "title": "AAP Pediatrics",
-          "url": "https://publications.aap.org/pediatrics/article/152/5/e2023062836/194356/Updates-in-Food-Allergy-Prevention-in-Children"
-        },
-        {
-          "title": "EFSA: Food allergens",
-          "url": "https://www.efsa.europa.eu/en/safe2eat/food-allergens"
-        }
-      ]
     }
   ]
 }
