@@ -258,28 +258,6 @@
             "text": "Пам’ятайте: застосунок — зручний щоденник прикорму, але не замінює консультацію лікаря."
           }
         }
-      ],
-      "sources": [
-        {
-          "title": "NHS — перші тверді продукти малюка",
-          "url": "https://www.nhs.uk/baby/weaning-and-feeding/babys-first-solid-foods/"
-        },
-        {
-          "title": "Start4Life / UNICEF — Introducing Solid Foods",
-          "url": "https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2008/02/Start4Life-Introducing-Solid-Foods-2015.pdf"
-        },
-        {
-          "title": "ESPGHAN — Complementary Feeding Position Paper",
-          "url": "https://alimentacionysalud.unam.mx/wp-content/uploads/2020/12/Complementary-Feeding_-A-Position-Paper-by-the-European-Society-for-Paediatric-Gastroenterology-Hepatology-and-Nutrition-ESPGHAN-Committee-on-Nutrition.pdf"
-        },
-        {
-          "title": "AAP — Starting Solid Foods (handout)",
-          "url": "https://18andundermd.com/wp-content/uploads/2020/02/solid-food-introduction-handout.pdf"
-        },
-        {
-          "title": "Allergy UK — Weaning guide",
-          "url": "https://www.allergyuk.org/wp-content/uploads/2022/02/Weaning-%E2%80%93-Introducing-Your-Baby-to-Solids.pdf"
-        }
       ]
     },
     {
@@ -1142,6 +1120,28 @@
           "data": {
             "text": "Найголовніше — робіть усе спокійно, без поспіху, з любов'ю й турботою. Кожна нова ложечка — це крок дитини у великий світ дорослого харчування."
           }
+        }
+      ],
+      "sources": [
+        {
+          "title": "NHS — перші тверді продукти малюка",
+          "url": "https://www.nhs.uk/baby/weaning-and-feeding/babys-first-solid-foods/"
+        },
+        {
+          "title": "Start4Life / UNICEF — Introducing Solid Foods",
+          "url": "https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2008/02/Start4Life-Introducing-Solid-Foods-2015.pdf"
+        },
+        {
+          "title": "ESPGHAN — Complementary Feeding Position Paper",
+          "url": "https://alimentacionysalud.unam.mx/wp-content/uploads/2020/12/Complementary-Feeding_-A-Position-Paper-by-the-European-Society-for-Paediatric-Gastroenterology-Hepatology-and-Nutrition-ESPGHAN-Committee-on-Nutrition.pdf"
+        },
+        {
+          "title": "AAP — Starting Solid Foods (handout)",
+          "url": "https://18andundermd.com/wp-content/uploads/2020/02/solid-food-introduction-handout.pdf"
+        },
+        {
+          "title": "Allergy UK — Weaning guide",
+          "url": "https://www.allergyuk.org/wp-content/uploads/2022/02/Weaning-%E2%80%93-Introducing-Your-Baby-to-Solids.pdf"
         }
       ]
     },
