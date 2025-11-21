@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2025-02-20T12:00:00Z",
+  "updatedAt": "2025-05-22T00:00:00Z",
   "language": "uk",
   "articles": [
     {
@@ -1624,9 +1624,9 @@
           "data": {
             "text": "Адже головне завдання прикорму — не просто нагодувати, а навчити їсти з насолодою, впевненістю і безпекою ❤️."
           }
-        }      ],
+        }
+      ],
       "sources": [
-
         {
           "title": "ВООЗ — Complementary Feeding",
           "url": "https://www.who.int/health-topics/complementary-feeding"
@@ -1650,6 +1650,200 @@
         {
           "title": "AAP — Baby-Led Weaning: Is It Safe?",
           "url": "https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/baby-led-weaning-is-it-safe.aspx"
+        }
+      ]
+    },
+    {
+      "id": "3060fbac-99a6-44e0-89c3-92ad58ce048a",
+      "title": "Заборонені продукти для дітей: до 1 року, до 3 років, до 5 років",
+      "teaser": "Повний гід для батьків про небезпечні продукти за віком і причини, чому їх не варто давати.",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/zaboroneni-produkty.webp",
+        "caption": "Заборонені продукти для дітей різного віку"
+      },
+      "blocks": [
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Раціон маленької дитини має бути безпечним і збалансованим. У різному віці організм по-різному реагує на продукти, тому важливо знати, що заборонено і чому."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "До 1 року"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Мед.** Може містити спори ботулізму, небезпечні навіть у невеликих кількостях."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Сіль і солоні продукти.** Нирки немовляти не готові до надлишку натрію, тому уникайте солоних сирів, ковбас, консервів чи соусів."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Цукор і солодощі.** Підвищують ризик карієсу й ожиріння та формують нездорові смакові звички."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Цілі горіхи та насіння.** Дуже високий ризик задухи."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Коров’яче молоко як основний напій.** Забагато білка й натрію та мало заліза → ризик анемії; використовуйте лише для приготування страв."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Риба з високим вмістом ртуті.** Акула, меч-риба, марлін можуть шкодити нервовій системі."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Сирі або недоварені яйця, м’ясо, риба.** Є ризик сальмонельозу та інших інфекцій."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Соки та солодкі напої.** Викликають діарею, шкодять емалі та перевантажують підшлункову."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Від 1 до 3 років"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Менше солі, цукру та жирної їжі.** Перевантажують нирки й зуби; уникайте ковбас, сосисок, фастфуду, магазинних соусів, солодких йогуртів і напоїв."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Соки, газовані напої, нектари.** Занадто багато цукру — шкодять печінці та зубам."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Попкорн, цілі виногради, тверді шматки моркви.** Один із найвищих ризиків задухи; виноград лише розрізаним уздовж."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Рослинні рисові напої.** Можуть містити підвищений рівень миш’яку."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **М’ясні вироби з великою кількістю солі та консервантів.** Ковбаси, шинка, сосиски містять нітрити та надлишок солі."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Від 3 до 5 років"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Цілі горіхи та насіння.** Можуть застрягнути в дихальних шляхах навіть у 4–5 років; давайте у вигляді паст чи перемеленими без цукру."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Попкорн, тверді льодяники, карамель.** Дуже високий ризик задухи."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Продукти з надлишком солі, цукру та жирів.** Сприяють ожирінню, діабету й карієсу; це чипси, снеки, печиво, пончики, фастфуд."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Газовані напої та енергетики.** Багато цукру й кофеїну, шкодять зубам і нервовій системі."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Жорстка або кругла їжа.** Може перекрити дихальні шляхи: цілі помідори черрі, виногради, тверді сирі овочі."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Джерела"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• WHO — Complementary Feeding: https://www.who.int/health-topics/complementary-feeding"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• NHS — Foods to Avoid Giving Babies and Young Children: https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• UNICEF / Start4Life — Introducing Solid Foods: https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2008/02/Start4Life-Introducing-Solid-Foods-2015.pdf"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• UK GOV — Feeding Young Children (1–5 years): https://www.gov.uk/government/publications/sacn-report-feeding-young-children-aged-1-to-5-years"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Healthy Eating Research — Infant & Toddler Feeding Guidelines: https://healthyeatingresearch.org/tips-for-families/ages-0-2-feeding-recommendations/"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Early Years Foundation Stage – Choking Hazard Table: https://www.foundationyears.org.uk/files/2021/09/Early-Years-Choking-Hazards-Table_FINAL_21-Sept-2021.pdf"
+          }
         }
       ]
     }
