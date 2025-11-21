@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2025-02-20T12:00:00Z",
+  "updatedAt": "2025-05-29T00:00:00Z",
   "language": "ru",
   "articles": [
     {
@@ -1652,6 +1652,388 @@
           "url": "https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/baby-led-weaning-is-it-safe.aspx"
         }
       ]
+    },
+    {
+      "id": "d9ec8933-b7a1-43fc-99b5-fac9f69e7c13",
+      "title": "Запрещённые продукты для детей: до 1 года, до 3 лет, до 5 лет",
+      "teaser": "Полное руководство для родителей о продуктах, которые нельзя давать детям разного возраста, и почему они опасны.",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/zaboroneni-produkty.webp",
+        "caption": "Запрещённые продукты для детей разных возрастов"
+      },
+      "blocks": [
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Рацион маленьких детей должен быть безопасным и соответствовать возрасту. Разные продукты могут быть опасными из-за риска удушья, токсинов или нагрузки на незрелые органы."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "До 1 года"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Мёд.** Может содержать споры ботулизма, опасные даже в малых дозах."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Соль и солёные продукты.** Почки младенца не справляются с избытком натрия; избегайте солёных сыров, колбас, консервов и соусов."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Сахар и сладости.** Повышают риск кариеса и ожирения, формируют нездоровые привычки."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Целые орехи и семечки.** Очень высокий риск удушья."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Коровье молоко как основной напиток.** Слишком много белка и натрия, мало железа → риск анемии; используйте только в блюдах."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Рыба с высоким содержанием ртути.** Акула, марлин, меч-рыба опасны для развития нервной системы."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Сырые или недоваренные яйца, мясо, рыба.** Риск сальмонеллы и других инфекций."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Соки и сладкие напитки.** Перегружают поджелудочную, вызывают диарею и повреждают эмаль."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "От 1 до 3 лет"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Соль, сахар и жирные продукты.** Вредят зубам и почкам; избегайте колбас, сосисок, фастфуда, магазинных соусов, сладких йогуртов и напитков."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Соки, газировка, нектары.** Очень много сахара — сильная нагрузка на печень и зубы."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Попкорн, целый виноград, куски сырой моркови.** Один из самых опасных продуктов для удушья; виноград только разрезанным вдоль."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Рисовые растительные напитки.** Могут содержать повышенный уровень мышьяка."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Солёные и копчёные мясные изделия.** Много соли и нитритов в колбасах, ветчине и сосисках."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "От 3 до 5 лет"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Целые орехи и семечки.** Могут застрять в дыхательных путях даже в 4–5 лет; давайте только пасты или измельчённые орехи без сахара."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Попкорн, твёрдые леденцы, карамель.** Очень высокий риск удушья."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Еда с избытком сахара, соли и жиров.** Повышает риск ожирения, диабета и кариеса; это чипсы, снеки, пончики, сладкое печенье и фастфуд."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Газировка и энергетики.** Много сахара и кофеина — вредят зубам и нервной системе."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Твёрдая или округлая пища.** Может перекрыть дыхательные пути: целые помидоры черри, виноград, куски сырой моркови."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Источники"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• WHO — Complementary Feeding: https://www.who.int/health-topics/complementary-feeding"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• NHS — Foods to Avoid Giving Babies and Young Children: https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• UNICEF / Start4Life — Introducing Solid Foods: https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2008/02/Start4Life-Introducing-Solid-Foods-2015.pdf"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• UK GOV — Feeding Young Children (1–5 years): https://www.gov.uk/government/publications/sacn-report-feeding-young-children-aged-1-to-5-years"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Healthy Eating Research — Infant & Toddler Feeding Guidelines: https://healthyeatingresearch.org/tips-for-families/ages-0-2-feeding-recommendations/"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Early Years Foundation Stage – Choking Hazard Table: https://www.foundationyears.org.uk/files/2021/09/Early-Years-Choking-Hazards-Table_FINAL_21-Sept-2021.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Частота приемов пищи и порции при введении прикорма",
+      "teaser": "Рекомендации по количеству приемов пищи, размерам порций и интервалам согласно ВОЗ, NHS, AAP и Health Canada.",
+      "blocks": [
+        {
+          "type": "heading",
+          "data": {
+            "text": "Когда начинать прикорм и как часто давать еду"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Международные рекомендации указывают на необходимость начинать прикорм примерно в шесть месяцев при наличии признаков готовности. В начале достаточно одного приема пищи в день небольшим количеством. Основным источником питания остаётся грудное молоко или смесь."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Количество приемов пищи по возрасту"
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "6–8 месяцев"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Рекомендуется 2–3 приема твердой пищи в день. Между ними остаётся грудное вскармливание или смесь. Еда должна быть мягкой или в виде безопасных кусочков."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "9–11 месяцев"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Рекомендуется 3–4 приема пищи в день. Допустимы один-два лёгких перекуса при необходимости. Рацион становится разнообразнее."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "12 месяцев и старше"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Рекомендуются три основных приёма пищи и два перекуса. Ребёнок постепенно переходит на семейную еду, а молоко перестаёт быть основным источником калорий."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Рекомендованные порции"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "6–8 месяцев: овощи и фрукты — 2–3 столовые ложки, каши — 2–4 столовые ложки, белковые продукты — 1–2 чайные ложки."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "9–11 месяцев: овощи и фрукты — от четверти до половины чашки, каши — от четверти до половины чашки, мясо или бобовые — 2–4 столовые ложки."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "12–24 месяца: овощи и фрукты — половина чашки, каши — половина чашки, мясо — 3–4 столовые ложки, молочные продукты — полчашки йогурта или 20–30 г сыра."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Интервалы между приёмами пищи"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Оптимальными считаются интервалы от двух с половиной до трёх с половиной часов. Это поддерживает стабильный аппетит и предотвращает переедание."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Как понять, что ребёнок наелся"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "К признакам сытости относятся отворачивание головы, закрывание рта и снижение интереса. К признакам голода — тянущееся движение к еде, открывание рта и сохранение интереса."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Жидкость во время прикорма"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "После шести месяцев можно давать небольшое количество воды во время еды. Вода не заменяет молоко или смесь."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Когда обращаться к врачу"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Рекомендуется консультация, если ребёнок плохо набирает вес, отказывается от твёрдой пищи, имеет повторные реакции на продукты или хронические заболевания."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Итог"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Прикорм следует начинать после шести месяцев и постепенно увеличивать количество приемов пищи. Порции должны быть небольшими, а интервалы — регулярными. Основой процесса является постепенность и учёт потребностей ребёнка."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Источники"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• WHO – Complementary Feeding: https://www.who.int/health-topics/complementary-feeding"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• WHO – Guiding Principles for Complementary Feeding: https://www.who.int/publications/i/item/9241593431"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• NHS – Your baby’s first solid foods: https://www.nhs.uk/conditions/baby/weaning-and-feeding/"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• American Academy of Pediatrics – Starting Solid Foods: https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Starting-Solid-Foods.aspx"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Health Canada – Infant Feeding: https://www.canada.ca/en/health-canada/services/infant-care/infant-feeding.html"
+          }
+        }
+      ],
+      "id": "900b71ec-334a-40a3-835f-d742047d9ede",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/pryiomy-yizhi.webp",
+        "caption": "График кормлений и порций при введении прикорма"
+      }
     }
   ]
 }

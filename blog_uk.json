@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2025-02-20T12:00:00Z",
+  "updatedAt": "2025-05-29T00:00:00Z",
   "language": "uk",
   "articles": [
     {
@@ -1624,9 +1624,9 @@
           "data": {
             "text": "Адже головне завдання прикорму — не просто нагодувати, а навчити їсти з насолодою, впевненістю і безпекою ❤️."
           }
-        }      ],
+        }
+      ],
       "sources": [
-
         {
           "title": "ВООЗ — Complementary Feeding",
           "url": "https://www.who.int/health-topics/complementary-feeding"
@@ -1652,6 +1652,388 @@
           "url": "https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/baby-led-weaning-is-it-safe.aspx"
         }
       ]
+    },
+    {
+      "id": "3060fbac-99a6-44e0-89c3-92ad58ce048a",
+      "title": "Заборонені продукти для дітей: до 1 року, до 3 років, до 5 років",
+      "teaser": "Повний гід для батьків про небезпечні продукти за віком і причини, чому їх не варто давати.",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/zaboroneni-produkty.webp",
+        "caption": "Заборонені продукти для дітей різного віку"
+      },
+      "blocks": [
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Раціон маленької дитини має бути безпечним і збалансованим. У різному віці організм по-різному реагує на продукти, тому важливо знати, що заборонено і чому."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "До 1 року"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Мед.** Може містити спори ботулізму, небезпечні навіть у невеликих кількостях."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Сіль і солоні продукти.** Нирки немовляти не готові до надлишку натрію, тому уникайте солоних сирів, ковбас, консервів чи соусів."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Цукор і солодощі.** Підвищують ризик карієсу й ожиріння та формують нездорові смакові звички."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Цілі горіхи та насіння.** Дуже високий ризик задухи."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Коров’яче молоко як основний напій.** Забагато білка й натрію та мало заліза → ризик анемії; використовуйте лише для приготування страв."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Риба з високим вмістом ртуті.** Акула, меч-риба, марлін можуть шкодити нервовій системі."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Сирі або недоварені яйця, м’ясо, риба.** Є ризик сальмонельозу та інших інфекцій."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Соки та солодкі напої.** Викликають діарею, шкодять емалі та перевантажують підшлункову."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Від 1 до 3 років"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Менше солі, цукру та жирної їжі.** Перевантажують нирки й зуби; уникайте ковбас, сосисок, фастфуду, магазинних соусів, солодких йогуртів і напоїв."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Соки, газовані напої, нектари.** Занадто багато цукру — шкодять печінці та зубам."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Попкорн, цілі виногради, тверді шматки моркви.** Один із найвищих ризиків задухи; виноград лише розрізаним уздовж."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Рослинні рисові напої.** Можуть містити підвищений рівень миш’яку."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **М’ясні вироби з великою кількістю солі та консервантів.** Ковбаси, шинка, сосиски містять нітрити та надлишок солі."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Від 3 до 5 років"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Цілі горіхи та насіння.** Можуть застрягнути в дихальних шляхах навіть у 4–5 років; давайте у вигляді паст чи перемеленими без цукру."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Попкорн, тверді льодяники, карамель.** Дуже високий ризик задухи."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Продукти з надлишком солі, цукру та жирів.** Сприяють ожирінню, діабету й карієсу; це чипси, снеки, печиво, пончики, фастфуд."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Газовані напої та енергетики.** Багато цукру й кофеїну, шкодять зубам і нервовій системі."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• **Жорстка або кругла їжа.** Може перекрити дихальні шляхи: цілі помідори черрі, виногради, тверді сирі овочі."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Джерела"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• WHO — Complementary Feeding: https://www.who.int/health-topics/complementary-feeding"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• NHS — Foods to Avoid Giving Babies and Young Children: https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• UNICEF / Start4Life — Introducing Solid Foods: https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2008/02/Start4Life-Introducing-Solid-Foods-2015.pdf"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• UK GOV — Feeding Young Children (1–5 years): https://www.gov.uk/government/publications/sacn-report-feeding-young-children-aged-1-to-5-years"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Healthy Eating Research — Infant & Toddler Feeding Guidelines: https://healthyeatingresearch.org/tips-for-families/ages-0-2-feeding-recommendations/"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Early Years Foundation Stage – Choking Hazard Table: https://www.foundationyears.org.uk/files/2021/09/Early-Years-Choking-Hazards-Table_FINAL_21-Sept-2021.pdf"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Кількість прийомів їжі та порції під час прикорму",
+      "teaser": "Рекомендації щодо частоти годувань, обсягів порцій та інтервалів згідно з ВООЗ, NHS, AAP та Health Canada.",
+      "blocks": [
+        {
+          "type": "heading",
+          "data": {
+            "text": "Коли починати прикорм і як часто давати їжу"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Міжнародні рекомендації узгоджено вказують, що прикорм варто розпочинати приблизно у шість місяців, коли дитина проявляє ознаки готовності. На початковому етапі достатньо одного прийому їжі на день у дуже малому обсязі. Основним джерелом харчування залишається грудне молоко або адаптована суміш."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Кількість прийомів їжі за віком"
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "6–8 місяців"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Рекомендовано 2–3 прийоми твердої їжі на день. Між ними зберігається грудне вигодовування або годування сумішшю. Їжа має бути м’якої консистенції або у формі безпечних шматочків."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "9–11 місяців"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Рекомендовано 3–4 прийоми їжі на день. За потреби можна додавати один-два легких перекуси. Меню стає різноманітнішим, дозволяється більшість продуктів відповідної текстури."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "12 місяців і старше"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Рекомендовано три основні прийоми їжі та два перекуси. Дитина поступово переходить на сімейну їжу, а молоко вже не є основним джерелом калорій."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Рекомендовані порції"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "6–8 місяців: овочі та фрукти — 2–3 столові ложки, каші — 2–4 столові ложки, білкові продукти — 1–2 чайні ложки. Поступово об’єм може збільшуватися до чверті склянки."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "9–11 місяців: овочі та фрукти — від чверті до половини склянки, каші — від чверті до половини склянки, м’ясо або бобові — 2–4 столові ложки."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "12–24 місяці: овочі та фрукти — половина склянки, каші — половина склянки, м’ясо — 3–4 столові ложки, молочні продукти — половина склянки йогурту або 20–30 г сиру."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Інтервали між прийомами їжі"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Оптимальні інтервали становлять у середньому від двох з половиною до трьох з половиною годин. Це забезпечує стабільний апетит і запобігає переїданню."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Як зрозуміти, чи дитина наїлася"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Батькам важливо орієнтуватися на поведінкові сигнали. Ознаками ситості є відвертання голови, закривання рота, втрата інтересу до їжі. Ознаками голоду є тягнення до їжі, відкривання рота перед ложкою, збереження інтересу до їжі."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Рідина під час прикорму"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Після шести місяців дозволено пропонувати невелику кількість води під час прийомів їжі. Вода не замінює грудне молоко або суміш."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Коли звертатися до лікаря"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Рекомендована консультація лікаря, якщо дитина погано додає у вазі, відмовляється від твердої їжі, має повторні реакції на продукти або хронічні захворювання."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Підсумок"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Починати прикорм варто після шести місяців та поступово збільшувати кількість прийомів їжі. Порції мають бути невеликими, а інтервали — регулярними. Головним принципом є поступовість та орієнтація на потреби дитини."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Джерела"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• WHO – Complementary Feeding: https://www.who.int/health-topics/complementary-feeding"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• WHO – Guiding Principles for Complementary Feeding: https://www.who.int/publications/i/item/9241593431"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• NHS – Your baby’s first solid foods: https://www.nhs.uk/conditions/baby/weaning-and-feeding/"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• American Academy of Pediatrics – Starting Solid Foods: https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Starting-Solid-Foods.aspx"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Health Canada – Infant Feeding: https://www.canada.ca/en/health-canada/services/infant-care/infant-feeding.html"
+          }
+        }
+      ],
+      "id": "3caa1aec-237f-4261-9c07-4b1e662f384b",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/pryiomy-yizhi.webp",
+        "caption": "Графік прикорму та порцій для немовлят"
+      }
     }
   ]
 }
