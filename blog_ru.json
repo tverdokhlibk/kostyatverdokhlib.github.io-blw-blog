@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2025-05-29T00:00:00Z",
+  "updatedAt": "2025-06-01T00:00:00Z",
   "language": "ru",
   "articles": [
     {
@@ -1996,6 +1996,292 @@
         {
           "title": "Health Canada – Infant Feeding",
           "url": "https://www.canada.ca/en/health-canada/services/infant-care/infant-feeding.html"
+        }
+      ]
+    },
+    {
+      "id": "eb4ef395-5e56-40db-8f9a-000f2b241cad",
+      "title": "Бренд HEORSHE: инновационный подход к кормлению и прикорму",
+      "teaser": "Бутылочки, поильники и силиконовая посуда, созданные для естественного кормления и самостоятельности ребёнка.",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/Heorshe-1.jpeg",
+        "caption": "Бутылочки и аксессуары HEORSHE для комфортного кормления"
+      },
+      "blocks": [
+        {
+          "type": "heading",
+          "data": {
+            "text": "Бренд HEORSHE: инновационный подход к кормлению и прикорму"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "HEORSHE создаёт продукты нового поколения для кормления и обучения ребёнка самостоятельности. Дизайн основан на анатомии малышей и современных технологиях, чтобы переход между грудью, бутылочкой и самостоятельным приёмом пищи был естественным и безопасным."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Официальная линейка доступна в магазине DarlingBaby с оплатой картой «Пакет малыша» и представлена в Instagram магазина."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Бутылочки HEORSHE: естественное кормление и защита от колик"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Бутылочки с анатомической силиконовой соской Natural Feeding максимально приближают кормление к грудному и помогают ребёнку сохранять привычный темп сосания."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Основные характеристики бутылочек"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Анатомическая текстура «I Feel Mummy», напоминающая кожу мамы."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Anti-Colic конструкция уменьшает заглатывание воздуха."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Мягкий и гибкий силиконовый корпус для комфортного хвата."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Ультраширокое горлышко 65 мм — удобно мыть рукой."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Dust-Proof Cap не касается соски и защищает её от пыли."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Безопасные материалы: медицинский пластик и 100% силикон без BPA."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Два объёма: 160 мл (0–3 мес.) и 240 мл (6+ мес.)."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Поильники-непроливайки HEORSHE"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Поильники созданы с учётом развития зубов и формирования правильных привычек питья — их можно использовать в любом положении."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Что делает поильники удобными"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• First Teeth Protect Design: «крылышки» на носике уменьшают давление на зубы."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Dual-Vent Anti-Colic — двойной клапан для равномерного давления."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Мягкий носик (210 мл) подходит для первого питья."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Утяжелённая трубочка 360° (300 мл) позволяет пить под любым углом."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Материалы PPSU + силикон не мутнеют и не впитывают запахи."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Эргономичный корпус лёгок для маленьких рук."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Силиконовая посуда HEORSHE — комфорт во время прикорма"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Наборы из пищевого силикона помогают ребёнку есть самостоятельно, сочетая стильный вид и функциональность."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Особенности силиконовой посуды"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Ripple Feeding Set имеет дизайн, напоминающий взрослую посуду."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• All-in-One Feeding Set включает разделённую тарелку, миску с присоской, стаканчик и трубочку."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Elegant Hammered Design сочетает глянец и фактурность."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• 100% пищевой силикон без BPA, Latex, Lead и Phthalates."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Мощные присоски на тарелках и мисках удерживают посуду на столе."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Гладкие поверхности легко мыть, совместимы со стерилизацией."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Дополнительные аксессуары HEORSHE"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Сменные насадки и соски для бутылочек."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Трубочки, щёточки и удобные крышки для поильников."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Тренировочные приборы (ложка, вилка, pre-spoon) и силиконовые слюнявчики."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Держатели для пустышек и прорезывателей, наборы детских бутылочек и силиконовых ложек."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Где купить HEORSHE?"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Весь ассортимент HEORSHE можно найти в магазине DarlingBaby с доставкой и консультацией для родителей."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• DarlingBaby: https://darlingbaby.com.ua/heorshe/1082/ (оплата картой «Пакет малыша» доступна)."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Instagram магазина: https://www.instagram.com/darlingbaby.ua/"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• HEORSHE Official: https://www.heorshe.com/"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "Instagram @darlingbaby.ua",
+          "url": "https://www.instagram.com/darlingbaby.ua/"
+        },
+        {
+          "title": "DarlingBaby",
+          "url": "https://darlingbaby.com.ua/heorshe/1082/"
+        },
+        {
+          "title": "HEORSHE Official",
+          "url": "https://www.heorshe.com/"
         }
       ]
     }
