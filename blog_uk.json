@@ -2260,24 +2260,6 @@
             "text": "Увесь асортимент HEORSHE можна знайти в магазині DarlingBaby з доставкою та консультацією для батьків."
           }
         },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "• DarlingBaby: https://darlingbaby.com.ua/heorshe/1082/ (оплата карткою «Пакунок малюка» доступна)."
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "• Instagram магазину: https://www.instagram.com/darlingbaby.ua/"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "• HEORSHE Official: https://www.heorshe.com/"
-          }
-        }
       ],
       "sources": [
         {
@@ -2285,11 +2267,11 @@
           "url": "https://www.instagram.com/darlingbaby.ua/"
         },
         {
-          "title": "DarlingBaby",
+          "title": "DarlingBaby - Сайт інтернет-магазину",
           "url": "https://darlingbaby.com.ua/heorshe/1082/"
         },
         {
-          "title": "HEORSHE Official",
+          "title": "HEORSHE Official World",
           "url": "https://www.heorshe.com/"
         }
       ]
