@@ -1,7 +1,6 @@
 {
   "schemaVersion": 1,
   "updatedAt": "2025-05-29T00:00:00Z",
-
   "language": "en",
   "articles": [
     {
@@ -1764,51 +1763,32 @@
           "data": {
             "text": "• Hard or round foods. Can block the airway: whole cherry tomatoes, whole grapes, firm raw vegetables."
           }
+        }
+      ],
+      "sources": [
+        {
+          "title": "WHO — Complementary Feeding",
+          "url": "https://www.who.int/health-topics/complementary-feeding"
         },
         {
-          "type": "divider"
+          "title": "NHS — Foods to Avoid Giving Babies and Young Children",
+          "url": "https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/"
         },
         {
-          "type": "heading",
-          "data": {
-            "text": "Sources"
-          }
+          "title": "UNICEF / Start4Life — Introducing Solid Foods",
+          "url": "https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2008/02/Start4Life-Introducing-Solid-Foods-2015.pdf"
         },
         {
-          "type": "paragraph",
-          "data": {
-            "text": "• WHO — Complementary Feeding: https://www.who.int/health-topics/complementary-feeding"
-          }
+          "title": "UK GOV — Feeding Young Children (1–5 years)",
+          "url": "https://www.gov.uk/government/publications/sacn-report-feeding-young-children-aged-1-to-5-years"
         },
         {
-          "type": "paragraph",
-          "data": {
-            "text": "• NHS — Foods to Avoid Giving Babies and Young Children: https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/"
-          }
+          "title": "Healthy Eating Research — Infant & Toddler Feeding Guidelines",
+          "url": "https://healthyeatingresearch.org/tips-for-families/ages-0-2-feeding-recommendations/"
         },
         {
-          "type": "paragraph",
-          "data": {
-            "text": "• UNICEF / Start4Life — Introducing Solid Foods: https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2008/02/Start4Life-Introducing-Solid-Foods-2015.pdf"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "• UK GOV — Feeding Young Children (1–5 years): https://www.gov.uk/government/publications/sacn-report-feeding-young-children-aged-1-to-5-years"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "• Healthy Eating Research — Infant & Toddler Feeding Guidelines: https://healthyeatingresearch.org/tips-for-families/ages-0-2-feeding-recommendations/"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "• Early Years Foundation Stage – Choking Hazard Table: https://www.foundationyears.org.uk/files/2021/09/Early-Years-Choking-Hazards-Table_FINAL_21-Sept-2021.pdf"
-          }
+          "title": "Early Years Foundation Stage – Choking Hazard Table",
+          "url": "https://www.foundationyears.org.uk/files/2021/09/Early-Years-Choking-Hazards-Table_FINAL_21-Sept-2021.pdf"
         }
       ]
     },
@@ -1953,52 +1933,35 @@
           "data": {
             "text": "Complementary feeding should begin after six months with a gradual increase in meal frequency. Portions should remain small and intervals regular. The core principle is gradual progression and responsiveness to the child's needs."
           }
-        },
-        {
-          "type": "divider"
-        },
-        {
-          "type": "heading",
-          "data": {
-            "text": "Sources"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "• WHO – Complementary Feeding: https://www.who.int/health-topics/complementary-feeding"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "• WHO – Guiding Principles for Complementary Feeding: https://www.who.int/publications/i/item/9241593431"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "• NHS – Your baby’s first solid foods: https://www.nhs.uk/conditions/baby/weaning-and-feeding/"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "• American Academy of Pediatrics – Starting Solid Foods: https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Starting-Solid-Foods.aspx"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "• Health Canada – Infant Feeding: https://www.canada.ca/en/health-canada/services/infant-care/infant-feeding.html"
-          }
         }
       ],
       "id": "31d7da57-b214-45e4-981e-7835b5d2e530",
       "cover": {
         "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/pryiomy-yizhi.webp",
         "caption": "Meal schedule and portion sizes for complementary feeding"
-      }
+      },
+      "sources": [
+        {
+          "title": "WHO – Complementary Feeding",
+          "url": "https://www.who.int/health-topics/complementary-feeding"
+        },
+        {
+          "title": "WHO – Guiding Principles for Complementary Feeding",
+          "url": "https://www.who.int/publications/i/item/9241593431"
+        },
+        {
+          "title": "NHS – Your baby’s first solid foods",
+          "url": "https://www.nhs.uk/conditions/baby/weaning-and-feeding/"
+        },
+        {
+          "title": "American Academy of Pediatrics – Starting Solid Foods",
+          "url": "https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Starting-Solid-Foods.aspx"
+        },
+        {
+          "title": "Health Canada – Infant Feeding",
+          "url": "https://www.canada.ca/en/health-canada/services/infant-care/infant-feeding.html"
+        }
+      ]
     }
   ]
 }

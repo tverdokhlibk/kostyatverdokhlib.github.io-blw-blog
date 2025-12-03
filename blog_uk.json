@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2025-05-29T00:00:00Z",
+  "updatedAt": "2025-12-03T00:00:00Z",
   "language": "uk",
   "articles": [
     {
@@ -1799,51 +1799,32 @@
           "data": {
             "text": "• Жорстка або кругла їжа. Може перекрити дихальні шляхи: цілі помідори черрі, виногради, тверді сирі овочі."
           }
+        }
+      ],
+      "sources": [
+        {
+          "title": "WHO — Complementary Feeding",
+          "url": "https://www.who.int/health-topics/complementary-feeding"
         },
         {
-          "type": "divider"
+          "title": "NHS — Foods to Avoid Giving Babies and Young Children",
+          "url": "https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/"
         },
         {
-          "type": "heading",
-          "data": {
-            "text": "Джерела"
-          }
+          "title": "UNICEF / Start4Life — Introducing Solid Foods",
+          "url": "https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2008/02/Start4Life-Introducing-Solid-Foods-2015.pdf"
         },
         {
-          "type": "paragraph",
-          "data": {
-            "text": "• WHO — Complementary Feeding: https://www.who.int/health-topics/complementary-feeding"
-          }
+          "title": "UK GOV — Feeding Young Children (1–5 years)",
+          "url": "https://www.gov.uk/government/publications/sacn-report-feeding-young-children-aged-1-to-5-years"
         },
         {
-          "type": "paragraph",
-          "data": {
-            "text": "• NHS — Foods to Avoid Giving Babies and Young Children: https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/"
-          }
+          "title": "Healthy Eating Research — Infant & Toddler Feeding Guidelines",
+          "url": "https://healthyeatingresearch.org/tips-for-families/ages-0-2-feeding-recommendations/"
         },
         {
-          "type": "paragraph",
-          "data": {
-            "text": "• UNICEF / Start4Life — Introducing Solid Foods: https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2008/02/Start4Life-Introducing-Solid-Foods-2015.pdf"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "• UK GOV — Feeding Young Children (1–5 years): https://www.gov.uk/government/publications/sacn-report-feeding-young-children-aged-1-to-5-years"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "• Healthy Eating Research — Infant & Toddler Feeding Guidelines: https://healthyeatingresearch.org/tips-for-families/ages-0-2-feeding-recommendations/"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "• Early Years Foundation Stage – Choking Hazard Table: https://www.foundationyears.org.uk/files/2021/09/Early-Years-Choking-Hazards-Table_FINAL_21-Sept-2021.pdf"
-          }
+          "title": "Early Years Foundation Stage – Choking Hazard Table",
+          "url": "https://www.foundationyears.org.uk/files/2021/09/Early-Years-Choking-Hazards-Table_FINAL_21-Sept-2021.pdf"
         }
       ]
     },
@@ -1988,45 +1969,28 @@
           "data": {
             "text": "Починати прикорм варто після шести місяців та поступово збільшувати кількість прийомів їжі. Порції мають бути невеликими, а інтервали — регулярними. Головним принципом є поступовість та орієнтація на потреби дитини."
           }
+        }
+      ],
+      "sources": [
+        {
+          "title": "WHO – Complementary Feeding",
+          "url": "https://www.who.int/health-topics/complementary-feeding"
         },
         {
-          "type": "divider"
+          "title": "WHO – Guiding Principles for Complementary Feeding",
+          "url": "https://www.who.int/publications/i/item/9241593431"
         },
         {
-          "type": "heading",
-          "data": {
-            "text": "Джерела"
-          }
+          "title": "NHS – Your baby’s first solid foods",
+          "url": "https://www.nhs.uk/conditions/baby/weaning-and-feeding/"
         },
         {
-          "type": "paragraph",
-          "data": {
-            "text": "• WHO – Complementary Feeding: https://www.who.int/health-topics/complementary-feeding"
-          }
+          "title": "American Academy of Pediatrics – Starting Solid Foods",
+          "url": "https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Starting-Solid-Foods.aspx"
         },
         {
-          "type": "paragraph",
-          "data": {
-            "text": "• WHO – Guiding Principles for Complementary Feeding: https://www.who.int/publications/i/item/9241593431"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "• NHS – Your baby’s first solid foods: https://www.nhs.uk/conditions/baby/weaning-and-feeding/"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "• American Academy of Pediatrics – Starting Solid Foods: https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Starting-Solid-Foods.aspx"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "• Health Canada – Infant Feeding: https://www.canada.ca/en/health-canada/services/infant-care/infant-feeding.html"
-          }
+          "title": "Health Canada – Infant Feeding",
+          "url": "https://www.canada.ca/en/health-canada/services/infant-care/infant-feeding.html"
         }
       ],
       "id": "3caa1aec-237f-4261-9c07-4b1e662f384b",
@@ -2034,6 +1998,292 @@
         "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/pryiomy-yizhi.webp",
         "caption": "Графік прикорму та порцій для немовлят"
       }
+    },
+    {
+      "id": "7c660072-8af0-48fe-b28a-18e448c89f51",
+      "title": "Бренд HEORSHE: інноваційний підхід до годування та прикорму",
+      "teaser": "Пляшечки, поїльники та силіконовий посуд, створені для природного годування й самостійності дитини.",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/Heorshe-1.jpeg",
+        "caption": "Пляшечки та аксесуари HEORSHE для комфортного годування"
+      },
+      "blocks": [
+        {
+          "type": "heading",
+          "data": {
+            "text": "Бренд HEORSHE: інноваційний підхід до годування та прикорму"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "HEORSHE створює товари нового покоління для годування та навчання дитини самостійності. Дизайн базується на анатомії немовлят і сучасних технологіях, щоб перехід між грудьми, пляшечкою та самостійним харчуванням був природним і безпечним."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Офіційна лінійка доступна на DarlingBaby з можливістю оплати карткою «Пакунок малюка», а також представлена в Instagram магазину."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Пляшечки HEORSHE: природне годування та захист від колік"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Пляшечки з анатомічною силіконовою соскою Natural Feeding максимально наближують годування до грудного та допомагають малюку зберігати звичний темп смоктання."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Основні характеристики пляшечок"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Анатомічна текстура «I Feel Mummy», що нагадує мамину шкіру."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Anti-Colic конструкція зменшує заковтування повітря."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• М’який і гнучкий силіконовий корпус для комфортного хвату."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Ультраширока шийка 65 мм — зручно мити рукою."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Dust-Proof Cap не торкається соски та захищає її від пилу."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Безпечні матеріали: медичний пластик і 100% силікон без BPA."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Два об’єми: 160 мл (0–3 міс.) та 240 мл (6+ міс.)."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Поїльники-непроливайки HEORSHE"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Поїльники створені з урахуванням розвитку зубів і формування правильних звичок пиття — їх можна використовувати у будь-якому положенні."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Що робить поїльники зручними"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• First Teeth Protect Design: «крильця» на носику зменшують тиск на зуби."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Dual-Vent Anti-Colic — подвійний клапан для рівномірного тиску."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• М’який носик (210 мл) підходить для першого пиття."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Зважена трубочка 360° (300 мл) дозволяє пити під будь-яким кутом."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Матеріали PPSU + силікон не мутніють і не вбирають запахи."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Ергономічний корпус легкий для маленьких рук."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Силіконовий посуд HEORSHE — комфорт під час прикорму"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Набори з харчового силікону допомагають дитині їсти самостійно, поєднуючи стильний вигляд і функціональність."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Особливості силіконового посуду"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Ripple Feeding Set має дизайн, що нагадує дорослий посуд."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• All-in-One Feeding Set включає поділену тарілку, миску з присоскою, стаканчик і трубочку."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Elegant Hammered Design поєднує глянець і фактурність."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• 100% харчовий силікон без BPA, Latex, Lead та Phthalates."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Потужні присоски на тарілках і мисках утримують посуд на столі."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Гладкі поверхні легко мити, сумісні зі стерилізацією."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Додаткові аксесуари HEORSHE"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Змінні насадки та соски для пляшечок."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Трубочки, щіточки та зручні кришки для поїльників."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Тренувальні прибори (ложка, виделка, pre-spoon) і силіконові слюнявчики."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Тримачі для пустушок і прорізувачів, набори дитячих пляшечок і силіконових ложок."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Де купити HEORSHE?"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Увесь асортимент HEORSHE можна знайти в магазині DarlingBaby з доставкою та консультацією для батьків."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• DarlingBaby: https://darlingbaby.com.ua/heorshe/1082/ (оплата карткою «Пакунок малюка» доступна)."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Instagram магазину: https://www.instagram.com/darlingbaby.ua/"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• HEORSHE Official: https://www.heorshe.com/"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "Instagram @darlingbaby.ua",
+          "url": "https://www.instagram.com/darlingbaby.ua/"
+        },
+        {
+          "title": "DarlingBaby",
+          "url": "https://darlingbaby.com.ua/heorshe/1082/"
+        },
+        {
+          "title": "HEORSHE Official",
+          "url": "https://www.heorshe.com/"
+        }
+      ]
     }
   ]
 }
