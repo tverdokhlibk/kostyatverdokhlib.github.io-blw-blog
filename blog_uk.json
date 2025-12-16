@@ -1799,51 +1799,32 @@
           "data": {
             "text": "• Жорстка або кругла їжа. Може перекрити дихальні шляхи: цілі помідори черрі, виногради, тверді сирі овочі."
           }
+        }
+      ],
+      "sources": [
+        {
+          "title": "WHO — Complementary Feeding",
+          "url": "https://www.who.int/health-topics/complementary-feeding"
         },
         {
-          "type": "divider"
+          "title": "NHS — Foods to Avoid Giving Babies and Young Children",
+          "url": "https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/"
         },
         {
-          "type": "heading",
-          "data": {
-            "text": "Джерела"
-          }
+          "title": "UNICEF / Start4Life — Introducing Solid Foods",
+          "url": "https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2008/02/Start4Life-Introducing-Solid-Foods-2015.pdf"
         },
         {
-          "type": "paragraph",
-          "data": {
-            "text": "• WHO — Complementary Feeding: https://www.who.int/health-topics/complementary-feeding"
-          }
+          "title": "UK GOV — Feeding Young Children (1–5 years)",
+          "url": "https://www.gov.uk/government/publications/sacn-report-feeding-young-children-aged-1-to-5-years"
         },
         {
-          "type": "paragraph",
-          "data": {
-            "text": "• NHS — Foods to Avoid Giving Babies and Young Children: https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/"
-          }
+          "title": "Healthy Eating Research — Infant & Toddler Feeding Guidelines",
+          "url": "https://healthyeatingresearch.org/tips-for-families/ages-0-2-feeding-recommendations/"
         },
         {
-          "type": "paragraph",
-          "data": {
-            "text": "• UNICEF / Start4Life — Introducing Solid Foods: https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2008/02/Start4Life-Introducing-Solid-Foods-2015.pdf"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "• UK GOV — Feeding Young Children (1–5 years): https://www.gov.uk/government/publications/sacn-report-feeding-young-children-aged-1-to-5-years"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "• Healthy Eating Research — Infant & Toddler Feeding Guidelines: https://healthyeatingresearch.org/tips-for-families/ages-0-2-feeding-recommendations/"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "• Early Years Foundation Stage – Choking Hazard Table: https://www.foundationyears.org.uk/files/2021/09/Early-Years-Choking-Hazards-Table_FINAL_21-Sept-2021.pdf"
-          }
+          "title": "Early Years Foundation Stage – Choking Hazard Table",
+          "url": "https://www.foundationyears.org.uk/files/2021/09/Early-Years-Choking-Hazards-Table_FINAL_21-Sept-2021.pdf"
         }
       ]
     },
@@ -1993,40 +1974,32 @@
           "type": "divider"
         },
         {
-          "type": "heading",
-          "data": {
-            "text": "Джерела"
-          }
-        },
-        {
           "type": "paragraph",
           "data": {
-            "text": "• WHO – Complementary Feeding: https://www.who.int/health-topics/complementary-feeding"
+            "text": "Залишайтеся гнучкими: у кожної дитини свої темпи розвитку. Орієнтуйтеся на апетит малюка, пропонуйте їжу в той самий час, але не змушуйте доїдати."
           }
+        }
+      ],
+      "sources": [
+        {
+          "title": "WHO – Complementary Feeding",
+          "url": "https://www.who.int/health-topics/complementary-feeding"
         },
         {
-          "type": "paragraph",
-          "data": {
-            "text": "• WHO – Guiding Principles for Complementary Feeding: https://www.who.int/publications/i/item/9241593431"
-          }
+          "title": "WHO – Guiding Principles for Complementary Feeding",
+          "url": "https://www.who.int/publications/i/item/9241593431"
         },
         {
-          "type": "paragraph",
-          "data": {
-            "text": "• NHS – Your baby’s first solid foods: https://www.nhs.uk/conditions/baby/weaning-and-feeding/"
-          }
+          "title": "NHS – Your baby’s first solid foods",
+          "url": "https://www.nhs.uk/conditions/baby/weaning-and-feeding/"
         },
         {
-          "type": "paragraph",
-          "data": {
-            "text": "• American Academy of Pediatrics – Starting Solid Foods: https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Starting-Solid-Foods.aspx"
-          }
+          "title": "American Academy of Pediatrics – Starting Solid Foods",
+          "url": "https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Starting-Solid-Foods.aspx"
         },
         {
-          "type": "paragraph",
-          "data": {
-            "text": "• Health Canada – Infant Feeding: https://www.canada.ca/en/health-canada/services/infant-care/infant-feeding.html"
-          }
+          "title": "Health Canada – Infant Feeding",
+          "url": "https://www.canada.ca/en/health-canada/services/infant-care/infant-feeding.html"
         }
       ],
       "id": "3caa1aec-237f-4261-9c07-4b1e662f384b",
@@ -2304,33 +2277,20 @@
           "data": {
             "text": "• HEORSHE Official: https://www.heorshe.com/"
           }
+        }
+      ],
+      "sources": [
+        {
+          "title": "Instagram @darlingbaby.ua",
+          "url": "https://www.instagram.com/darlingbaby.ua/"
         },
         {
-          "type": "divider"
+          "title": "DarlingBaby",
+          "url": "https://darlingbaby.com.ua/heorshe/1082/"
         },
         {
-          "type": "heading",
-          "data": {
-            "text": "Джерела"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "• Instagram @darlingbaby.ua — https://www.instagram.com/darlingbaby.ua/"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "• DarlingBaby — https://darlingbaby.com.ua/heorshe/1082/"
-          }
-        },
-        {
-          "type": "paragraph",
-          "data": {
-            "text": "• HEORSHE Official — https://www.heorshe.com/"
-          }
+          "title": "HEORSHE Official",
+          "url": "https://www.heorshe.com/"
         }
       ]
     }

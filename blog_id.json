@@ -1,34 +1,33 @@
 {
   "schemaVersion": 1,
   "updatedAt": "2025-05-29T00:00:00Z",
-
-  "language": "en",
+  "language": "id",
   "articles": [
     {
       "id": "b6dd27cc-8a79-4d12-a609-6bc0afd4f1b9",
-      "title": "How to Use the “My Feeding” App",
-      "teaser": "Tour the main sections of the My Feeding Tracker app and keep baby-led weaning notes in order.",
+      "title": "Cara Menggunakan Aplikasi “MPASI Si Kecil”",
+      "teaser": "Jelajahi bagian utama aplikasi MPASI Si Kecil Tracker dan simpan catatan penyapihan yang dipimpin bayi secara berurutan.",
       "cover": {
         "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/app.webp",
-        "caption": "My Feeding app interface"
+        "caption": "Antarmuka aplikasi MPASI Si Kecil"
       },
       "blocks": [
         {
           "type": "heading",
           "data": {
-            "text": "Important medical notice"
+            "text": "Pemberitahuan medis penting"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "The My Feeding app does not replace professional medical advice."
+            "text": "Aplikasi MPASI Si Kecil tidak menggantikan saran medis profesional."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Always consult your pediatrician or allergist before adding new foods, changing the feeding schedule, or responding to symptoms."
+            "text": "Selalu konsultasikan dengan dokter anak atau ahli alergi Anda sebelum menambahkan makanan baru, mengubah jadwal menyusui, atau merespons gejala."
           }
         },
         {
@@ -37,37 +36,37 @@
         {
           "type": "heading",
           "data": {
-            "text": "About the app"
+            "text": "Tentang aplikasi"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "My Feeding Tracker helps you monitor complementary feeding progress and keep every note tidy."
+            "text": "MPASI Si Kecil Tracker membantu Anda memantau pemberian makanan pendamping ASI kemajuan dan simpan setiap catatan dengan rapi."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Track which foods your baby has already tried."
+            "text": "• Lacak makanan mana yang sudah dicoba bayi Anda."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Log reactions, notes, and comments."
+            "text": "• Catat reaksi, catatan, dan komentar."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Create custom dishes."
+            "text": "• Buat hidangan khusus."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Plan meals for a day or an entire week."
+            "text": "• Rencanakan makanan untuk sehari atau seminggu penuh."
           }
         },
         {
@@ -76,37 +75,37 @@
         {
           "type": "heading",
           "data": {
-            "text": "Main sections"
+            "text": "Bagian utama"
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "📊 Statistics"
+            "text": "📊 Statistik"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Gives you a snapshot of recent meals, reactions, and newly introduced foods so you can follow progress."
+            "text": "Memberi Anda gambaran tentang makanan terbaru, reaksi, dan makanan yang baru diperkenalkan sehingga Anda dapat mengikuti kemajuannya."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "🥣 Products"
+            "text": "🥣 Produk"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Browse age-appropriate foods, mark the items you have introduced, and add observations."
+            "text": "Jelajahi makanan yang sesuai dengan usia, tandai item Anda telah memperkenalkan, dan menambahkan pengamatan."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "The ⚠️ label marks regulated allergens while ❗ highlights potential sensitivities."
+            "text": "Label ⚠️ menandai alergen yang diatur sementara ❗ menyoroti potensi sensitivitas."
           }
         },
         {
@@ -118,67 +117,67 @@
         {
           "type": "paragraph",
           "data": {
-            "text": "Plan breakfast, lunch, dinner, or snacks by adding dishes and quick notes."
+            "text": "Rencanakan sarapan, makan siang, makan malam, atau camilan dengan menambahkan hidangan dan catatan singkat."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "The menu is split into three sections:"
+            "text": "Menu ini dibagi menjadi tiga bagian:"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "1. Today."
+            "text": "1. Hari ini."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "2. Planned meals."
+            "text": "2. Makanan yang direncanakan."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "3. History."
+            "text": "3. Riwayat."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "🧾 Custom foods"
+            "text": "🧾 Makanan khusus"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Add your own foods or recipes, including preparation details and notes."
+            "text": "Tambahkan makanan atau resep Anda sendiri, termasuk detail dan catatan persiapannya."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Edit or delete them whenever needed."
+            "text": "Edit atau hapus kapan saja diperlukan."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "⚙️ Settings"
+            "text": "⚙️ Pengaturan"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Toggle iCloud sync on or off at any time."
+            "text": "Aktifkan atau nonaktifkan sinkronisasi iCloud kapan saja."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Use the “Sync Now” button for manual updates, and clear cache or hints when required."
+            "text": "Gunakan tombol “Sinkronkan Sekarang” untuk pembaruan manual, dan hapus cache atau petunjuk bila diperlukan."
           }
         },
         {
@@ -187,25 +186,25 @@
         {
           "type": "heading",
           "data": {
-            "text": "Synchronization"
+            "text": "Sinkronisasi"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "All information is stored in your private iCloud database and visible only to you."
+            "text": "Semua informasi disimpan di basis data iCloud pribadi Anda dan hanya dapat dilihat oleh Anda."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Devices stay up to date automatically."
+            "text": "Perangkat tetap up to date tanggal secara otomatis."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "If your iCloud storage is full, free up space or upgrade your plan."
+            "text": "Jika penyimpanan iCloud Anda penuh, kosongkan ruang atau tingkatkan paket Anda."
           }
         },
         {
@@ -214,19 +213,19 @@
         {
           "type": "heading",
           "data": {
-            "text": "Privacy"
+            "text": "Privasi"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "No data is shared with third parties, and developers cannot access your records."
+            "text": "Tidak ada data yang dibagikan dengan pihak ketiga, dan pengembang tidak dapat mengakses catatan Anda."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Everything stays secure inside your Apple ID."
+            "text": "Semuanya tetap aman di dalam ID Apple Anda."
           }
         },
         {
@@ -235,19 +234,19 @@
         {
           "type": "heading",
           "data": {
-            "text": "Support"
+            "text": "Dukungan"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "For technical questions or ideas, open Settings → Feedback."
+            "text": "Untuk pertanyaan atau ide teknis, buka Pengaturan → Masukan."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "You can also email support with your device model, iOS version, and issue description."
+            "text": "Anda juga dapat mengirim email ke dukungan dengan model perangkat, versi iOS, dan deskripsi masalah Anda."
           }
         },
         {
@@ -256,42 +255,42 @@
         {
           "type": "paragraph",
           "data": {
-            "text": "Remember: the app is a handy companion, but it never replaces professional medical consultation."
+            "text": "Ingat: aplikasi ini merupakan pendamping yang praktis, namun tidak pernah menggantikan konsultasi medis profesional."
           }
         }
       ]
     },
     {
       "id": "3f91c5db-5f06-4e36-9d2c-2b9188cbf65c",
-      "title": "When to Start Complementary Feeding: Signs Your Baby Is Ready",
-      "teaser": "How to determine if your baby is ready for the first solids and choose the perfect moment.",
+      "title": "Kapan Memulai Pemberian Makanan Pendamping ASI: Tanda-Tanda Bayi Anda Sudah Siap",
+      "teaser": "Cara menentukan apakah bayi Anda sudah siap untuk makanan padat pertama dan memilih momen yang tepat.",
       "cover": {
         "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/1.webp",
-        "caption": "First spoonfuls of complementary food for a curious baby"
+        "caption": "Sendok pertama makanan pendamping ASI untuk bayi yang penasaran"
       },
       "blocks": [
         {
           "type": "paragraph",
           "data": {
-            "text": "Introducing complementary foods is an important milestone in your baby's development when they move from exclusive breastmilk or formula to new foods. Choosing the right time to start affects not only appetite, but also the development of the digestive system, eating habits, and even future attitudes toward food."
+            "text": "Memperkenalkan makanan pendamping ASI merupakan tonggak penting dalam perkembangan bayi Anda ketika mereka beralih dari ASI eksklusif atau susu formula ke makanan baru. Memilih waktu yang tepat untuk memulai tidak hanya memengaruhi nafsu makan, tetapi juga perkembangan sistem pencernaan, kebiasaan makan, dan bahkan sikap di masa depan terhadap makanan."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "The best age to start complementary feeding"
+            "text": "Usia terbaik untuk memulai pemberian makanan pendamping ASI"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "According to the World Health Organization (WHO) and pediatricians in most countries, solids should be introduced at around 6 months. Until then, breastmilk or formula fully covers your baby's nutritional needs."
+            "text": "Menurut Organisasi Kesehatan Dunia (WHO) dan dokter anak di sebagian besar negara, makanan padat harus diberikan pada usia sekitar 6 bulan. Sampai saat itu tiba, ASI atau susu formula dapat memenuhi sepenuhnya kebutuhan nutrisi bayi Anda."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Some babies may be ready a little earlier—at 5 months—while others only closer to 7 months. The main thing is not to rush and to focus not only on age but also on readiness cues."
+            "text": "Beberapa bayi mungkin siap sedikit lebih awal—pada usia 5 bulan—sementara bayi lainnya baru menjelang usia 7 bulan. Hal utama adalah jangan terburu-buru dan fokus tidak hanya pada usia tetapi juga pada isyarat kesiapan."
           }
         },
         {
@@ -300,85 +299,85 @@
         {
           "type": "heading",
           "data": {
-            "text": "Readiness signs to watch for"
+            "text": "Tanda-tanda kesiapan yang harus diperhatikan"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Every child develops at their own pace, so it is important to observe their behavior. Below are the key signals that show it's time to introduce new tastes."
+            "text": "Setiap anak berkembang dengan kecepatannya masing-masing, jadi penting untuk mengamati perilaku mereka. Di bawah ini adalah sinyal utama yang menunjukkan sudah waktunya memperkenalkan cita rasa baru."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "1. Your baby holds their head steady"
+            "text": "1. Bayi Anda menjaga kepalanya tetap stabil"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Your baby should be able to hold their head upright and sit with minimal support. This is crucial for safety so there is no risk of choking during meals."
+            "text": "Bayi Anda harus mampu menegakkan kepalanya dan duduk dengan sedikit dukungan. Hal ini penting demi keselamatan agar tidak ada risiko tersedak saat makan."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "2. Shows interest in family meals"
+            "text": "2. Menunjukkan minat pada makan bersama keluarga"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "If your baby watches you eat with fascination, reaches for the spoon, or tries to grab a piece, it's a sign they are curious about new foods."
+            "text": "Jika bayi memperhatikan Anda makan dengan penuh ketertarikan, meraih sendok, atau mencoba mengambil sepotong, itu tandanya ia penasaran dengan makanan baru."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "3. The tongue-thrust reflex has faded"
+            "text": "3. Refleks menjulurkan lidah telah memudar"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Newborns have a natural tongue-thrust reflex that automatically pushes out anything thicker than milk. Once this reflex fades, your baby can handle puréed textures."
+            "text": "Bayi baru lahir memiliki refleks menjulurkan lidah alami yang secara otomatis mengeluarkan sesuatu yang lebih kental daripada susu. Setelah refleks ini memudar, bayi Anda dapat menangani tekstur yang dihaluskan."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "4. Bigger appetite and milk is not enough"
+            "text": "4. Nafsu makan lebih besar dan ASI saja tidak cukup"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "If your baby asks to feed more often but still seems unsatisfied afterward, it may mean their body needs more nutrients."
+            "text": "Jika bayi Anda meminta untuk menyusu lebih sering tetapi setelahnya masih tampak tidak puas, itu mungkin berarti tubuhnya membutuhkan lebih banyak nutrisi."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "5. Weight has doubled since birth"
+            "text": "5. Berat badannya meningkat dua kali lipat sejak lahir"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Doubling their birth weight is another readiness marker. It shows that your baby is growing actively and needs extra energy."
+            "text": "Berat badannya dua kali lipat saat lahir adalah penanda kesiapan lainnya. Hal ini menunjukkan bahwa bayi Anda sedang tumbuh aktif dan membutuhkan energi ekstra."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "6. No signs of illness"
+            "text": "6. Tidak ada tanda-tanda penyakit"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Start solids only when your baby is healthy, without colds, tummy troubles, or teething discomfort that could cause a temporary refusal of new foods."
+            "text": "Mulailah makanan padat hanya ketika bayi Anda sehat, tanpa pilek, masalah perut, atau rasa tidak nyaman pada gigi yang dapat menyebabkan penolakan sementara terhadap makanan baru."
           }
         },
         {
@@ -387,31 +386,31 @@
         {
           "type": "heading",
           "data": {
-            "text": "When to postpone complementary feeding"
+            "text": "Kapan harus menunda pemberian makanan pendamping ASI"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Don't introduce new foods if your baby is ill or has just received vaccinations."
+            "text": "Jangan memperkenalkan makanan baru jika bayi Anda sakit atau baru saja menerima vaksinasi."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Avoid starting during heat waves because of the risk of dehydration."
+            "text": "Hindari memulai saat gelombang panas karena risiko dehidrasi."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Delay the introduction if you notice major stress or routine changes, such as moving house or a new caregiver."
+            "text": "Tunda pengenalan jika Anda melihat stres besar atau perubahan rutin, seperti pindah rumah atau yang baru pengasuh."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Wait if your baby still can't hold their head steady or sit on their own."
+            "text": "Tunggu jika bayi Anda masih belum bisa memegang kepalanya dengan stabil atau duduk sendiri."
           }
         },
         {
@@ -420,37 +419,37 @@
         {
           "type": "heading",
           "data": {
-            "text": "How to prepare for the first feeding"
+            "text": "Cara mempersiapkan pemberian makan pertama"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "1. Pick the right time of day—when your baby is alert, not too hungry, and in a good mood."
+            "text": "1. Pilih waktu yang tepat—saat bayi Anda waspada, tidak terlalu lapar, dan dalam suasana hati yang baik."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "2. Start with a single food and observe the reaction for 2–3 days."
+            "text": "2. Mulailah dengan satu makanan dan amati reaksinya selama 2–3 hari."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "3. Don't force it—if your baby turns away or presses their lips together, simply try again later."
+            "text": "3. Jangan dipaksakan—jika bayi Anda memalingkan muka atau mengatupkan bibirnya, coba lagi nanti."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "4. Offer food with a spoon, not from a bottle—this helps your baby learn to swallow correctly."
+            "text": "4. Tawarkan makanan dengan sendok, bukan dari botol—ini membantu bayi Anda belajar menelan dengan benar."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "5. Keep notes—maintain a small feeding diary or use a mobile app."
+            "text": "5. Buat catatan—buat buku harian kecil tentang pemberian makan atau gunakan aplikasi seluler."
           }
         },
         {
@@ -459,37 +458,37 @@
         {
           "type": "heading",
           "data": {
-            "text": "Early or late? Why balance matters"
+            "text": "Dini atau terlambat? Mengapa keseimbangan itu penting"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Introducing solids too early, before 4 months, can overload the digestive system and raise the risk of allergies and tummy issues."
+            "text": "Memperkenalkan makanan padat terlalu dini, sebelum usia 4 bulan, dapat membebani sistem pencernaan dan meningkatkan risiko alergi dan masalah perut."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Starting too late, after 8 months, can lead to iron deficiency, refusal of textured foods, and delays in developing chewing skills."
+            "text": "Memulai terlambat, setelah 8 bulan, dapat menyebabkan kekurangan zat besi, penolakan terhadap makanan bertekstur, dan keterlambatan dalam mengembangkan keterampilan mengunyah."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "The best strategy is to focus on your baby's readiness rather than fixed dates on the calendar."
+            "text": "Strategi terbaik adalah fokus pada kesiapan bayi Anda daripada tanggal tetap di kalender."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Introducing solids isn't only about food—it's a new step in your baby's development. When you notice readiness cues, offer new tastes slowly, with care and curiosity."
+            "text": "Memperkenalkan makanan padat bukan hanya tentang makanan—ini adalah langkah baru dalam diri Anda perkembangan bayi. Saat Anda melihat tanda kesiapan, tawarkan rasa baru secara perlahan, dengan hati-hati dan rasa ingin tahu."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Remember: every spoonful is a small discovery, a step toward independence and new sensations."
+            "text": "Ingat: setiap sendok adalah penemuan kecil, sebuah langkah menuju kemandirian dan sensasi baru."
           }
         }
       ],
@@ -514,17 +513,17 @@
     },
     {
       "id": "f7ddca56-f196-4524-bb21-51b5a63a40f3",
-      "title": "First Foods for Complementary Feeding: What to Offer First",
-      "teaser": "A guide to the vegetables and cereals that work best for the first solids and how to safely introduce new tastes.",
+      "title": "Makanan Pertama untuk Makanan Pendamping: Apa yang Harus Ditawarkan Pertama",
+      "teaser": "Panduan tentang sayuran dan sereal yang paling cocok untuk makanan padat pertama dan cara memperkenalkan rasa baru dengan aman.",
       "cover": {
         "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/2.webp",
-        "caption": "Purées and cereals as first complementary dishes"
+        "caption": "Haluskan dan sereal sebagai hidangan pendamping pertama"
       },
       "blocks": [
         {
           "type": "paragraph",
           "data": {
-            "text": "Starting solids is a new stage in your baby's life and an important step for parents. After six months, breastmilk or formula alone is no longer enough, so babies gradually need extra foods. But where do you begin to keep everything safe and beneficial?"
+            "text": "Memulai makanan padat adalah tahap baru dalam kehidupan bayi Anda dan merupakan langkah penting bagi orang tua. Setelah enam bulan, ASI atau susu formula saja tidak lagi cukup, sehingga bayi lambat laun membutuhkan makanan tambahan. Tapi dari mana Anda mulai menjaga segala sesuatunya tetap aman dan bermanfaat?"
           }
         },
         {
@@ -533,31 +532,31 @@
         {
           "type": "heading",
           "data": {
-            "text": "Which food to choose first"
+            "text": "Makanan mana yang harus dipilih terlebih dahulu"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "There are several ways to start solids, and the choice often depends on health, weight gain, and your doctor's advice. Pediatricians usually recommend single-ingredient vegetable or grain purées so your baby's body can adapt gradually."
+            "text": "Ada beberapa cara untuk memulai makanan padat, dan pilihannya sering kali bergantung pada kesehatan, penambahan berat badan, dan saran dokter Anda. Dokter anak biasanya merekomendasikan pure sayuran atau biji-bijian dengan bahan tunggal agar tubuh bayi Anda dapat beradaptasi secara bertahap."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "Option 1. Vegetable purée"
+            "text": "Opsi 1. Pure sayuran"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Ideal for babies who are gaining weight quickly or already have a higher weight."
+            "text": "Ideal untuk bayi yang mengalami kenaikan berat badan dengan cepat atau sudah memiliki berat badan lebih tinggi."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "The first vegetables usually include:"
+            "text": "Sayuran pertama biasanya meliputi:"
           }
         },
         {
@@ -569,97 +568,97 @@
         {
           "type": "paragraph",
           "data": {
-            "text": "- cauliflower;"
+            "text": "- kembang kol;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- broccoli;"
+            "text": "- brokoli;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- pumpkin."
+            "text": "- labu."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "They are easy to digest, rarely cause allergies, and have a delicate flavor similar to breastmilk. Prepare the purée without salt or spices, starting with 1–2 teaspoons per day."
+            "text": " Sayuran mudah dicerna, jarang menyebabkan alergi, dan memiliki rasa lembut yang mirip dengan ASI. Siapkan puree tanpa garam atau bumbu, dimulai dengan 1–2 sendok teh per hari."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "Option 2. Gluten-free cereals"
+            "text": "Opsi 2. Sereal bebas gluten"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "If your baby gains weight slowly or seems low on energy, start with single-ingredient, dairy-free cereals:"
+            "text": "Jika berat badan bayi Anda bertambah perlahan atau tampak kekurangan energi, mulailah dengan sereal bebas susu dengan bahan tunggal:"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- rice;"
+            "text": "- nasi;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- buckwheat;"
+            "text": "- soba;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- corn."
+            "text": "- jagung."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Cook the cereal in water or mix it with breastmilk or formula. The key is no sugar, salt, or additives."
+            "text": "Masak sereal dalam air atau campur dengan ASI atau susu formula. Kuncinya adalah tanpa gula, garam, atau bahan tambahan."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "Option 3. Fruit purée"
+            "text": "Opsi 3. Haluskan buah"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Fruits taste great and babies get used to them quickly, but don't rush. Offer them after vegetables so your little one doesn't refuse less sweet meals."
+            "text": "Buah-buahan rasanya enak dan bayi akan cepat terbiasa, tetapi jangan terburu-buru. Tawarkan makanan tersebut setelah sayur agar si kecil tidak menolak makanan yang kurang manis."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Good first options are:"
+            "text": "Pilihan pertama yang baik adalah:"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- apple;"
+            "text": "- apel;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- pear;"
+            "text": "- pir;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- banana (from 7 months)."
+            "text": "- pisang (mulai 7 bulan)."
           }
         },
         {
@@ -668,37 +667,37 @@
         {
           "type": "heading",
           "data": {
-            "text": "How to introduce the first foods"
+            "text": "Cara mengenalkan makanan pertama"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "1. Start with one ingredient. Offer each new food on its own so it's easier to track any reaction."
+            "text": "1. Mulailah dengan satu bahan. Tawarkan setiap makanan baru secara terpisah sehingga lebih mudah melacak reaksi apa pun."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "2. Increase the amount gradually. Begin with 1 teaspoon and slowly work up to a full serving—100–150 g per day."
+            "text": "2. Tingkatkan jumlahnya secara bertahap. Mulailah dengan 1 sendok teh dan perlahan-lahan tingkatkan hingga satu porsi penuh—100–150 g per hari."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "3. Watch for reactions. If there is no rash, tummy ache, or change in stool, you can add another food after 3–4 days."
+            "text": "3. Perhatikan reaksinya. Jika tidak ada ruam, sakit perut, atau perubahan tinja, Anda dapat menambahkan makanan lain setelah 3–4 hari."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "4. Cook without salt, sugar, or spices. The natural taste of the ingredients is all your baby needs."
+            "text": "4. Masak tanpa garam, gula, atau bumbu. Rasa alami dari bahan-bahannya adalah yang dibutuhkan bayi Anda."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "5. Choose the right timing. Offer new foods in the daytime—between morning and midday feeds—when your baby is in a good mood."
+            "text": "5. Pilih waktu yang tepat. Tawarkan makanan baru di siang hari—antara waktu menyusu pagi dan siang hari—saat suasana hati bayi sedang baik."
           }
         },
         {
@@ -707,31 +706,31 @@
         {
           "type": "heading",
           "data": {
-            "text": "Sample first-week menu"
+            "text": "Contoh menu minggu pertama"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- Days 1–3: zucchini purée — 1 tsp → 3–4 tsp."
+            "text": "- Hari 1–3: pure zucchini — 1 sdt → 3–4 sdt."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- Days 4–6: cauliflower purée — 1 tsp → 5 tsp."
+            "text": "- Hari 4–6: pure kembang kol — 1 sdt → 5 sdt."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- Days 7–10: zucchini + cauliflower, or switch to buckwheat cereal."
+            "text": "- Hari 7–10: zucchini + kembang kol, atau beralih ke sereal soba."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "From 7 months you can add potato, carrot, pumpkin, apple, pear, and later meat."
+            "text": "Mulai usia 7 bulan Anda bisa menambahkan kentang, wortel, labu kuning, apel, pir, dan kemudian daging."
           }
         },
         {
@@ -740,43 +739,43 @@
         {
           "type": "heading",
           "data": {
-            "text": "Common mistakes when starting solids"
+            "text": "Kesalahan umum saat memulai makanan padat"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- Starting before your baby can sit or hold their head."
+            "text": "- Memulai sebelum bayi Anda dapat duduk atau memegang kepalanya."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- Offering several new foods at once."
+            "text": "- Menawarkan beberapa makanan baru sekaligus."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- Adding salt or sugar."
+            "text": "- Menambahkan garam atau gula."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- Pressuring your baby to eat when they don't want to."
+            "text": "- Menekan bayi Anda untuk makan padahal mereka tidak mau."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- Offering solids during illness or right after vaccinations."
+            "text": "- Memberikan makanan padat saat sakit atau segera setelah vaksinasi."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Remember: complementary feeding is not a race but a gentle introduction to a world of new flavors."
+            "text": "Ingat: pemberian makanan pendamping ASI bukanlah sebuah perlombaan melainkan pengenalan lembut terhadap dunia rasa baru."
           }
         },
         {
@@ -785,43 +784,43 @@
         {
           "type": "heading",
           "data": {
-            "text": "When to call the doctor"
+            "text": "Kapan harus menghubungi dokter"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Contact your pediatrician if you notice after a new food:"
+            "text": "Hubungi dokter anak Anda jika Anda memperhatikan setelah makan makanan baru:"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- rash or redness;"
+            "text": "- ruam atau kemerahan;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- diarrhea or constipation;"
+            "text": "- diare atau sembelit;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- frequent spit-ups;"
+            "text": "- sering gumoh;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- restlessness or disrupted sleep;"
+            "text": "- gelisah atau terganggu tidur;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- swelling or breathing difficulties—stop the new food immediately and see a pediatrician or allergist."
+            "text": "- bengkak atau kesulitan bernapas—segera hentikan makanan baru dan temui dokter anak atau ahli alergi."
           }
         },
         {
@@ -830,31 +829,31 @@
         {
           "type": "heading",
           "data": {
-            "text": "Tips for parents"
+            "text": "Tips untuk orang tua"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- Breastmilk or formula remains the main source of nutrition up to age one."
+            "text": "- ASI atau susu formula tetap menjadi sumber nutrisi utama hingga usia satu tahun."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- Create a positive mealtime setting: smile and keep your voice calm."
+            "text": "- Ciptakan pengaturan waktu makan yang positif: tersenyum dan jaga suara Anda tetap tenang."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- Let your baby touch the spoon and try feeding themselves—it sparks curiosity and fine motor skills."
+            "text": "- Biarkan bayi Anda menyentuh sendok dan mencoba makan sendiri—ini memicu rasa ingin tahu dan keterampilan motorik halus."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- If something isn't liked, take a break for a few days and offer it again."
+            "text": "- Jika ada sesuatu yang tidak disukai, istirahatlah selama beberapa hari dan tawarkan itu lagi."
           }
         },
         {
@@ -869,13 +868,13 @@
         {
           "type": "paragraph",
           "data": {
-            "text": "First complementary foods should be simple, safe, and natural. Start with vegetables or cereals, watch your baby closely, and add new dishes step by step."
+            "text": "Makanan pendamping ASI yang pertama harus sederhana, aman, dan alami. Mulailah dengan sayuran atau sereal, awasi bayi Anda dengan cermat, dan tambahkan hidangan baru selangkah demi selangkah."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Above all, stay calm, unhurried, and caring. Every new spoonful is your baby's step into the big world of family meals."
+            "text": "Yang terpenting, tetap tenang, tidak tergesa-gesa, dan penuh perhatian. Setiap sesendok baru adalah langkah bayi Anda memasuki dunia besar makanan keluarga."
           }
         }
       ],
@@ -904,41 +903,41 @@
     },
     {
       "id": "7accabaa-306a-4267-8159-7b684cfec85d",
-      "title": "BLW (Baby-Led Weaning) or Self-Feeding — a Modern Way to Introduce Solids",
-      "teaser": "What the BLW approach is, how to assess readiness, and how to organize safe self-feeding.",
+      "title": "BLW (Baby-Led Weaning) atau Menyapih Sendiri - Cara Modern untuk Memperkenalkan Makanan Padat",
+      "teaser": "Apa itu pendekatan BLW, bagaimana menilai kesiapan, dan bagaimana mengatur pemberian makan mandiri yang aman.",
       "cover": {
         "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/3.webp",
-        "caption": "A baby exploring solid food independently during the first meal"
+        "caption": "Seorang bayi mengeksplorasi makanan padat secara mandiri saat makan pertama"
       },
       "blocks": [
         {
           "type": "heading",
           "data": {
-            "text": "What is BLW"
+            "text": "Apa itu BLW"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "BLW (baby-led weaning) isn't a type of food but an approach where the baby takes the lead in feeding from the very first solid meals."
+            "text": "BLW (baby-led weaning) bukanlah suatu jenis makanan, melainkan sebuah pendekatan di mana bayi memimpin pemberian makanan sejak makanan padat pertama kali."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "The idea was formulated by Gill Rapley—a British nurse, lactation consultant, and researcher."
+            "text": "Idenya dirumuskan oleh Gill Rapley—seorang perawat, konsultan laktasi, dan peneliti asal Inggris."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "BLW spread worldwide thanks to its simple yet revolutionary concept:"
+            "text": "BLW menyebar ke seluruh dunia berkat konsepnya yang sederhana namun revolusioner:"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "“The child leads their own feeding, and adults provide a safe, natural environment.”"
+            "text": "“Anak-anak mengatur makannya sendiri, dan orang dewasa menyediakan lingkungan yang aman dan alami.”"
           }
         },
         {
@@ -947,37 +946,37 @@
         {
           "type": "heading",
           "data": {
-            "text": "Benefits of self-feeding"
+            "text": "Manfaat makan sendiri"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- encourages healthy eating habits from infancy;"
+            "text": "- mendorong kebiasaan makan sehat sejak bayi;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- builds coordination and fine motor skills;"
+            "text": "- membangun koordinasi dan keterampilan motorik halus;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- stimulates sensory development through touch, taste, and smell;"
+            "text": "- merangsang perkembangan sensorik melalui sentuhan, rasa, dan penciuman;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- reduces the risk of overeating and picky eating later on;"
+            "text": "- Mengurangi risiko makan berlebihan dan pilih-pilih makan di kemudian hari;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- strengthens the emotional bond between child and parents during meals."
+            "text": "- Memperkuat ikatan emosional antara anak dan orang tua saat makan."
           }
         },
         {
@@ -986,43 +985,43 @@
         {
           "type": "heading",
           "data": {
-            "text": "When to start BLW"
+            "text": "Kapan memulai BLW"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Self-feeding is suitable for babies around 6 months old when they:"
+            "text": "Pemberian makan sendiri cocok untuk bayi berusia sekitar 6 bulan jika mereka:"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- can sit independently or with minimal support;"
+            "text": "- dapat duduk mandiri atau dengan sedikit dukungan;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- hold their head steady;"
+            "text": "- menjaga kepala tetap stabil;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- can grab food with their hands and bring it to their mouth."
+            "text": "- dapat mengambil makanan dengan tangannya dan membawanya ke mulut."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Before you start, make sure your baby is physically ready—their digestive system, chewing skills, and postural stability should be developed enough."
+            "text": "Sebelum Anda memulai, pastikan bayi Anda siap secara fisik—sistem pencernaan, keterampilan mengunyah, dan stabilitas posturnya harus cukup berkembang."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "The World Health Organization also recommends introducing solids after 6 months while continuing breastfeeding."
+            "text": "Organisasi Kesehatan Dunia juga merekomendasikan pemberian makanan padat setelah 6 bulan sambil terus menyusui."
           }
         },
         {
@@ -1031,55 +1030,55 @@
         {
           "type": "heading",
           "data": {
-            "text": "Core rules of BLW"
+            "text": "Aturan inti BLW"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "1. Safety first. Your baby should sit upright to coordinate swallowing and breathing."
+            "text": "1. Keselamatan adalah yang utama. Bayi Anda harus duduk tegak untuk mengoordinasikan menelan dan bernapas."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "2. Don't spoon-feed. Let your baby decide what, when, and how much to eat."
+            "text": "2. Jangan memberi makan dengan sendok. Biarkan bayi Anda memutuskan apa, kapan, dan berapa banyak yang akan dimakan."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "3. Never leave your baby unattended while eating."
+            "text": "3. Jangan pernah meninggalkan bayi Anda tanpa pengawasan saat makan."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "4. Skip salt, sugar, honey, and spices."
+            "text": "4. Hindari garam, gula, madu, dan rempah-rempah."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "5. Offer soft foods in safe shapes and sizes."
+            "text": "5. Tawarkan makanan lunak dalam bentuk dan ukuran yang aman."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "6. Serve water in a cup or open glass, not in a sippy cup."
+            "text": "6. Sajikan air dalam cangkir atau gelas terbuka, bukan dalam sippy cup."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "7. No gadgets or TV during meals."
+            "text": "7. Tidak ada gadget atau TV saat makan."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "8. Breastmilk or formula remains the main food until one year."
+            "text": "8. ASI atau susu formula tetap menjadi makanan utama hingga satu tahun."
           }
         },
         {
@@ -1088,43 +1087,43 @@
         {
           "type": "heading",
           "data": {
-            "text": "How to set up mealtime"
+            "text": "Cara mengatur waktu makan"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- seat your baby in a comfortable high chair with a footrest;"
+            "text": "- mendudukkan bayi di kursi tinggi yang nyaman dengan sandaran kaki;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- choose plain dishware without patterns to reduce distractions;"
+            "text": "- pilih peralatan makan polos tanpa pola untuk mengurangi gangguan;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- use a suction plate or silicone mat;"
+            "text": "- gunakan piring hisap atau alas silikon;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- place a mat or cloth under the chair—mess is inevitable at the start;"
+            "text": "- letakkan alas atau kain di bawah kursi—kekacauan tidak bisa dihindari di awal;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- prepare a silicone bib with a pocket;"
+            "text": "- siapkan celemek silikon yang dilengkapi saku;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- serve foods as long strips or sticks roughly adult-finger size."
+            "text": "- sajikan makanan dalam bentuk potongan panjang atau tongkat kira-kira seukuran jari orang dewasa ukuran."
           }
         },
         {
@@ -1133,31 +1132,31 @@
         {
           "type": "heading",
           "data": {
-            "text": "Safe ways to serve food"
+            "text": "Cara aman dalam menyajikan makanan"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Check the texture: if the food squishes easily between your fingers, it's safe."
+            "text": "Periksa teksturnya: jika makanan mudah terjepit di sela-sela jari Anda, berarti makanan tersebut aman."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Start with soft vegetables and fruits—broccoli, cauliflower, carrot, zucchini, avocado, banana, steamed apple."
+            "text": "Mulailah dengan sayuran dan buah-buahan yang lembut—brokoli, kembang kol, wortel, zucchini, alpukat, pisang, apel kukus."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Gradually add other foods such as cereals, meat, legumes, and eggs."
+            "text": "Tambahkan makanan lain secara bertahap seperti sereal, daging, polong-polongan, dan telur."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "The key is to take it slow and introduce new ingredients gradually while watching your baby's reactions."
+            "text": "Kuncinya adalah perlahan-lahan dan perkenalkan bahan-bahan baru secara bertahap sambil memperhatikan reaksi bayi Anda."
           }
         },
         {
@@ -1166,49 +1165,49 @@
         {
           "type": "heading",
           "data": {
-            "text": "Choking risk and natural reflexes"
+            "text": "Risiko tersedak dan refleks alami"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Parents often worry about choking, but studies show the risk with BLW is no higher than with traditional spoon-feeding."
+            "text": "Orang tua sering kali khawatir akan tersedak, namun penelitian menunjukkan bahwa risiko BLW tidak lebih tinggi dibandingkan dengan pemberian sendok secara tradisional."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Babies have a strong gag reflex—a natural safety mechanism that keeps pieces from going too far down the throat."
+            "text": "Bayi memiliki refleks muntah yang kuat—mekanisme keamanan alami yang mencegah benda-benda tersebut masuk terlalu jauh ke dalam tenggorokan."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Important:"
+            "text": "Penting:"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- don't put your hands or a spoon into your baby's mouth;"
+            "text": "- jangan memasukkan tangan atau sendok ke dalam mulut bayi;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- don't pat them on the back;"
+            "text": "- jangan menepuk punggungnya;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- calmly allow them to cough it out;"
+            "text": "- biarkan mereka batuk dengan tenang keluar;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- intervene only if the baby isn't breathing, makes no sound, and turns blue."
+            "text": "- campur tangan hanya jika bayi tidak bernapas, tidak mengeluarkan suara, dan membiru."
           }
         },
         {
@@ -1217,43 +1216,43 @@
         {
           "type": "heading",
           "data": {
-            "text": "What to offer first"
+            "text": "Apa yang diberikan terlebih dahulu"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "For the first attempts choose soft foods that can be mashed with the gums:"
+            "text": "Untuk percobaan pertama pilihlah makanan lunak yang dapat dihaluskan bersama gusi:"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- cooked vegetables (carrot, pumpkin, potato, broccoli);"
+            "text": "- sayuran matang (wortel, labu, kentang, brokoli);"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- fruit (banana, pear, avocado);"
+            "text": "- buah-buahan (pisang, pir, alpukat);"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- soft meat or meatballs;"
+            "text": "- daging lunak atau bakso;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- thick porridges shaped into strips;"
+            "text": "- bubur kental yang dibentuk menjadi potongan-potongan;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- toast, pasta, egg, fish—introduced gradually by age."
+            "text": "- roti panggang, pasta, telur, ikan—diperkenalkan secara bertahap sesuai usia."
           }
         },
         {
@@ -1262,25 +1261,25 @@
         {
           "type": "heading",
           "data": {
-            "text": "Combining with a spoon"
+            "text": "Menggabungkan dengan sendok"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "BLW doesn't ban spoons if the baby holds them independently."
+            "text": "BLW tidak melarang penggunaan sendok jika bayi memegangnya secara mandiri."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Starter pre-spoon utensils with small ridges work best."
+            "text": "Peralatan awal yang sudah menyiapkan sendok dengan tonjolan kecil adalah yang terbaik."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Make sure purées are thick, not runny, so the baby can stay in control."
+            "text": "Pastikan pure kental, tidak encer, sehingga bayi dapat tetap memegang kendali."
           }
         },
         {
@@ -1289,37 +1288,37 @@
         {
           "type": "heading",
           "data": {
-            "text": "When BLW isn't suitable"
+            "text": "Jika BLW tidak cocok"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Avoid this approach for babies with:"
+            "text": "Hindari pendekatan ini untuk bayi dengan:"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- dysphagia (swallowing difficulties);"
+            "text": "- disfagia (kesulitan menelan);"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- hypotonia or developmental delays;"
+            "text": "- hipotonia atau keterlambatan perkembangan;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- structural issues of the mouth;"
+            "text": "- masalah struktural mulut;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- low weight, anemia, or prematurity (without pediatric approval)."
+            "text": "- berat badan rendah, anemia, atau prematuritas (tanpa persetujuan dokter anak)."
           }
         },
         {
@@ -1328,31 +1327,31 @@
         {
           "type": "heading",
           "data": {
-            "text": "Global experience and recommendations"
+            "text": "Pengalaman dan rekomendasi global"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- WHO emphasizes starting complementary foods at 6 months while continuing breastfeeding up to 2 years or longer."
+            "text": "- WHO menekankan untuk memulai makanan pendamping ASI pada usia 6 bulan sambil terus menyusui hingga 2 tahun atau lebih."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- The American Academy of Pediatrics considers BLW safe if adults supervise and choose appropriate textures."
+            "text": "- American Academy of Pediatrics menganggap BLW aman jika orang dewasa mengawasi dan pilih tekstur yang sesuai."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- The UK National Health Service notes that self-feeding helps babies recognize hunger and fullness and builds independence."
+            "text": "- Layanan Kesehatan Nasional Inggris mencatat bahwa makan sendiri membantu bayi mengenali rasa lapar dan kenyang serta membangun kemandirian."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- Systematic reviews in BMJ Open and the International Journal of Pediatrics show BLW diets provide similar nutrition, but it's crucial to monitor iron intake and avoid hard chunks."
+            "text": "- Tinjauan sistematis di BMJ Open dan International Journal of Pediatrics menunjukkan bahwa pola makan BLW memberikan nutrisi serupa, namun sangat penting untuk memantau asupan zat besi dan menghindari porsi yang besar."
           }
         },
         {
@@ -1361,25 +1360,25 @@
         {
           "type": "paragraph",
           "data": {
-            "text": "BLW is a natural, mindful, and respectful way to support your child's development."
+            "text": "BLW adalah cara yang alami, penuh perhatian, dan penuh hormat untuk mendukung perkembangan anak Anda."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "It fosters independence, builds a healthy relationship with food, and creates a positive mealtime atmosphere."
+            "text": "Ini menumbuhkan kemandirian, membangun hubungan yang sehat dengan makanan, dan menciptakan suasana waktu makan yang positif."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Parents should stay close, support, and trust their little one."
+            "text": "Orang tua harus tetap dekat, mendukung, dan memercayai si kecil."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "The ultimate goal of solids is not just feeding but teaching a child to eat with joy, confidence, and safety ❤️."
+            "text": "Tujuan akhir dari makanan padat bukan sekadar memberi makan tetapi mengajari anak makan dengan gembira, percaya diri, dan aman ❤️."
           }
         }
       ],
@@ -1412,23 +1411,23 @@
     },
     {
       "id": "08e35bc2-a02f-4d59-bb5f-c4698ceef69e",
-      "title": "Introducing Allergens During Baby's Weaning",
-      "teaser": "Why timely and well-monitored allergen exposure lowers the risk of food allergies later in life.",
+      "title": "Memperkenalkan Alergen Saat Menyapih Bayi",
+      "teaser": "Mengapa paparan alergen yang tepat waktu dan dipantau dengan baik menurunkan risiko alergi makanan di kemudian hari.",
       "cover": {
         "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/allergy.webp",
-        "caption": "Parent offering an allergenic food safely during baby-led weaning."
+        "caption": "Orang tua menawarkan makanan yang menyebabkan alergi dengan aman selama penyapihan yang dipimpin bayi."
       },
       "blocks": [
         {
           "type": "paragraph",
           "data": {
-            "text": "Food allergies are among the most common concerns in early childhood."
+            "text": "Makanan alergi adalah salah satu kekhawatiran paling umum pada anak usia dini."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Parents were once advised to delay allergenic foods, but current evidence shows the opposite: offering tiny, controlled portions early on trains the immune system to tolerate new ingredients."
+            "text": "Orang tua pernah disarankan untuk menunda makanan yang menyebabkan alergi, namun bukti saat ini menunjukkan sebaliknya: memberikan porsi kecil dan terkontrol sejak dini akan melatih sistem kekebalan tubuh untuk mentoleransi bahan-bahan baru."
           }
         },
         {
@@ -1437,25 +1436,25 @@
         {
           "type": "heading",
           "data": {
-            "text": "The modern approach"
+            "text": "Pendekatan modern"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Leading organizations such as WHO, ESPGHAN, and the American Academy of Pediatrics suggest introducing allergenic foods around six months, when the baby is developmentally ready for solids."
+            "text": "Organisasi terkemuka seperti WHO, ESPGHAN, dan American Academy of Pediatrics menyarankan untuk memperkenalkan makanan yang menyebabkan alergi sekitar usia enam bulan, saat bayi sudah siap untuk menerima makanan padat."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "“Gradual exposure in small amounts builds immune tolerance,” emphasize pediatric allergists. Always choose a moment when your baby is healthy and free from rashes or colds."
+            "text": "“Paparan secara bertahap dalam jumlah kecil akan membangun toleransi kekebalan,” tegas ahli alergi anak. Selalu pilih momen ketika bayi Anda sehat dan bebas dari ruam atau pilek."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Introduce only one new ingredient at a time and do it earlier in the day so you can observe how your baby reacts."
+            "text": "Perkenalkan hanya satu bahan baru dalam satu waktu dan lakukan lebih awal pada hari itu sehingga Anda dapat mengamati bagaimana reaksi bayi Anda."
           }
         },
         {
@@ -1464,19 +1463,19 @@
         {
           "type": "heading",
           "data": {
-            "text": "Major food allergens"
+            "text": "Alergen makanan utama"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "The European Union recognizes 14 major allergens: gluten, peanuts, tree nuts, celery, mustard, milk, eggs, sesame, fish, crustaceans, mollusks, soy, sulfites, and lupin."
+            "text": "Uni Eropa mengakui 14 alergen utama: gluten, kacang tanah, kacang pohon, seledri, mustard, susu, telur, wijen, ikan, krustasea, moluska, kedelai, sulfit, dan lupin."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "For infants, the most relevant are eggs, fish, milk, wheat, soy, peanuts, celery, assorted nuts, and sesame."
+            "text": "Untuk bayi, yang paling relevan adalah telur, ikan, susu, gandum, kedelai, kacang tanah, seledri, berbagai macam kacang-kacangan, dan wijen."
           }
         },
         {
@@ -1485,31 +1484,31 @@
         {
           "type": "heading",
           "data": {
-            "text": "When and how to start"
+            "text": "Kapan dan bagaimana memulainya"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Begin allergen exposure once your baby comfortably handles vegetables, cereals, and meats."
+            "text": "Mulailah paparan alergen setelah bayi Anda dengan nyaman memegang sayuran, sereal, dan daging."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Start with micro portions — just a crumb or a quarter teaspoon."
+            "text": "• Mulailah dengan porsi kecil — hanya remah atau seperempat sendok teh."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Increase gradually if no reactions appear and keep a feeding log with dates and amounts."
+            "text": "• Tingkatkan secara bertahap jika tidak ada reaksi yang muncul dan simpan catatan pemberian makan dengan tanggal dan jumlahnya."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Offer the same allergen again during the week to reinforce tolerance."
+            "text": "• Tawarkan alergen yang sama lagi selama proses tersebut minggu untuk memperkuat toleransi."
           }
         },
         {
@@ -1518,31 +1517,31 @@
         {
           "type": "heading",
           "data": {
-            "text": "Safe allergen introduction checklist"
+            "text": "Daftar periksa pengenalan alergen yang aman"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "1. Add only one new food at a time so you can pinpoint any reaction."
+            "text": "1. Tambahkan hanya satu makanan baru dalam satu waktu sehingga Anda dapat mengetahui reaksi apa pun."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "2. Present the tiniest portion first and serve it during daytime hours."
+            "text": "2. Sajikan porsi terkecil terlebih dahulu dan sajikan pada siang hari."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "3. Leave a three-day window before trying a different new food."
+            "text": "3. Sisakan waktu tiga hari sebelum mencoba makanan baru yang berbeda."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "4. If the food is well tolerated, repeat it one to two times per week to maintain tolerance."
+            "text": "4. Jika makanan dapat ditoleransi dengan baik, ulangi satu hingga dua kali seminggu untuk menjaga toleransi."
           }
         },
         {
@@ -1551,19 +1550,19 @@
         {
           "type": "heading",
           "data": {
-            "text": "Possible allergy signs"
+            "text": "Kemungkinan tanda-tanda alergi"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Watch for redness around the mouth, hives, swelling of the lips or eyelids, coughing, sneezing, breathing difficulties, vomiting, diarrhea, or sudden irritability."
+            "text": "Perhatikan kemerahan di sekitar mulut, gatal-gatal, pembengkakan pada bibir atau kelopak mata, batuk, bersin, kesulitan bernapas, muntah, diare, atau mudah tersinggung secara tiba-tiba."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Seek urgent medical attention if you notice trouble breathing, facial swelling, or any signs of anaphylaxis."
+            "text": "Segera dapatkan pertolongan medis jika Anda mengalami kesulitan bernapas, pembengkakan pada wajah, atau tanda-tanda anafilaksis."
           }
         },
         {
@@ -1572,19 +1571,19 @@
         {
           "type": "heading",
           "data": {
-            "text": "If your child already reacted"
+            "text": "Jika anak Anda sudah bereaksi."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Do not reintroduce the allergen without guidance from your pediatrician or an allergist. They can advise on supervised challenges and the right timing."
+            "text": "Jangan memperkenalkan kembali alergen tersebut tanpa bimbingan dari dokter anak atau ahli alergi Anda. Mereka dapat memberi nasihat tentang tantangan yang diawasi dan waktu yang tepat."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Many children outgrow specific allergies, but it must happen gradually and under expert supervision."
+            "text": "Banyak anak yang berhasil mengatasi alergi tertentu, namun hal ini harus terjadi secara bertahap dan di bawah pengawasan ahli."
           }
         },
         {
@@ -1593,13 +1592,13 @@
         {
           "type": "heading",
           "data": {
-            "text": "Key takeaway"
+            "text": "Hal penting"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Allergens are not the enemy when introduced mindfully. Consistent, monitored exposure encourages healthy eating habits and reduces the likelihood of future allergies."
+            "text": "Alergen bukanlah musuh jika diperkenalkan dengan penuh kesadaran. Paparan yang konsisten dan dipantau mendorong kebiasaan makan yang sehat dan mengurangi kemungkinan alergi di masa depan."
           }
         }
       ],
@@ -1620,71 +1619,71 @@
     },
     {
       "id": "b2eba6f0-4c4c-4a57-8bb0-bda297d91c19",
-      "title": "Prohibited foods for children: up to 1 year, up to 3 years, up to 5 years",
-      "teaser": "A practical parent guide to foods that are unsafe at different ages and the reasons to avoid them.",
+      "title": "Makanan yang dilarang untuk anak-anak: hingga 1 tahun, hingga 3 tahun, hingga 5 tahun",
+      "teaser": "Panduan praktis orang tua tentang makanan yang tidak aman pada berbagai usia dan alasan untuk menghindarinya.",
       "cover": {
         "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/zaboroneni-produkty.webp",
-        "caption": "Prohibited foods for children at different ages"
+        "caption": "Makanan yang dilarang untuk anak-anak pada berbagai usia"
       },
       "blocks": [
         {
           "type": "paragraph",
           "data": {
-            "text": "Young children need safe, age-appropriate meals. Certain foods pose choking risks, contain toxins, or overload immature organs, so it’s important to know what to avoid."
+            "text": "Anak kecil membutuhkan makanan yang aman dan sesuai usia. Makanan tertentu menimbulkan risiko tersedak, mengandung racun, atau membebani organ yang belum matang, jadi penting untuk mengetahui apa yang harus dihindari."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "Up to 1 year"
+            "text": "Hingga 1 tahun"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Honey. May contain botulism spores and is dangerous even in tiny amounts."
+            "text": "• Madu. Mungkin mengandung spora botulisme dan berbahaya bahkan dalam jumlah kecil."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Salt and salty foods. Babies’ kidneys cannot handle excess sodium; avoid salty cheese, sausages, canned foods, and sauces."
+            "text": "• Garam dan makanan asin. Ginjal bayi tidak dapat menangani kelebihan natrium; hindari keju asin, sosis, makanan kaleng, dan saus."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Sugar and sweets. Increase the risk of cavities and obesity and create unhealthy taste preferences."
+            "text": "• Gula dan permen. Meningkatkan risiko gigi berlubang dan obesitas serta menciptakan preferensi rasa yang tidak sehat."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Whole nuts and seeds. Extremely high choking risk."
+            "text": "• Kacang-kacangan dan biji-bijian utuh. Risiko tersedak sangat tinggi."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Cow’s milk as a main drink. Too much protein and sodium, low iron → anemia risk; safe only for cooking."
+            "text": "• Susu sapi sebagai minuman utama. Terlalu banyak protein dan natrium, rendah zat besi → risiko anemia; hanya aman untuk dimasak."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• High-mercury fish. Shark, swordfish, and marlin can harm nervous system development."
+            "text": "• Ikan yang mengandung merkuri tinggi. Hiu, ikan todak, dan marlin dapat membahayakan perkembangan sistem saraf."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Raw or undercooked eggs, meat, fish. Risk of salmonella and other infections."
+            "text": "• Telur, daging, ikan mentah atau setengah matang. Risiko salmonella dan infeksi lainnya."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Juices and sweet drinks. Overload the pancreas, trigger diarrhea, and damage tooth enamel."
+            "text": "• Jus dan minuman manis. Membebani pankreas, memicu diare, dan merusak enamel gigi."
           }
         },
         {
@@ -1693,37 +1692,37 @@
         {
           "type": "heading",
           "data": {
-            "text": "From 1 to 3 years"
+            "text": "Dari 1 hingga 3 tahun"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Limit salt, sugar, and fatty foods. Harm teeth and kidneys; avoid sausages, fast food, store-bought sauces, sweet yogurts, and sugary drinks."
+            "text": "• Batasi garam, gula, dan makanan berlemak. Membahayakan gigi dan ginjal; hindari sosis, makanan cepat saji, saus yang dibeli di toko, yogurt manis, dan minuman manis."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Juices, sodas, nectars. Very high in sugar — heavy load for the liver and teeth."
+            "text": "• Jus, soda, nektar. Sangat tinggi gula — beban berat bagi hati dan gigi."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Popcorn, whole grapes, raw carrot sticks. Major choking hazards; serve grapes only sliced lengthwise."
+            "text": "• Popcorn, anggur utuh, wortel mentah. Bahaya tersedak yang besar; sajikan anggur hanya diiris memanjang."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Rice drinks. May contain elevated arsenic levels."
+            "text": "• Minuman nasi. Mungkin mengandung kadar arsenik yang tinggi."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Salty, smoked, or cured meat products. High in salt and nitrites (sausages, ham, hot dogs)."
+            "text": "• Produk daging yang asin, diasap, atau diawetkan. Tinggi garam dan nitrit (sosis, ham, hot dog)."
           }
         },
         {
@@ -1732,37 +1731,37 @@
         {
           "type": "heading",
           "data": {
-            "text": "From 3 to 5 years"
+            "text": "Dari 3 sampai 5 tahun"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Whole nuts and seeds. Can still block the airway at 4–5 years; offer ground nuts or unsweetened nut butters."
+            "text": "• Kacang-kacangan dan biji-bijian utuh. Masih dapat menyumbat jalan napas pada usia 4–5 tahun; tawarkan kacang tanah atau selai kacang tanpa pemanis."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Popcorn, hard candies, caramel. Very high choking risk."
+            "text": "• Popcorn, permen keras, karamel. Risiko tersedak sangat tinggi."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Foods high in sugar, salt, and fats. Drive obesity, diabetes, and cavities; examples include chips, snacks, donuts, sweet cookies, fast food."
+            "text": "• Makanan tinggi gula, garam, dan lemak. Mendorong obesitas, diabetes, dan gigi berlubang; contohnya keripik, makanan ringan, donat, kue manis, makanan cepat saji."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Soda and energy drinks. Lots of sugar and caffeine that harm teeth and the nervous system."
+            "text": "• Soda dan minuman berenergi. Banyak gula dan kafein yang membahayakan gigi dan sistem saraf."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Hard or round foods. Can block the airway: whole cherry tomatoes, whole grapes, firm raw vegetables."
+            "text": "• Makanan keras atau bulat. Dapat menghalangi jalan napas: tomat ceri utuh, anggur utuh, sayuran mentah yang keras."
           }
         },
         {
@@ -1797,145 +1796,145 @@
       ]
     },
     {
-      "title": "Meal Frequency and Portion Sizes During Complementary Feeding",
-      "teaser": "Evidence-based recommendations on feeding frequency, portion sizes, and intervals according to WHO, NHS, AAP, and Health Canada.",
+      "title": "Frekuensi Makan dan Ukuran Porsi Selama Pemberian Makanan Pendamping",
+      "teaser": "Rekomendasi berbasis bukti mengenai frekuensi pemberian makanan, ukuran porsi, dan interval menurut WHO, NHS, AAP, dan Health Canada.",
       "blocks": [
         {
           "type": "heading",
           "data": {
-            "text": "When to Start and How Often to Offer Food"
+            "text": "Kapan Memulai dan Seberapa Sering Memberikan Makanan"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "International recommendations consistently state that complementary feeding should begin around six months when the infant shows signs of readiness. At the beginning, one small meal per day is sufficient. Breast milk or formula remains the primary source of nutrition."
+            "text": "Rekomendasi internasional secara konsisten menyatakan bahwa pemberian makanan pendamping ASI harus dimulai sekitar enam bulan ketika bayi menunjukkan tanda-tanda kesiapan. Pada awalnya, satu kali makan kecil per hari sudah cukup. ASI atau susu formula tetap menjadi sumber nutrisi utama."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "Meal Frequency by Age"
+            "text": "Frekuensi Makan Berdasarkan Usia"
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "6–8 months"
+            "text": "6–8 bulan"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Recommended frequency is 2–3 meals per day. Breastfeeding or formula feeding continues between meals. Food should be soft or provided as safe finger-sized pieces."
+            "text": "Frekuensi yang disarankan adalah 2–3 kali makan per hari. Menyusui atau pemberian susu formula dilanjutkan di antara waktu makan. Makanan harus lembut atau diberikan dalam bentuk potongan seukuran jari yang aman."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "9–11 months"
+            "text": "9–11 bulan"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Recommended frequency is 3–4 meals per day. One or two healthy snacks may be added if needed. The variety of foods increases."
+            "text": "Frekuensi yang disarankan adalah 3–4 kali makan per hari. Satu atau dua camilan sehat dapat ditambahkan jika diperlukan. Variasi makanan bertambah."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "12 months and older"
+            "text": "12 bulan ke atas"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Three main meals and two snacks per day are recommended. The child gradually transitions to family foods, and milk is no longer the primary calorie source."
+            "text": "Dianjurkan tiga kali makan utama dan dua kali camilan per hari. Anak secara bertahap beralih ke makanan keluarga, dan susu tidak lagi menjadi sumber kalori utama."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "Recommended Portion Sizes"
+            "text": "Ukuran Porsi yang Direkomendasikan"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "6–8 months: vegetables and fruits — 2–3 tablespoons; cereals — 2–4 tablespoons; protein foods — 1–2 teaspoons."
+            "text": "6–8 bulan: sayuran dan buah-buahan — 2–3 sendok makan; sereal — 2–4 sendok makan; makanan berprotein — 1–2 sendok teh."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "9–11 months: vegetables and fruits — one-quarter to one-half cup; cereals — one-quarter to one-half cup; meat or legumes — 2–4 tablespoons."
+            "text": "9–11 bulan: sayuran dan buah-buahan — seperempat hingga setengah cangkir; sereal — seperempat hingga setengah cangkir; daging atau polong-polongan — 2–4 sendok makan."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "12–24 months: vegetables and fruits — one-half cup; grains — one-half cup; meat — 3–4 tablespoons; dairy — half a cup of yogurt or 20–30 g of cheese."
+            "text": "12–24 bulan: sayuran dan buah-buahan — satu setengah cangkir; biji-bijian — satu setengah cangkir; daging — 3–4 sendok makan; produk susu — setengah cangkir yogurt atau 20–30 g keju."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "Intervals Between Meals"
+            "text": "Interval Antar Waktu Makan"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Optimal intervals are approximately two and a half to three and a half hours. This supports healthy appetite regulation and prevents overeating."
+            "text": "Interval optimal kira-kira dua setengah hingga tiga setengah jam. Hal ini mendukung pengaturan nafsu makan yang sehat dan mencegah makan berlebihan."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "How to Recognize Satiety and Hunger"
+            "text": "Cara Mengenali Rasa kenyang dan Lapar"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Signs of satiety include turning the head away, closing the mouth, and reduced interest. Signs of hunger include reaching for food, opening the mouth, and showing continued interest."
+            "text": "Tanda-tanda kenyang antara lain memalingkan kepala, menutup mulut, dan berkurangnya minat. Tanda-tanda lapar adalah meraih makanan, membuka mulut, dan terus menunjukkan minat."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "Fluids During Complementary Feeding"
+            "text": "Cairan Selama Pemberian Makanan Pendamping"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "After six months, small amounts of water may be offered with meals. Water does not replace milk or formula."
+            "text": "Setelah enam bulan, sejumlah kecil air dapat diberikan bersama makanan. Air tidak menggantikan susu atau susu formula."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "When to Consult a Doctor"
+            "text": "Kapan Berkonsultasi dengan Dokter"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Consultation is recommended if the child gains weight poorly, rejects solid foods, shows repeated reactions to foods, or has chronic health conditions."
+            "text": "Konsultasi dianjurkan jika berat badan anak tidak bertambah dengan baik, menolak makanan padat, menunjukkan reaksi berulang terhadap makanan, atau memiliki kondisi kesehatan kronis."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "Summary"
+            "text": "Ringkasan"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Complementary feeding should begin after six months with a gradual increase in meal frequency. Portions should remain small and intervals regular. The core principle is gradual progression and responsiveness to the child's needs."
+            "text": "Pemberian makanan pendamping ASI harus dimulai setelah enam bulan dengan peningkatan frekuensi makan secara bertahap. Porsinya harus tetap kecil dan intervalnya teratur. Prinsip intinya adalah kemajuan bertahap dan tanggap terhadap kebutuhan anak."
           }
         },
         {
@@ -1945,7 +1944,7 @@
       "id": "31d7da57-b214-45e4-981e-7835b5d2e530",
       "cover": {
         "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/pryiomy-yizhi.webp",
-        "caption": "Meal schedule and portion sizes for complementary feeding"
+        "caption": "Jadwal makan dan ukuran porsi makanan pendamping ASI"
       },
       "sources": [
         {

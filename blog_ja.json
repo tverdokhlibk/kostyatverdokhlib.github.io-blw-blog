@@ -1,0 +1,1973 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2025-05-29T00:00:00Z",
+  "language": "ja",
+  "articles": [
+    {
+      "id": "b6dd27cc-8a79-4d12-a609-6bc0afd4f1b9",
+      "title": "「離乳食メモ」アプリの使用方法",
+      "teaser": "離乳食メモ Tracker アプリの主要なセクションを見て、赤ちゃん主導の離乳メモを整理しましょう。",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/app.webp",
+        "caption": "離乳食メモ アプリのインターフェース"
+      },
+      "blocks": [
+        {
+          "type": "heading",
+          "data": {
+            "text": "重要な医学的通知"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "離乳食メモ アプリは専門的な医学的アドバイスに代わるものではありません。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "新しい食べ物を追加したり、授乳スケジュールを変更したり、症状に対応する前に、必ず小児科医またはアレルギー専門医に相談してください。"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "アプリについて"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "離乳食メモ Tracker は赤ちゃんのモニタリングに役立ちます"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "•赤ちゃんがすでに試した食べ物を追跡します。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "•反応、メモ、コメントを記録します。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "•カスタム料理を作成します。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "•1 日または 1 週間全体の食事を計画します。"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "メインセクション"
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "📊 統計"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "最近の食事、反応、新しく導入した食べ物のスナップショットが表示されるので、進捗状況を追跡できます。"
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "🥣 製品"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "年齢に応じた食べ物を閲覧し、マークを付けます。あなたが紹介したアイテムを追加し、所見を追加します。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "⚠️ ラベルは規制されているアレルゲンをマークし、❗ は潜在的な過敏症を強調表示します。"
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "🍽️ メニュー"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "料理や簡単なメモを追加して、朝食、昼食、夕食、または軽食を計画します。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "メニューは 3 つのセクションに分かれています:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "1。今日。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "2。計画された食事。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "3。履歴。"
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "🧾カスタム食品"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "準備の詳細やメモを含め、独自の食品やレシピを追加します。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "必要に応じて編集または削除します。"
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "⚙️設定"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "いつでも iCloud 同期のオンとオフを切り替えます。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "手動更新の場合は「今すぐ同期」ボタンを使用し、必要に応じてキャッシュやヒントをクリアします。"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "同期"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "すべての情報はプライベート iCloud データベースに保存され、あなただけが閲覧できます。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "デバイスはそのままです。自動的に最新の状態に更新されます。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "iCloud ストレージがいっぱいの場合は、スペースを解放するか、プランをアップグレードしてください。"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "プライバシー"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "データは第三者と共有されず、開発者はあなたの記録にアクセスできません。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "すべてが Apple ID 内で安全に保たれます。"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "サポート"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "技術的な質問やアイデアについては、「設定」→「フィードバック」を開きます。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "デバイスのモデル、iOS バージョン、問題の説明を電子メールでサポートに送信することもできます。"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "覚えておいてください: このアプリは便利なコンパニオンですが、専門的な医療相談に代わるものではありません。"
+          }
+        }
+      ]
+    },
+    {
+      "id": "3f91c5db-5f06-4e36-9d2c-2b9188cbf65c",
+      "title": "いつ補完食を開始するか: 赤ちゃんの準備ができている兆候",
+      "teaser": "赤ちゃんが最初の固形物を食べる準備ができているかどうかを判断し、最適なタイミングを選択する方法。",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/1.webp",
+        "caption": "好奇心旺盛な赤ちゃんに最初のスプーン一杯の補完食"
+      },
+      "blocks": [
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "補完食を導入することは、赤ちゃんが専用の母乳や粉ミルクから新しい食べ物に移行する際の、赤ちゃんの発育における重要なマイルストーンです。適切な開始時期の選択は、食欲だけでなく、消化器系の発達、食習慣、さらには食に対する将来の態度にも影響します。"
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "補完食を開始する最適な年齢"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "世界保健機関 (WHO) およびほとんどの国の小児科医によると、固形食は生後約 6 か月で導入されるべきです。それまでは、母乳やミルクで赤ちゃんの栄養ニーズを十分にカバーできます。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "赤ちゃんによっては、もう少し早く 5 か月で準備が整う子もいますが、7 か月近くしかない赤ちゃんもいます。重要なのは、急がず、年齢だけでなく準備の合図にも焦点を当てることです。"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "注意すべき準備の兆候"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "子供はそれぞれ自分のペースで成長するため、子供たちの行動を観察することが重要です。以下は、新しい味を導入する時期が来たことを示す重要なシグナルです。"
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "1.赤ちゃんは頭をしっかりと支えます"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "赤ちゃんは頭を直立させ、最小限のサポートで座ることができる必要があります。これは食事中に窒息する危険がないように安全のために非常に重要です。"
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "2.家族の食事に興味を示します"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "赤ちゃんがお母さんが興味津々で食べる様子を眺めたり、スプーンに手を伸ばしたり、一口食べようとしたりする場合、それは新しい食べ物に興味を持っている証拠です。"
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "3.舌を突き出す反射が消えた"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "新生児には、牛乳よりも厚いものを自動的に押し出す自然な舌を突き出す反射が備わっています。この反射が消えると、赤ちゃんはピューレ状の食感を扱えるようになります。"
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "4.食欲が増し、ミルクだけでは十分ではありません"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "赤ちゃんがもっと頻繁に授乳を要求しても、その後もまだ満足していないように見える場合は、体がより多くの栄養素を必要としている可能性があります。"
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "5.体重は出生時より 2 倍になりました"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "出生時の体重が 2 倍になることは、もう 1 つの準備の指標です。これは、赤ちゃんが活発に成長しており、余分なエネルギーを必要としていることを示しています。"
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "6. 病気の兆候はない"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "新しい食べ物を一時的に拒否する原因となるような風邪、おなかのトラブル、歯が生える不快感などがなく、赤ちゃんが健康なときにのみ固形物を食べ始めてください。"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "補完食を延期する時期"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "赤ちゃんが病気の場合や予防接種を受けたばかりの場合は、新しい食べ物を与えないでください。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "脱水症状の危険があるため、熱波中の出発は避けてください。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "引っ越しや新しい介護者の配置など、大きなストレスや日常的な変化に気づいた場合は、導入を遅らせてください。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "赤ちゃんがまだ頭をしっかりと支えられない、または自分で座れない場合は待ちます。"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "初めての授乳の準備方法"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "1. 赤ちゃんが機敏で、あまりお腹が空いておらず、機嫌が良いときなど、適切な時間を選びます。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "2. 単一の食品から始めて、2 ～ 3 日間反応を観察します。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "3. 無理に動かさないでください。赤ちゃんが顔をそむけたり、唇を押し付けたりした場合は、後でもう一度試してください。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "4. 哺乳瓶ではなくスプーンで食べ物を与えます。これは赤ちゃんが正しく飲み込むことを学ぶのに役立ちます。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "5. メモを取る - 小さな授乳日記を付けるか、モバイル アプリを使用します。"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "早いのか遅いのか？なぜバランスが重要なのか"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "固形物を生後 4 か月未満など早すぎると摂取すると、消化器系に過負荷がかかり、アレルギーやおなかの問題のリスクが高まる可能性があります。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "開始が 8 か月以降など遅すぎると、鉄欠乏、食感のある食べ物の拒否、咀嚼能力の発達の遅れにつながる可能性があります。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "最善の戦略は、カレンダーの決まった日付ではなく、赤ちゃんの準備ができているかどうかに焦点を当てることです。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "固形物を取り入れることは、食べ物だけではありません。赤ちゃんの発育における新たなステップです。準備の合図に気づいたら、注意と好奇心を持って、ゆっくりと新しい味を提供してください。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "覚えておいてください。スプーン一杯一杯は小さな発見であり、自立と新たな感覚への一歩です。"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "WHO complementary feeding guidance",
+          "url": "https://www.who.int/publications/i/item/9789240081864"
+        },
+        {
+          "title": "UNICEF Baby Friendly: Start4Life",
+          "url": "https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2008/02/Start4Life-Introducing-Solid-Foods-2015.pdf"
+        },
+        {
+          "title": "EFSA Journal 5780",
+          "url": "https://www.efsa.europa.eu/en/efsajournal/pub/5780"
+        },
+        {
+          "title": "NHS: From around 6 months",
+          "url": "https://www.nhs.uk/best-start-in-life/baby/weaning/what-to-feed-your-baby/from-around-6-months"
+        }
+      ]
+    },
+    {
+      "id": "f7ddca56-f196-4524-bb21-51b5a63a40f3",
+      "title": "補完食用の最初の食品: 最初に提供するもの",
+      "teaser": "初めての固形物に最適な野菜とシリアル、および新しい味を安全に取り入れる方法に関するガイド。",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/2.webp",
+        "caption": "最初の補完料理としてのピューレとシリアル"
+      },
+      "blocks": [
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "固形物を食べ始めることは、赤ちゃんの人生の新しい段階であり、親にとって重要なステップです。生後6か月を過ぎると、母乳やミルクだけでは十分ではなくなるため、赤ちゃんは徐々に追加の食べ物が必要になります。しかし、すべてを安全かつ有益に保つにはどこから始めればよいでしょうか?"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "最初にどの食品を選ぶべきですか"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "固形物を始めるにはいくつかの方法があり、選択は多くの場合、健康状態、体重増加、医師のアドバイスによって異なります。小児科医は通常、赤ちゃんの体が徐々に適応できるように、単一成分の野菜または穀物のピューレを推奨します。"
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "オプション 1. 野菜のピューレ"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "体重が増え始めている赤ちゃんや、すでに体重が増えている赤ちゃんに最適です。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "最初の野菜には通常次のものが含まれます:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- ズッキーニ;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- カリフラワー;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- ブロッコリー;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- カボチャ。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "それらは消化しやすく、アレルギーを引き起こすことはほとんどありません。母乳に似た優しい味わいです。塩や香辛料を含まないピューレを、1 日あたり小さじ 1 ～ 2 杯から始めます。"
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "オプション 2. グルテンフリーのシリアル"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "赤ちゃんの体重の増加が遅い場合、またはエネルギーが不足しているように見える場合は、単一原材料の乳製品不使用のシリアルから始めます:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 米;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- そば;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- トウモロコシ。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "シリアルを水で調理するか、または母乳と混ぜます。式。重要なのは、砂糖、塩、添加物を含まないことです。"
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "オプション 3. フルーツピューレ"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "果物はとても美味しいので、赤ちゃんはすぐに慣れてしまいますが、焦らないでください。お子様が甘いものを拒否しないように、野菜の後に与えてください。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "最初の選択肢は次のとおりです:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- リンゴ;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 梨;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- バナナ (生後 7 か月から)"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "最初の食べ物を与える方法"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "1.まずは1つの材料から始めましょう。反応を追跡しやすいように、新しい食べ物をそれぞれ単独で提供します。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "2.徐々に量を増やしてください。小さじ 1 杯から始めて、ゆっくりと 1 回分 (1 日あたり 100 ～ 150 g) まで増やします。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "3.反応に注目してください。発疹、腹痛、または便の変化がない場合は、3 ～ 4 日後に別の食品を追加できます。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "4.塩、砂糖、スパイスを使わずに調理します。原材料の自然な味が赤ちゃんに必要なものすべてです。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "5.適切なタイミングを選択してください。朝と昼の授乳の間の日中、赤ちゃんの機嫌が良いときに新しい食べ物を与えてください。"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "最初の週のメニューの例"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 1 ～ 3 日目: ズッキーニのピューレ — 小さじ 1 ～ 3 ～ 4 杯"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 4 ～ 6 日目: カリフラワーのピューレ — 小さじ 1 ～ 5 杯"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 7 ～ 10 日目: ズッキーニ +カリフラワー、またはそばシリアルに切り替えます。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "生後 7 か月からは、ジャガイモ、ニンジン、カボチャ、リンゴ、梨、その後は肉を加えてもよいでしょう。"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "固形物を食べ始めるときによくある間違い"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 赤ちゃんが座ったり、頭を抱えたりできるようになる前から始めます。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 一度に複数の新しい食べ物を与える。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 塩や砂糖を加える。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 赤ちゃんが食べたくないときに食べるよう圧力をかける。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 病気中または予防接種直後に固形物を与える。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "覚えておいてください: 補完食は競争ではなく、新しい味の世界への穏やかな入門です。"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "医師に連絡する時期"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "新しい食べ物を食べた後に次のことに気付いた場合は小児科医に連絡してください。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 発疹または発赤;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 下痢または便秘;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 頻繁に吐き出す;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 落ち着きのなさまたは混乱睡眠;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- むくみや呼吸困難 - 新しい食べ物をすぐに中止し、小児科医またはアレルギー専門医の診察を受けてください。"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "保護者向けのヒント"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 1 歳になるまでは母乳または粉ミルクが主な栄養源です。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 前向きな食事の環境を作りましょう。笑顔で声を落ち着かせてください。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 赤ちゃんにスプーンを触らせて自分で食べさせてみてください。好奇心と運動能力が刺激されます。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 気に入らないことがあれば、数日間休み、申し出てください。 "
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "テイクアウト"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "最初の補完食品は、シンプル、安全、そして自然なものでなければなりません。野菜やシリアルから始めて、赤ちゃんをよく観察し、新しい料理を少しずつ追加してください。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "何よりも、落ち着いて、急がず、思いやりを持ってください。新しいスプーン一杯ごとに、赤ちゃんは家族の食事という大きな世界への一歩を踏み出します。"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "NHS — Your baby’s first solid foods",
+          "url": "https://www.nhs.uk/baby/weaning-and-feeding/babys-first-solid-foods/"
+        },
+        {
+          "title": "Start4Life / UNICEF — Introducing Solid Foods",
+          "url": "https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2008/02/Start4Life-Introducing-Solid-Foods-2015.pdf"
+        },
+        {
+          "title": "ESPGHAN — Complementary Feeding Position Paper",
+          "url": "https://alimentacionysalud.unam.mx/wp-content/uploads/2020/12/Complementary-Feeding_-A-Position-Paper-by-the-European-Society-for-Paediatric-Gastroenterology-Hepatology-and-Nutrition-ESPGHAN-Committee-on-Nutrition.pdf"
+        },
+        {
+          "title": "AAP — Starting Solid Foods handout",
+          "url": "https://18andundermd.com/wp-content/uploads/2020/02/solid-food-introduction-handout.pdf"
+        },
+        {
+          "title": "Allergy UK — Weaning: Introducing Your Baby to Solids",
+          "url": "https://www.allergyuk.org/wp-content/uploads/2022/02/Weaning-%E2%80%93-Introducing-Your-Baby-to-Solids.pdf"
+        }
+      ]
+    },
+    {
+      "id": "7accabaa-306a-4267-8159-7b684cfec85d",
+      "title": "BLW (赤ちゃん主導の離乳) または自己給餌 — 固形物を導入する現代的な方法",
+      "teaser": "BLW のアプローチとは何か、準備状況を評価する方法、安全な自己給餌を計画する方法。",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/3.webp",
+        "caption": "最初の食事中に固形食品を独自に探求する赤ちゃん"
+      },
+      "blocks": [
+        {
+          "type": "heading",
+          "data": {
+            "text": "BLW とは"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "BLW (赤ちゃん主導の離乳) は食事の種類ではなく、最初の固形食から赤ちゃんが主導権を持って摂食するアプローチです。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "このアイデアは、英国の看護師、授乳コンサルタント、研究者であるギル・ラプリーによって策定されました。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "BLW は、そのシンプルかつ革新的なコンセプトのおかげで世界中に広がりました。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "「子供は自分で授乳を主導し、大人は安全で自然な離乳食を提供します」 "
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "自給自足の利点"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 乳児期から健康的な食習慣を奨励する;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 協調性と細かい運動能力を養う;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 触覚、味覚、嗅覚を通じて感覚の発達を刺激する;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 将来の過食や偏食のリスクを軽減する;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 食事中の親子の感情的なつながりを強化する。"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "BLW を始める時期"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "自給自足は生後 6 か月前後の赤ちゃんに適しています。 "
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 自立して座ることができる、または最小限のサポートで座ることができる;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 頭をしっかりと保つことができる;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 手で食べ物を掴んで口に運ぶことができる。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "始める前に、赤ちゃんの身体の準備が整っていることを確認してください。消化器系、咀嚼能力、姿勢の安定性が十分に発達している必要があります。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "世界保健機関も、母乳育児を継続しながら 6 か月後に固形物を導入することを推奨しています。"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "BLW の中核ルール"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "1. 安全第一。赤ちゃんは嚥下と呼吸を調整するために直立して座る必要があります。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "2.スプーンで食べさせないでください。何を、いつ、どのくらい食べるかは赤ちゃんに決めさせてください。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "3.食事中は決して赤ちゃんから目を離さないでください。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "4.塩、砂糖、蜂蜜、スパイスは避けてください。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "5.安全な形状と大きさの柔らかい食品を提供してください。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "6.水はシッピーカップではなく、カップまたは開いたグラスに入れてください。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "7.食事中は機器やテレビを使用しないでください。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "8。 1 歳までは母乳またはミルクが主食です。"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "食事時間の設定方法"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- フットレスト付きの快適なハイチェアに赤ちゃんを座らせます;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 気が散るのを防ぐため、柄のない無地の食器を選びます;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 吸盤またはシリコンマットを使用します;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 椅子の下にマットまたは布を置きます - 最初は散らかるのは避けられません;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- ポケット付きのシリコンよだれかけを準備します;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 食べ物は長いストリップまたはスティックとして大まかに盛り付けます大人の指サイズ。"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "食べ物を安全に提供する方法"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "食感を確認してください。食べ物が指の間で簡単に押しつぶせる場合は、安全です。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "ブロッコリー、カリフラワー、ニンジン、ズッキーニ、アボカド、バナナ、蒸しリンゴなど、柔らかい野菜や果物から始めます。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "シリアル、肉、豆類、卵などの他の食品を徐々に追加します。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "重要なのは、ゆっくりと時間をかけて、徐々に新しい食材を導入することです。赤ちゃんの反応を見ながら。"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "窒息のリスクと自然な反射"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "親は窒息を心配することがよくありますが、BLW のリスクは従来のスプーン授乳よりも高くないことが研究で示されています。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "赤ちゃんには強い咽頭反射があり、破片が喉の奥まで入り込むのを防ぐ自然な安全機構です。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "重要:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 赤ちゃんの口の中に手やスプーンを入れないでください。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 背中をたたいたりしないでください。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 静かに咳き込ませてください。アウト;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 赤ちゃんが呼吸しておらず、音も出ず、青くなった場合にのみ介入してください。"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "最初に与えるもの"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "最初の試みでは、歯茎で潰せる柔らかい食べ物を選択してください:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 調理した野菜 (ニンジン、カボチャ、ジャガイモ、ブロッコリー);"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 果物 (バナナ、梨、アボカド);"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 柔らかい肉またはミートボール;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 形を整えた厚いお粥ストリップ;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- トースト、パスタ、卵、魚 - 月齢に応じて徐々に与えます。"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "スプーンと組み合わせる"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "赤ちゃんが自分でスプーンを持っている場合、BLW ではスプーンの使用を禁止しません。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "スターターには、小さな突起のあるスプーン付きの器具が最適です。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "赤ちゃんがコントロールできるように、ピューレは濃厚で、とろとろになっていないことを確認してください。"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "BLW が適さない場合"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "次の症状のある赤ちゃんにはこのアプローチを避けてください。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 嚥下障害（嚥下困難）;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 低血圧または発育遅延;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 口の構造的問題;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 低体重、貧血、または未熟児（小児科の承認なし）。"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "世界的な経験と推奨事項"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- WHO は、生後 6 か月から補完食を開始し、同時に 2 歳以上まで母乳育児を続けることを強調しています。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 米国小児科学会大人が監督し、適切な食感を選択すれば、BLW は安全であると考えられています。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- 英国国民保健サービスは、自分で食べることで赤ちゃんが空腹と満腹感を認識し、自立心を育むのに役立つと指摘しています。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- BMJ Open および International Journal of Pediatrics の系統的レビューでは、BLW 食は同様の栄養を提供しますが、鉄分の摂取量を監視し、固い塊を避けることが重要であることが示されています。"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "BLW は、お子様の発達をサポートする自然で、思いやりがあり、敬意を持った方法です。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "それ自立を促進し、食べ物との健康的な関係を築き、前向きな食事の雰囲気を作り出します。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "親は子どもに寄り添い、サポートし、信頼する必要があります。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "固形物の最終目標は、ただ食事を与えるだけでなく、子供に楽しく、自信を持って、安全に食べるように教えることです❤️。"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "WHO – Complementary Feeding",
+          "url": "https://www.who.int/health-topics/complementary-feeding"
+        },
+        {
+          "title": "WHO – Continued Breastfeeding",
+          "url": "https://www.who.int/tools/elena/bbc/continued-breastfeeding"
+        },
+        {
+          "title": "NHS – Baby’s First Solid Foods",
+          "url": "https://www.nhs.uk/baby/weaning-and-feeding/babys-first-solid-foods/"
+        },
+        {
+          "title": "NHS – Weaning & Readiness Signs",
+          "url": "https://bedslutonchildrenshealth.nhs.uk/feeding-and-eating/weaning-and-introducing-solid-foods/"
+        },
+        {
+          "title": "UNICEF / Start4Life – Introducing Solid Foods",
+          "url": "https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2008/02/Start4Life-Introducing-Solid-Foods-2015.pdf"
+        },
+        {
+          "title": "AAP – Baby-Led Weaning: Is It Safe?",
+          "url": "https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/baby-led-weaning-is-it-safe.aspx"
+        }
+      ]
+    },
+    {
+      "id": "08e35bc2-a02f-4d59-bb5f-c4698ceef69e",
+      "title": "赤ちゃんの離乳期にアレルゲンを導入する",
+      "teaser": "アレルゲンへの曝露をタイムリーかつ十分に監視することで、その後の食物アレルギーのリスクがなぜ低くなるのか。",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/allergy.webp",
+        "caption": "親赤ちゃん主導の離乳中に、アレルギーを起こしやすい食品を安全に与えることができます。"
+      },
+      "blocks": [
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "食物アレルギーは、幼児期に最も一般的な懸念事項の 1 つです。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "親はかつて、アレルギーを引き起こす食品を遅らせるようにアドバイスされていましたが、現在の証拠はその逆を示しています。早い段階で、制御された少量ずつ与えることで、免疫システムが新しい食材に耐えられるように訓練されます。"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "最新のアプローチ"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "WHO、ESPGHAN、米国小児科学会などの主要組織は、赤ちゃんが発達的に固形物を摂取する準備が整う生後 6 か月頃にアレルギー誘発性食品を導入することを提案しています。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "「少量ずつ徐々に暴露すると免疫寛容が構築される」と小児アレルギー学者は強調します。常に赤ちゃんが健康で、発疹や風邪がないときを選んでください。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "一度に新しい食材を 1 つだけ導入し、赤ちゃんがどのように反応するかを観察できるように、その日の早い時間に行います。"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "主要な食物アレルゲン"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "欧州連合は 14 の主要なアレルゲンを認識しています: グルテン、ピーナッツ、木の実、セロリ、マスタード、牛乳、卵、ゴマ、魚、甲殻類、軟体動物、大豆、 "
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "乳児の場合、卵、魚、牛乳、小麦、大豆、ピーナッツ、セロリ、各種ナッツ、ゴマが最も関係があります。"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "いつ、どのように開始するか"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "赤ちゃんが野菜、シリアル、肉を快適に扱えるようになったら、アレルゲンへの曝露を開始します。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "•少量から始めてください — ほんの少しのパン粉または小さじ 4 分の 1 だけです。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "| 反応が現れない場合は、徐々に量を増やし、授乳を続けてください。日付と量を記録します。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• 耐性を強化するために、その週に同じアレルゲンを再度提供します。"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "安全なアレルゲン導入チェックリスト"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "1。反応を正確に特定できるように、一度に追加する新しい食品は 1 つだけです。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "2.最初に一番小さな部分を提示し、日中にお召し上がりください。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "3.別の新しい食べ物を試す前に 3 日間の猶予期間を空けてください。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "4.食物の耐性が良好な場合は、耐性を維持するために週に 1 ～ 2 回繰り返してください。"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "アレルギーの兆候の可能性があります。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "口の周りの発赤、じんましん、唇やまぶたの腫れ、咳、くしゃみ、呼吸困難、嘔吐、下痢、または突然の過敏症に注意してください。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "呼吸困難、顔の腫れ、またはアナフィラキシーの兆候に気づいた場合は、緊急に医師の診察を受けてください。"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "お子様がすでに反応している場合"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "小児科医またはアレルギー専門医の指導なしに、アレルゲンを再導入しないでください。彼らは、監督付きの課題と適切なタイミングについてアドバイスすることができます。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "多くの子供たちは特定のアレルギーを克服しますが、それは専門家の監督の下で徐々に起こる必要があります。"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "重要なポイント"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "アレルゲンは、注意して導入すれば敵ではありません。一貫して監視しながら曝露することで、健康的な食習慣が促進され、将来のアレルギーの可能性が減少します。"
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "HealthyChildren.org",
+          "url": "https://www.healthychildren.org/English/healthy-living/nutrition/Pages/when-to-introduce-egg-peanut-butter-and-other-common-food-allergens-to-your-baby-food-allergy-prevention-tips.aspx"
+        },
+        {
+          "title": "AAP Pediatrics",
+          "url": "https://publications.aap.org/pediatrics/article/152/5/e2023062836/194356/Updates-in-Food-Allergy-Prevention-in-Children"
+        },
+        {
+          "title": "EFSA: Food allergens",
+          "url": "https://www.efsa.europa.eu/en/safe2eat/food-allergens"
+        }
+      ]
+    },
+    {
+      "id": "b2eba6f0-4c4c-4a57-8bb0-bda297d91c19",
+      "title": "子供に禁止されている食品: 1 歳まで、3 歳まで、5 歳まで",
+      "teaser": "さまざまな年齢で安全でない食品とそれを避けるべき理由に関する実践的な保護者向けガイド。",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/zaboroneni-produkty.webp",
+        "caption": "さまざまな年齢の子供に禁止されている食品"
+      },
+      "blocks": [
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "幼い子供には、安全で年齢に応じた食事が必要です。特定の食品は窒息の危険性があり、毒素を含んでいたり、未熟な臓器に過負荷を与えたりするため、何を避けるべきかを知ることが重要です。"
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "最長 1 年"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• ハチミツ。ボツリヌス菌の胞子が含まれている可能性があり、たとえ微量であっても危険です。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• 塩分および塩辛い食べ物。赤ちゃんの腎臓は過剰なナトリウムを処理できません。塩辛いチーズ、ソーセージ、缶詰、ソースは避けてください。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• 砂糖とお菓子。虫歯や肥満のリスクを高め、不健康な味の好みを作り出します。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• 丸ごとのナッツと種子。窒息の危険性が非常に高い。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• 主な飲み物は牛乳。タンパク質とナトリウムが多すぎる、鉄分が少ない→貧血のリスク;調理にのみ安全です。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• 水銀を多く含む魚。サメ、メカジキ、カジキは神経系の発達に悪影響を与える可能性があります。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• 生または加熱が不十分な卵、肉、魚。サルモネラ菌やその他の感染症のリスク。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• ジュースや甘い飲み物。膵臓に負担をかけ、下痢を引き起こし、歯のエナメル質を損傷します。"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "1 ～ 3 歳"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• 塩分、砂糖、脂肪分の多い食べ物を制限します。歯と腎臓に害を与えます。ソーセージ、ファーストフード、市販のソース、甘いヨーグルト、甘い飲み物は避けてください。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• ジュース、ソーダ、ネクター。糖分が非常に多く含まれているため、肝臓や歯に大きな負担がかかります。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• ポップコーン、丸ごとのブドウ、生のニンジンスティック。重大な窒息の危険;縦にスライスしたブドウのみを提供します。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• ライスドリンク。高レベルのヒ素が含まれる可能性があります。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• 塩味、燻製、または塩漬けの肉製品。塩分と亜硝酸塩が多い（ソーセージ、ハム、ホットドッグ）。"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "3 歳から 5 歳まで"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• 丸ごとのナッツと種子。 4 ～ 5 歳になっても気道を閉塞する可能性があります。グラウンドナッツや無糖のナッツバターをあげましょう。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• ポップコーン、ハードキャンディー、キャラメル。窒息の危険性が非常に高い。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• 砂糖、塩分、脂肪を多く含む食品。肥満、糖尿病、虫歯を促進します。例としては、ポテトチップス、スナック、ドーナツ、甘いクッキー、ファーストフードなどがあります。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• ソーダやエナジードリンク。歯や神経系に悪影響を及ぼす砂糖とカフェインが多量に含まれています。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• 硬い食べ物や丸い食べ物。気道を閉塞する可能性があります: 丸ごとのチェリートマト、丸ごとのブドウ、固い生野菜。"
+          }
+        },
+        {
+          "type": "divider"
+        }
+      ],
+      "sources": [
+        {
+          "title": "WHO — Complementary Feeding",
+          "url": "https://www.who.int/health-topics/complementary-feeding"
+        },
+        {
+          "title": "NHS — Foods to Avoid Giving Babies and Young Children",
+          "url": "https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/"
+        },
+        {
+          "title": "UNICEF / Start4Life — Introducing Solid Foods",
+          "url": "https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2008/02/Start4Life-Introducing-Solid-Foods-2015.pdf"
+        },
+        {
+          "title": "UK GOV — Feeding Young Children (1–5 years)",
+          "url": "https://www.gov.uk/government/publications/sacn-report-feeding-young-children-aged-1-to-5-years"
+        },
+        {
+          "title": "Healthy Eating Research — Infant & Toddler Feeding Guidelines",
+          "url": "https://healthyeatingresearch.org/tips-for-families/ages-0-2-feeding-recommendations/"
+        },
+        {
+          "title": "Early Years Foundation Stage – Choking Hazard Table",
+          "url": "https://www.foundationyears.org.uk/files/2021/09/Early-Years-Choking-Hazards-Table_FINAL_21-Sept-2021.pdf"
+        }
+      ]
+    },
+    {
+      "title": "補完給餌中の食事の頻度と分量",
+      "teaser": "WHO、NHS、AAP、およびカナダ保健省による、授乳頻度、分量、および間隔に関する証拠に基づく推奨事項。",
+      "blocks": [
+        {
+          "type": "heading",
+          "data": {
+            "text": "いつ開始するか、どのくらいの頻度で食事を提供するか"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "国際的な推奨事項では一貫して、補完食の摂取開始はおよそ 6 か月であるとされています。乳児は準備の兆候を示しています。最初は1日1回の少量の食事で十分です。母乳またはミルクが依然として主な栄養源です。"
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "年齢別の食事頻度"
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "6 ～ 8 か月"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "推奨される頻度は 1 日あたり 2 ～ 3 回です。授乳または粉ミルクの授乳は食事の間に継続されます。食事は柔らかいもの、または指サイズの安全なものとして提供する必要があります。"
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "9 ～ 11 か月 "
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "推奨される頻度は 1 日あたり 3 ～ 4 回です。必要に応じて、健康的なスナックを 1 つまたは 2 つ追加できます。食べ物の種類が増えます。"
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "12か月以上"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "1日3回の主食と2回の間食が推奨されています。子供は徐々に家族の食事に移行し、牛乳はもはや主なカロリー源ではなくなります。"
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "推奨される分量"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "6～8 か月: 野菜と果物 - 大さじ 2～3。シリアル — 大さじ2〜4。たんぱく質食品 — 小さじ 1 ～ 2 杯。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "9 ～ 11 か月: 野菜と果物 — カップ 4 分の 1 ～ 2 分の 1。シリアル — 4分の1から2分の1カップ。肉または豆類 — 大さじ 2 ～ 4。"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "12 ～ 24 か月: 野菜および果物 — カップ半分。穀物 - カップ半分。肉 — 大さじ3〜4。乳製品 — ヨーグルト半カップ、またはチーズ 20 ～ 30 g。"
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "食事の間隔"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "最適な間隔は約 2 時間半～3 時間半です。これにより、健康的な食欲の調節がサポートされ、過食が防止されます。"
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "満腹感と空腹感を認識する方法"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "満腹感の兆候には、顔をそむける、口を閉じる、興味の低下などがあります。空腹の兆候には、食べ物に手を伸ばす、口を開ける、興味を示し続けるなどがあります。"
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "補完食中の水分補給"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "6 か月後、食事と一緒に少量の水を与えることができます。水はミルクや粉ミルクの代わりにはなりません。"
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "いつ医師に相談すべきか"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "子供の体重増加が乏しい場合、固形食品を拒否する場合、食物に対して繰り返し反応を示す場合、または慢性的な健康状態がある場合は、相談することをお勧めします。"
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "概要"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "補完食は 6 か月後に開始し、食事の頻度を徐々に増やしてください。分量は少なく、間隔は一定に保つ必要があります。基本原則は、徐々に進歩し、子どものニーズに応えることです。"
+          }
+        },
+        {
+          "type": "divider"
+        }
+      ],
+      "id": "31d7da57-b214-45e4-981e-7835b5d2e530",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/pryiomy-yizhi.webp",
+        "caption": "補完食の食事スケジュールと分量"
+      },
+      "sources": [
+        {
+          "title": "WHO – Complementary Feeding",
+          "url": "https://www.who.int/health-topics/complementary-feeding"
+        },
+        {
+          "title": "WHO – Guiding Principles for Complementary Feeding",
+          "url": "https://www.who.int/publications/i/item/9241593431"
+        },
+        {
+          "title": "NHS – Your baby’s first solid foods",
+          "url": "https://www.nhs.uk/conditions/baby/weaning-and-feeding/"
+        },
+        {
+          "title": "American Academy of Pediatrics – Starting Solid Foods",
+          "url": "https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Starting-Solid-Foods.aspx"
+        },
+        {
+          "title": "Health Canada – Infant Feeding",
+          "url": "https://www.canada.ca/en/health-canada/services/infant-care/infant-feeding.html"
+        }
+      ]
+    }
+  ]
+}

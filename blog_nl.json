@@ -1,34 +1,33 @@
 {
   "schemaVersion": 1,
   "updatedAt": "2025-05-29T00:00:00Z",
-
-  "language": "en",
+  "language": "nl",
   "articles": [
     {
       "id": "b6dd27cc-8a79-4d12-a609-6bc0afd4f1b9",
-      "title": "How to Use the “My Feeding” App",
-      "teaser": "Tour the main sections of the My Feeding Tracker app and keep baby-led weaning notes in order.",
+      "title": "Hoe u de \"Bijvoeding\"-app gebruikt",
+      "teaser": "Bekijk de hoofdonderdelen van de Bijvoeding Tracker-app en houd baby-geleide aantekeningen bij over het afslanken.",
       "cover": {
         "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/app.webp",
-        "caption": "My Feeding app interface"
+        "caption": "App_NAME app-interface"
       },
       "blocks": [
         {
           "type": "heading",
           "data": {
-            "text": "Important medical notice"
+            "text": "Belangrijke medische mededeling"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "The My Feeding app does not replace professional medical advice."
+            "text": "De Bijvoeding-app is geen vervanging voor professioneel medisch advies."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Always consult your pediatrician or allergist before adding new foods, changing the feeding schedule, or responding to symptoms."
+            "text": "Raadpleeg altijd uw kinderarts of allergoloog voordat u nieuwe voeding toevoegt, het voedingsschema wijzigt of op symptomen reageert."
           }
         },
         {
@@ -37,37 +36,37 @@
         {
           "type": "heading",
           "data": {
-            "text": "About the app"
+            "text": "Over de app"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "My Feeding Tracker helps you monitor complementary feeding progress and keep every note tidy."
+            "text": "Bijvoeding Tracker helpt u aanvullende voeding te controleren voortgang van de voeding en houd elke notitie bij."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Track which foods your baby has already tried."
+            "text": "• Houd bij welke voedingsmiddelen uw baby al heeft geprobeerd."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Log reactions, notes, and comments."
+            "text": "• Log reacties, notities en opmerkingen in."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Create custom dishes."
+            "text": "• Maak aangepaste gerechten."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Plan meals for a day or an entire week."
+            "text": "• Plan maaltijden voor een dag of een hele week."
           }
         },
         {
@@ -76,37 +75,37 @@
         {
           "type": "heading",
           "data": {
-            "text": "Main sections"
+            "text": "Hoofdsecties"
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "📊 Statistics"
+            "text": "📊 Statistieken"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Gives you a snapshot of recent meals, reactions, and newly introduced foods so you can follow progress."
+            "text": "Geeft u een momentopname van recente maaltijden, reacties en nieuw geïntroduceerde voedingsmiddelen, zodat u de voortgang kunt volgen."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "🥣 Products"
+            "text": "🥣 Producten"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Browse age-appropriate foods, mark the items you have introduced, and add observations."
+            "text": "Blader door voor uw leeftijd geschikte voedingsmiddelen, markeer de items die u heeft geïntroduceerd en observaties toegevoegd."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "The ⚠️ label marks regulated allergens while ❗ highlights potential sensitivities."
+            "text": "Het ⚠️ label markeert gereguleerde allergenen, terwijl ❗ potentiële gevoeligheden benadrukt."
           }
         },
         {
@@ -118,67 +117,67 @@
         {
           "type": "paragraph",
           "data": {
-            "text": "Plan breakfast, lunch, dinner, or snacks by adding dishes and quick notes."
+            "text": "Plan ontbijt, lunch, diner of snacks door gerechten en snelle aantekeningen toe te voegen."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "The menu is split into three sections:"
+            "text": "Het menu is opgesplitst in drie secties:"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "1. Today."
+            "text": "1. Vandaag."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "2. Planned meals."
+            "text": "2. Geplande maaltijden."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "3. History."
+            "text": "3. Geschiedenis."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "🧾 Custom foods"
+            "text": "🧾 Aangepaste voedingsmiddelen"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Add your own foods or recipes, including preparation details and notes."
+            "text": "Voeg uw eigen voedingsmiddelen of recepten toe, inclusief bereidingsdetails en aantekeningen."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Edit or delete them whenever needed."
+            "text": "Bewerk of verwijder ze wanneer dat nodig is."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "⚙️ Settings"
+            "text": "⚙️ Instellingen"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Toggle iCloud sync on or off at any time."
+            "text": "Schakel iCloud-synchronisatie op elk gewenst moment in of uit."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Use the “Sync Now” button for manual updates, and clear cache or hints when required."
+            "text": "Gebruik de knop 'Nu synchroniseren' voor handmatige updates en wis indien nodig het cachegeheugen of hints."
           }
         },
         {
@@ -187,25 +186,25 @@
         {
           "type": "heading",
           "data": {
-            "text": "Synchronization"
+            "text": "Synchronisatie"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "All information is stored in your private iCloud database and visible only to you."
+            "text": "Alle informatie wordt opgeslagen in uw privé-iCloud-database en is alleen zichtbaar voor u."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Devices stay up to date automatically."
+            "text": "Apparaten blijven actief automatisch bijgewerkt."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "If your iCloud storage is full, free up space or upgrade your plan."
+            "text": "Als uw iCloud-opslag vol is, maak dan ruimte vrij of upgrade uw abonnement."
           }
         },
         {
@@ -220,13 +219,13 @@
         {
           "type": "paragraph",
           "data": {
-            "text": "No data is shared with third parties, and developers cannot access your records."
+            "text": "Er worden geen gegevens gedeeld met derden en ontwikkelaars hebben geen toegang tot uw gegevens."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Everything stays secure inside your Apple ID."
+            "text": "Alles blijft veilig in uw Apple ID."
           }
         },
         {
@@ -235,19 +234,19 @@
         {
           "type": "heading",
           "data": {
-            "text": "Support"
+            "text": "Ondersteuning"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "For technical questions or ideas, open Settings → Feedback."
+            "text": "Voor technische vragen of ideeën gaat u naar Instellingen → Feedback."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "You can also email support with your device model, iOS version, and issue description."
+            "text": "U kunt ook een e-mail sturen naar ondersteuning met uw apparaatmodel, iOS-versie en beschrijving van het probleem."
           }
         },
         {
@@ -256,42 +255,42 @@
         {
           "type": "paragraph",
           "data": {
-            "text": "Remember: the app is a handy companion, but it never replaces professional medical consultation."
+            "text": "Onthoud: de app is een handige metgezel, maar vervangt nooit professioneel medisch advies."
           }
         }
       ]
     },
     {
       "id": "3f91c5db-5f06-4e36-9d2c-2b9188cbf65c",
-      "title": "When to Start Complementary Feeding: Signs Your Baby Is Ready",
-      "teaser": "How to determine if your baby is ready for the first solids and choose the perfect moment.",
+      "title": "Wanneer u moet beginnen met aanvullende voeding: geeft aan dat uw baby er klaar voor is",
+      "teaser": "Hoe u kunt bepalen of uw baby klaar is voor de eerste vaste voeding en hoe u het perfecte moment kunt kiezen.",
       "cover": {
         "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/1.webp",
-        "caption": "First spoonfuls of complementary food for a curious baby"
+        "caption": "Eerste lepels aanvullende voeding voor een nieuwsgierige baby"
       },
       "blocks": [
         {
           "type": "paragraph",
           "data": {
-            "text": "Introducing complementary foods is an important milestone in your baby's development when they move from exclusive breastmilk or formula to new foods. Choosing the right time to start affects not only appetite, but also the development of the digestive system, eating habits, and even future attitudes toward food."
+            "text": "De introductie van aanvullende voeding is een belangrijke mijlpaal in de ontwikkeling van uw baby wanneer hij overschakelt van exclusieve moedermelk of flesvoeding naar nieuwe voeding. Het kiezen van het juiste moment om te beginnen heeft niet alleen invloed op de eetlust, maar ook op de ontwikkeling van het spijsverteringsstelsel, de eetgewoonten en zelfs de toekomstige houding ten opzichte van voedsel."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "The best age to start complementary feeding"
+            "text": "De beste leeftijd om te beginnen met aanvullende voeding"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "According to the World Health Organization (WHO) and pediatricians in most countries, solids should be introduced at around 6 months. Until then, breastmilk or formula fully covers your baby's nutritional needs."
+            "text": "Volgens de Wereldgezondheidsorganisatie (WHO) en kinderartsen in de meeste landen moeten vaste voeding rond de zes maanden worden geïntroduceerd. Tot die tijd dekt moedermelk of flesvoeding volledig de voedingsbehoeften van uw baby."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Some babies may be ready a little earlier—at 5 months—while others only closer to 7 months. The main thing is not to rush and to focus not only on age but also on readiness cues."
+            "text": "Sommige baby's zijn misschien iets eerder klaar (na vijf maanden), terwijl andere pas rond de zeven maanden klaar zijn. Het belangrijkste is om je niet te haasten en je niet alleen te concentreren op de leeftijd, maar ook op signalen van gereedheid."
           }
         },
         {
@@ -300,85 +299,85 @@
         {
           "type": "heading",
           "data": {
-            "text": "Readiness signs to watch for"
+            "text": "Gereedheidssignalen waar je op moet letten"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Every child develops at their own pace, so it is important to observe their behavior. Below are the key signals that show it's time to introduce new tastes."
+            "text": "Elk kind ontwikkelt zich in zijn eigen tempo, dus het is belangrijk om zijn of haar gedrag te observeren. Hieronder staan ​​de belangrijkste signalen die aangeven dat het tijd is om nieuwe smaken te introduceren."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "1. Your baby holds their head steady"
+            "text": "1. Je baby houdt zijn hoofdje stil"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Your baby should be able to hold their head upright and sit with minimal support. This is crucial for safety so there is no risk of choking during meals."
+            "text": "Je baby moet zijn hoofdje rechtop kunnen houden en met minimale ondersteuning kunnen zitten. Dit is van cruciaal belang voor de veiligheid, zodat er geen risico op verstikking bestaat tijdens de maaltijd."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "2. Shows interest in family meals"
+            "text": "2. Toont interesse in gezinsmaaltijden"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "If your baby watches you eat with fascination, reaches for the spoon, or tries to grab a piece, it's a sign they are curious about new foods."
+            "text": "Als uw baby gefascineerd toekijkt hoe u eet, naar de lepel reikt of een stukje probeert te pakken, is dit een teken dat hij of zij nieuwsgierig is naar nieuw voedsel."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "3. The tongue-thrust reflex has faded"
+            "text": "3. De tongstootreflex is vervaagd"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Newborns have a natural tongue-thrust reflex that automatically pushes out anything thicker than milk. Once this reflex fades, your baby can handle puréed textures."
+            "text": "Pasgeborenen hebben een natuurlijke tongstootreflex die automatisch alles wat dikker is dan melk naar buiten duwt. Zodra deze reflex verdwijnt, kan uw baby gepureerde texturen aan."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "4. Bigger appetite and milk is not enough"
+            "text": "4. Een grotere eetlust en meer melk zijn niet genoeg"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "If your baby asks to feed more often but still seems unsatisfied afterward, it may mean their body needs more nutrients."
+            "text": "Als uw baby vaker vraagt ​​om te eten, maar daarna nog steeds ontevreden lijkt, kan dit betekenen dat zijn lichaam meer voedingsstoffen nodig heeft."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "5. Weight has doubled since birth"
+            "text": "5. Het gewicht is sinds de geboorte verdubbeld"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Doubling their birth weight is another readiness marker. It shows that your baby is growing actively and needs extra energy."
+            "text": "Het verdubbelen van hun geboortegewicht is een ander gereedheidskenmerk. Het laat zien dat je baby actief groeit en extra energie nodig heeft."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "6. No signs of illness"
+            "text": "6. Geen tekenen van ziekte"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Start solids only when your baby is healthy, without colds, tummy troubles, or teething discomfort that could cause a temporary refusal of new foods."
+            "text": "Begin alleen met vast voedsel als uw baby gezond is, zonder verkoudheid, buikpijn of tandpijn die een tijdelijke weigering van nieuwe voedingsmiddelen zouden kunnen veroorzaken."
           }
         },
         {
@@ -387,31 +386,31 @@
         {
           "type": "heading",
           "data": {
-            "text": "When to postpone complementary feeding"
+            "text": "Wanneer moet u aanvullende voeding uitstellen"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Don't introduce new foods if your baby is ill or has just received vaccinations."
+            "text": "Introduceer geen nieuwe voedingsmiddelen als uw baby ziek is of net vaccinaties heeft gehad."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Avoid starting during heat waves because of the risk of dehydration."
+            "text": "Vermijd het starten tijdens hittegolven vanwege het risico op uitdroging."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Delay the introduction if you notice major stress or routine changes, such as moving house or a new caregiver."
+            "text": "Stel de introductie uit als u grote stress of routinewijzigingen opmerkt, zoals een verhuizing of een nieuwe verzorger."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Wait if your baby still can't hold their head steady or sit on their own."
+            "text": "Wacht als uw baby nog steeds zijn hoofd niet stil kan houden of niet zelfstandig kan zitten."
           }
         },
         {
@@ -420,37 +419,37 @@
         {
           "type": "heading",
           "data": {
-            "text": "How to prepare for the first feeding"
+            "text": "Hoe u zich kunt voorbereiden op de eerste voeding"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "1. Pick the right time of day—when your baby is alert, not too hungry, and in a good mood."
+            "text": "1. Kies het juiste tijdstip van de dag: wanneer uw baby alert is, niet te hongerig en in een goed humeur is."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "2. Start with a single food and observe the reaction for 2–3 days."
+            "text": "2. Begin met één enkel voedsel en observeer de reactie gedurende 2-3 dagen."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "3. Don't force it—if your baby turns away or presses their lips together, simply try again later."
+            "text": "3. Forceer het niet. Als uw baby zich afwendt of de lippen op elkaar drukt, probeer het dan later opnieuw."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "4. Offer food with a spoon, not from a bottle—this helps your baby learn to swallow correctly."
+            "text": "4. Bied voedsel aan met een lepel, niet uit een fles. Dit helpt uw ​​baby correct te leren slikken."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "5. Keep notes—maintain a small feeding diary or use a mobile app."
+            "text": "5. Houd notities bij: houd een klein voedingsdagboek bij of gebruik een mobiele app."
           }
         },
         {
@@ -459,37 +458,37 @@
         {
           "type": "heading",
           "data": {
-            "text": "Early or late? Why balance matters"
+            "text": "Vroeg of laat? Waarom balans belangrijk is"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Introducing solids too early, before 4 months, can overload the digestive system and raise the risk of allergies and tummy issues."
+            "text": "Te vroeg beginnen met vast eten, vóór de leeftijd van vier maanden, kan het spijsverteringsstelsel overbelasten en het risico op allergieën en buikproblemen vergroten."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Starting too late, after 8 months, can lead to iron deficiency, refusal of textured foods, and delays in developing chewing skills."
+            "text": "Te laat beginnen, na acht maanden, kan leiden tot ijzertekort, het weigeren van gestructureerd voedsel en vertragingen in de ontwikkeling van kauwvaardigheden."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "The best strategy is to focus on your baby's readiness rather than fixed dates on the calendar."
+            "text": "De beste strategie is om je te concentreren op de bereidheid van je baby in plaats van op vaste data op de kalender."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Introducing solids isn't only about food—it's a new step in your baby's development. When you notice readiness cues, offer new tastes slowly, with care and curiosity."
+            "text": "Het introduceren van vaste voeding gaat niet alleen over voeding, het is een nieuwe stap in de ontwikkeling van uw baby. Wanneer u signalen opmerkt dat u er klaar voor bent, bied dan langzaam, met zorg en nieuwsgierigheid nieuwe smaken aan."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Remember: every spoonful is a small discovery, a step toward independence and new sensations."
+            "text": "Onthoud: elke lepel is een kleine ontdekking, een stap richting onafhankelijkheid en nieuwe sensaties."
           }
         }
       ],
@@ -514,17 +513,17 @@
     },
     {
       "id": "f7ddca56-f196-4524-bb21-51b5a63a40f3",
-      "title": "First Foods for Complementary Feeding: What to Offer First",
-      "teaser": "A guide to the vegetables and cereals that work best for the first solids and how to safely introduce new tastes.",
+      "title": "Eerste voedingsmiddelen voor aanvullende voeding: wat u eerst moet aanbieden",
+      "teaser": "Een gids over de groenten en granen die het beste werken voor de eerste vaste voeding en hoe je veilig nieuwe smaken kunt introduceren.",
       "cover": {
         "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/2.webp",
-        "caption": "Purées and cereals as first complementary dishes"
+        "caption": "Purées en granen als eerste aanvullende gerechten"
       },
       "blocks": [
         {
           "type": "paragraph",
           "data": {
-            "text": "Starting solids is a new stage in your baby's life and an important step for parents. After six months, breastmilk or formula alone is no longer enough, so babies gradually need extra foods. But where do you begin to keep everything safe and beneficial?"
+            "text": "Het starten met vaste voeding is een nieuwe fase in het leven van je baby en een belangrijke stap voor ouders. Na zes maanden is alleen moedermelk of kunstvoeding niet meer voldoende, waardoor baby’s geleidelijk aan extra voeding nodig hebben. Maar waar moet je beginnen om alles veilig en nuttig te houden?"
           }
         },
         {
@@ -533,43 +532,43 @@
         {
           "type": "heading",
           "data": {
-            "text": "Which food to choose first"
+            "text": "Welk voedsel moet je eerst kiezen"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "There are several ways to start solids, and the choice often depends on health, weight gain, and your doctor's advice. Pediatricians usually recommend single-ingredient vegetable or grain purées so your baby's body can adapt gradually."
+            "text": "Er zijn verschillende manieren om met vaste voeding te beginnen, en de keuze hangt vaak af van je gezondheid, gewichtstoename en het advies van je arts. Kinderartsen adviseren meestal groente- of graanpuree met één ingrediënt, zodat het lichaam van uw baby zich geleidelijk kan aanpassen."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "Option 1. Vegetable purée"
+            "text": "Optie 1. Groentenpuree"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Ideal for babies who are gaining weight quickly or already have a higher weight."
+            "text": "Ideaal voor baby's die snel aankomen of al een hoger gewicht hebben."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "The first vegetables usually include:"
+            "text": "De eerste groenten bevatten meestal:"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- zucchini;"
+            "text": "- courgette;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- cauliflower;"
+            "text": "- bloemkool;"
           }
         },
         {
@@ -581,85 +580,85 @@
         {
           "type": "paragraph",
           "data": {
-            "text": "- pumpkin."
+            "text": "- pompoen."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "They are easy to digest, rarely cause allergies, and have a delicate flavor similar to breastmilk. Prepare the purée without salt or spices, starting with 1–2 teaspoons per day."
+            "text": "Ze zijn licht verteerbaar, veroorzaken zelden allergieën en hebben een delicate smaak die lijkt op moedermelk. Bereid de puree zonder zout of kruiden, te beginnen met 1-2 theelepels per dag."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "Option 2. Gluten-free cereals"
+            "text": "Optie 2. Glutenvrije ontbijtgranen"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "If your baby gains weight slowly or seems low on energy, start with single-ingredient, dairy-free cereals:"
+            "text": "Als uw baby langzaam aankomt of weinig energie lijkt te hebben, begin dan met zuivelvrije ontbijtgranen die uit één ingrediënt bestaan:"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- rice;"
+            "text": "- rijst;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- buckwheat;"
+            "text": "- boekweit;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- corn."
+            "text": "- maïs."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Cook the cereal in water or mix it with breastmilk or formula. The key is no sugar, salt, or additives."
+            "text": "Kook de ontbijtgranen in water of meng het met moedermelk of flesvoeding. Het belangrijkste is geen suiker, zout of toevoegingen."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "Option 3. Fruit purée"
+            "text": "Optie 3. Fruitpuree"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Fruits taste great and babies get used to them quickly, but don't rush. Offer them after vegetables so your little one doesn't refuse less sweet meals."
+            "text": "Fruit smaakt heerlijk en baby's wennen er snel aan, maar haast je niet. Bied ze na de groenten aan, zodat je kleintje minder zoete maaltijden niet weigert."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Good first options are:"
+            "text": "Goede eerste opties zijn:"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- apple;"
+            "text": "- appel;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- pear;"
+            "text": "- peer;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- banana (from 7 months)."
+            "text": "- banaan (vanaf 7 maanden)."
           }
         },
         {
@@ -668,37 +667,37 @@
         {
           "type": "heading",
           "data": {
-            "text": "How to introduce the first foods"
+            "text": "Hoe je de eerste voedingsmiddelen introduceert"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "1. Start with one ingredient. Offer each new food on its own so it's easier to track any reaction."
+            "text": "1. Begin met één ingrediënt. Bied elk nieuw voedingsmiddel afzonderlijk aan, zodat het gemakkelijker is om eventuele reacties te volgen."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "2. Increase the amount gradually. Begin with 1 teaspoon and slowly work up to a full serving—100–150 g per day."
+            "text": "2. Verhoog de hoeveelheid geleidelijk. Begin met 1 theelepel en werk langzaam op tot een volledige portie: 100–150 g per dag."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "3. Watch for reactions. If there is no rash, tummy ache, or change in stool, you can add another food after 3–4 days."
+            "text": "3. Let op reacties. Als er geen huiduitslag, buikpijn of verandering in de ontlasting optreedt, kunt u na 3-4 dagen nog een voedingsmiddel toevoegen."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "4. Cook without salt, sugar, or spices. The natural taste of the ingredients is all your baby needs."
+            "text": "4. Kook zonder zout, suiker of kruiden. De natuurlijke smaak van de ingrediënten is alles wat uw baby nodig heeft."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "5. Choose the right timing. Offer new foods in the daytime—between morning and midday feeds—when your baby is in a good mood."
+            "text": "5. Kies het juiste tijdstip. Bied overdag nieuwe voeding aan (tussen de ochtend- en middagvoedingen) als uw baby in een goed humeur is."
           }
         },
         {
@@ -707,31 +706,31 @@
         {
           "type": "heading",
           "data": {
-            "text": "Sample first-week menu"
+            "text": "Voorbeeldmenu van de eerste week"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- Days 1–3: zucchini purée — 1 tsp → 3–4 tsp."
+            "text": "- Dag 1–3: courgettepuree — 1 theelepel → 3–4 theelepel."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- Days 4–6: cauliflower purée — 1 tsp → 5 tsp."
+            "text": "- Dag 4–6: bloemkoolpuree — 1 theelepel → 5 theelepel."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- Days 7–10: zucchini + cauliflower, or switch to buckwheat cereal."
+            "text": "- Dagen 7–10: courgette + bloemkool, of schakel over op boekweitgranen."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "From 7 months you can add potato, carrot, pumpkin, apple, pear, and later meat."
+            "text": "Vanaf 7 maanden kun je aardappel, wortel, pompoen, appel, peer en later vlees toevoegen."
           }
         },
         {
@@ -740,43 +739,43 @@
         {
           "type": "heading",
           "data": {
-            "text": "Common mistakes when starting solids"
+            "text": "Veelgemaakte fouten bij het starten met vaste voeding"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- Starting before your baby can sit or hold their head."
+            "text": "- Beginnen voordat je baby kan zitten of zijn hoofd kan vasthouden."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- Offering several new foods at once."
+            "text": "- Meerdere nieuwe voedingsmiddelen tegelijk aanbieden."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- Adding salt or sugar."
+            "text": "- Zout of suiker toevoegen."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- Pressuring your baby to eat when they don't want to."
+            "text": "- Uw baby onder druk zetten om te eten als hij of zij dat niet wil."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- Offering solids during illness or right after vaccinations."
+            "text": "- Vaste voeding aanbieden tijdens ziekte of direct na vaccinaties."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Remember: complementary feeding is not a race but a gentle introduction to a world of new flavors."
+            "text": "Onthoud: aanvullende voeding is geen race, maar een zachte kennismaking met een wereld van nieuwe smaken."
           }
         },
         {
@@ -785,43 +784,43 @@
         {
           "type": "heading",
           "data": {
-            "text": "When to call the doctor"
+            "text": "Wanneer moet u de dokter bellen"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Contact your pediatrician if you notice after a new food:"
+            "text": "Neem contact op met uw kinderarts als u na nieuw voedsel het volgende opmerkt:"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- rash or redness;"
+            "text": "- huiduitslag of roodheid;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- diarrhea or constipation;"
+            "text": "- diarree of constipatie;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- frequent spit-ups;"
+            "text": "- frequent spugen;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- restlessness or disrupted sleep;"
+            "text": "- rusteloosheid of verstoorde slapen;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- swelling or breathing difficulties—stop the new food immediately and see a pediatrician or allergist."
+            "text": "- zwellingen of ademhalingsmoeilijkheden – stop onmiddellijk met het nieuwe eten en ga naar een kinderarts of allergoloog."
           }
         },
         {
@@ -830,31 +829,31 @@
         {
           "type": "heading",
           "data": {
-            "text": "Tips for parents"
+            "text": "Tips voor ouders"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- Breastmilk or formula remains the main source of nutrition up to age one."
+            "text": "- Moedermelk of kunstvoeding blijft de belangrijkste voedingsbron tot de leeftijd van één jaar."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- Create a positive mealtime setting: smile and keep your voice calm."
+            "text": "- Creëer een positieve maaltijdsetting: glimlach en houd je stem rustig."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- Let your baby touch the spoon and try feeding themselves—it sparks curiosity and fine motor skills."
+            "text": "- Laat je baby de lepel aanraken en proberen zichzelf te voeden – het wekt nieuwsgierigheid en fijne motoriek."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- If something isn't liked, take a break for a few days and offer it again."
+            "text": "- Als iets je niet bevalt, neem dan een paar dagen pauze en bied het aan nogmaals."
           }
         },
         {
@@ -869,13 +868,13 @@
         {
           "type": "paragraph",
           "data": {
-            "text": "First complementary foods should be simple, safe, and natural. Start with vegetables or cereals, watch your baby closely, and add new dishes step by step."
+            "text": "Eerste aanvullende voeding moet eenvoudig, veilig en natuurlijk zijn. Begin met groenten of ontbijtgranen, houd je baby goed in de gaten en voeg stap voor stap nieuwe gerechten toe."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Above all, stay calm, unhurried, and caring. Every new spoonful is your baby's step into the big world of family meals."
+            "text": "Blijf vooral kalm, ongehaast en zorgzaam. Elke nieuwe lepel is de stap van uw baby in de grote wereld van gezinsmaaltijden."
           }
         }
       ],
@@ -904,41 +903,41 @@
     },
     {
       "id": "7accabaa-306a-4267-8159-7b684cfec85d",
-      "title": "BLW (Baby-Led Weaning) or Self-Feeding — a Modern Way to Introduce Solids",
-      "teaser": "What the BLW approach is, how to assess readiness, and how to organize safe self-feeding.",
+      "title": "BLW (Baby-Led Weaning) of zelfvoeding – een moderne manier om vaste voeding te introduceren",
+      "teaser": "Wat de BLW-aanpak is, hoe u de gereedheid kunt beoordelen en hoe u veilige zelfvoeding kunt organiseren.",
       "cover": {
         "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/3.webp",
-        "caption": "A baby exploring solid food independently during the first meal"
+        "caption": "Een baby die tijdens de eerste maaltijd zelfstandig vast voedsel onderzoekt"
       },
       "blocks": [
         {
           "type": "heading",
           "data": {
-            "text": "What is BLW"
+            "text": "Wat is BLW"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "BLW (baby-led weaning) isn't a type of food but an approach where the baby takes the lead in feeding from the very first solid meals."
+            "text": "BLW (baby-led spenen) is geen soort voedsel, maar een benadering waarbij de baby het voortouw neemt bij het voeden vanaf de allereerste vaste maaltijden."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "The idea was formulated by Gill Rapley—a British nurse, lactation consultant, and researcher."
+            "text": "Het idee werd geformuleerd door Gill Rapley, een Britse verpleegster, lactatiekundige en onderzoeker."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "BLW spread worldwide thanks to its simple yet revolutionary concept:"
+            "text": "BLW verspreidde zich wereldwijd dankzij het eenvoudige maar revolutionaire concept:"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "“The child leads their own feeding, and adults provide a safe, natural environment.”"
+            "text": "“Het kind leidt zijn eigen voeding, en volwassenen zorgen voor een veilige, natuurlijke omgeving.\""
           }
         },
         {
@@ -947,37 +946,37 @@
         {
           "type": "heading",
           "data": {
-            "text": "Benefits of self-feeding"
+            "text": "Voordelen van zelfvoeding"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- encourages healthy eating habits from infancy;"
+            "text": "- stimuleert gezonde eetgewoonten vanaf de kindertijd;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- builds coordination and fine motor skills;"
+            "text": "- bouwt coördinatie en fijne motoriek op;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- stimulates sensory development through touch, taste, and smell;"
+            "text": "- stimuleert de sensorische ontwikkeling door aanraking, smaak en geur;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- reduces the risk of overeating and picky eating later on;"
+            "text": "- vermindert het risico op overeten en kieskeurig eten later;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- strengthens the emotional bond between child and parents during meals."
+            "text": "- versterkt de emotionele band tussen kind en ouders tijdens de maaltijden."
           }
         },
         {
@@ -986,43 +985,43 @@
         {
           "type": "heading",
           "data": {
-            "text": "When to start BLW"
+            "text": "Wanneer beginnen met BLW"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Self-feeding is suitable for babies around 6 months old when they:"
+            "text": "Zelfvoeding is geschikt voor baby's van ongeveer 6 maanden oud zij:"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- can sit independently or with minimal support;"
+            "text": "- kunnen zelfstandig of met minimale ondersteuning zitten;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- hold their head steady;"
+            "text": "- houden hun hoofd stil;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- can grab food with their hands and bring it to their mouth."
+            "text": "- kunnen voedsel met hun handen pakken en naar hun mond brengen."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Before you start, make sure your baby is physically ready—their digestive system, chewing skills, and postural stability should be developed enough."
+            "text": "Zorg er voordat u begint voor dat uw baby er fysiek klaar voor is: hun spijsverteringssysteem, kauwvaardigheden en houdingsstabiliteit moeten voldoende ontwikkeld zijn."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "The World Health Organization also recommends introducing solids after 6 months while continuing breastfeeding."
+            "text": "De Wereldgezondheidsorganisatie raadt ook aan om na zes maanden vaste voeding te introduceren terwijl u doorgaat met het geven van borstvoeding."
           }
         },
         {
@@ -1031,55 +1030,55 @@
         {
           "type": "heading",
           "data": {
-            "text": "Core rules of BLW"
+            "text": "Kernregels van BLW"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "1. Safety first. Your baby should sit upright to coordinate swallowing and breathing."
+            "text": "1. Veiligheid voorop. Uw baby moet rechtop zitten om het slikken en ademen te coördineren."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "2. Don't spoon-feed. Let your baby decide what, when, and how much to eat."
+            "text": "2. Geef niet met een lepel. Laat uw baby beslissen wat, wanneer en hoeveel hij eet."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "3. Never leave your baby unattended while eating."
+            "text": "3. Laat uw baby nooit zonder toezicht achter tijdens het eten."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "4. Skip salt, sugar, honey, and spices."
+            "text": "4. Sla zout, suiker, honing en kruiden over."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "5. Offer soft foods in safe shapes and sizes."
+            "text": "5. Bied zacht voedsel aan in veilige vormen en maten."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "6. Serve water in a cup or open glass, not in a sippy cup."
+            "text": "6. Serveer water in een kopje of open glas, niet in een drinkbeker."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "7. No gadgets or TV during meals."
+            "text": "7. Geen gadgets of tv tijdens de maaltijden."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "8. Breastmilk or formula remains the main food until one year."
+            "text": "8. Moedermelk of kunstvoeding blijft tot één jaar het hoofdvoedsel."
           }
         },
         {
@@ -1088,43 +1087,43 @@
         {
           "type": "heading",
           "data": {
-            "text": "How to set up mealtime"
+            "text": "Hoe u de maaltijd instelt"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- seat your baby in a comfortable high chair with a footrest;"
+            "text": "- Zet uw baby in een comfortabele kinderstoel met een voetensteun;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- choose plain dishware without patterns to reduce distractions;"
+            "text": "- kies gewoon servies zonder patronen om afleiding te verminderen;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- use a suction plate or silicone mat;"
+            "text": "- gebruik een zuignap of een siliconenmatje;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- place a mat or cloth under the chair—mess is inevitable at the start;"
+            "text": "- plaats een mat of doek onder de stoel – rommel is in het begin onvermijdelijk;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- prepare a silicone bib with a pocket;"
+            "text": "- maak een siliconen slabbetje met een zak klaar;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- serve foods as long strips or sticks roughly adult-finger size."
+            "text": "- serveer voedsel als lange reepjes of stokjes van ongeveer de vinger van een volwassene maat."
           }
         },
         {
@@ -1133,31 +1132,31 @@
         {
           "type": "heading",
           "data": {
-            "text": "Safe ways to serve food"
+            "text": "Veilige manieren om voedsel te serveren"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Check the texture: if the food squishes easily between your fingers, it's safe."
+            "text": "Controleer de textuur: als het voedsel gemakkelijk tussen je vingers knijpt, is het veilig."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Start with soft vegetables and fruits—broccoli, cauliflower, carrot, zucchini, avocado, banana, steamed apple."
+            "text": "Begin met zachte groenten en fruit: broccoli, bloemkool, wortel, courgette, avocado, banaan, gestoomde appel."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Gradually add other foods such as cereals, meat, legumes, and eggs."
+            "text": "Voeg geleidelijk ander voedsel toe, zoals ontbijtgranen, vlees, peulvruchten en eieren."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "The key is to take it slow and introduce new ingredients gradually while watching your baby's reactions."
+            "text": "De sleutel is om het rustig aan te doen en geleidelijk nieuwe ingrediënten toe te voegen, terwijl je de reacties van je baby in de gaten houdt."
           }
         },
         {
@@ -1166,49 +1165,49 @@
         {
           "type": "heading",
           "data": {
-            "text": "Choking risk and natural reflexes"
+            "text": "Verstikkingsrisico en natuurlijke reflexen"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Parents often worry about choking, but studies show the risk with BLW is no higher than with traditional spoon-feeding."
+            "text": "Ouders maken zich vaak zorgen over verstikking, maar onderzoeken tonen aan dat het risico bij BLW niet groter is dan bij traditionele lepelvoeding."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Babies have a strong gag reflex—a natural safety mechanism that keeps pieces from going too far down the throat."
+            "text": "Baby's hebben een sterke kokhalsreflex: een natuurlijk veiligheidsmechanisme dat ervoor zorgt dat de stukjes niet te ver in de keel terechtkomen."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Important:"
+            "text": "Belangrijk:"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- don't put your hands or a spoon into your baby's mouth;"
+            "text": "- steek uw handen of een lepel niet in de mond van uw baby;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- don't pat them on the back;"
+            "text": "- klop ze niet op de rug;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- calmly allow them to cough it out;"
+            "text": "- laat ze rustig hoesten uit;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- intervene only if the baby isn't breathing, makes no sound, and turns blue."
+            "text": "- grijp alleen in als de baby niet ademt, geen geluid maakt en blauw wordt."
           }
         },
         {
@@ -1217,43 +1216,43 @@
         {
           "type": "heading",
           "data": {
-            "text": "What to offer first"
+            "text": "Wat eerst te bieden"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "For the first attempts choose soft foods that can be mashed with the gums:"
+            "text": "Kies voor de eerste pogingen zacht voedsel dat met het tandvlees kan worden gepureerd:"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- cooked vegetables (carrot, pumpkin, potato, broccoli);"
+            "text": "- gekookte groenten (wortel, pompoen, aardappel, broccoli);"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- fruit (banana, pear, avocado);"
+            "text": "- fruit (banaan, peer, avocado);"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- soft meat or meatballs;"
+            "text": "- zacht vlees of gehaktballetjes;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- thick porridges shaped into strips;"
+            "text": "- dikke papjes in reepjes;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- toast, pasta, egg, fish—introduced gradually by age."
+            "text": "- toast, pasta, ei, vis – geleidelijk geïntroduceerd volgens de leeftijd."
           }
         },
         {
@@ -1262,25 +1261,25 @@
         {
           "type": "heading",
           "data": {
-            "text": "Combining with a spoon"
+            "text": "Combineren met een lepel"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "BLW doesn't ban spoons if the baby holds them independently."
+            "text": "BLW verbiedt lepels niet als de baby ze zelfstandig vasthoudt."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Starter pre-spoon utensils with small ridges work best."
+            "text": "Voor een lepel bestek met kleine ribbels werkt het beste."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Make sure purées are thick, not runny, so the baby can stay in control."
+            "text": "Zorg ervoor dat de puree dik en niet vloeibaar is, zodat de baby de controle kan houden."
           }
         },
         {
@@ -1289,37 +1288,37 @@
         {
           "type": "heading",
           "data": {
-            "text": "When BLW isn't suitable"
+            "text": "Als BLW niet geschikt is"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Avoid this approach for babies with:"
+            "text": "Vermijd deze aanpak voor baby's met:"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- dysphagia (swallowing difficulties);"
+            "text": "- dysfagie (slikproblemen);"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- hypotonia or developmental delays;"
+            "text": "- hypotonie of ontwikkelingsachterstanden;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- structural issues of the mouth;"
+            "text": "- structurele problemen met de mond;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- low weight, anemia, or prematurity (without pediatric approval)."
+            "text": "- laag gewicht, bloedarmoede of prematuriteit (zonder goedkeuring van pediatrie)."
           }
         },
         {
@@ -1328,31 +1327,31 @@
         {
           "type": "heading",
           "data": {
-            "text": "Global experience and recommendations"
+            "text": "Wereldwijde ervaringen en aanbevelingen"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- WHO emphasizes starting complementary foods at 6 months while continuing breastfeeding up to 2 years or longer."
+            "text": "- De WHO benadrukt het starten van aanvullende voeding vanaf 6 maanden, terwijl borstvoeding wordt voortgezet tot 2 jaar of langer."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- The American Academy of Pediatrics considers BLW safe if adults supervise and choose appropriate textures."
+            "text": "- De American Academy of Pediatrics beschouwt BLW als veilig voor volwassenen houd toezicht en kies de juiste voedingsstoffen."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- The UK National Health Service notes that self-feeding helps babies recognize hunger and fullness and builds independence."
+            "text": "- De Britse National Health Service merkt op dat zelfvoeding baby's helpt honger en volheid te herkennen en onafhankelijkheid opbouwt."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- Systematic reviews in BMJ Open and the International Journal of Pediatrics show BLW diets provide similar nutrition, but it's crucial to monitor iron intake and avoid hard chunks."
+            "text": "- Systematische reviews in BMJ Open en het International Journal of Pediatrics laten zien dat BLW-diëten vergelijkbare voeding bieden, maar het is van cruciaal belang om de ijzerinname te controleren en harde brokken te vermijden."
           }
         },
         {
@@ -1361,25 +1360,25 @@
         {
           "type": "paragraph",
           "data": {
-            "text": "BLW is a natural, mindful, and respectful way to support your child's development."
+            "text": "BLW is een natuurlijke, bewuste en respectvolle manier om de ontwikkeling van uw kind te ondersteunen."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "It fosters independence, builds a healthy relationship with food, and creates a positive mealtime atmosphere."
+            "text": "Het bevordert de onafhankelijkheid, bouwt een gezonde relatie op met en zorgt voor een positieve maaltijdsfeer."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Parents should stay close, support, and trust their little one."
+            "text": "Ouders moeten dichtbij hun kleintje blijven, ze ondersteunen en vertrouwen."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "The ultimate goal of solids is not just feeding but teaching a child to eat with joy, confidence, and safety ❤️."
+            "text": "Het uiteindelijke doel van vaste voeding is niet alleen voeden, maar een kind leren eten met vreugde, vertrouwen en veiligheid ❤️."
           }
         }
       ],
@@ -1412,23 +1411,23 @@
     },
     {
       "id": "08e35bc2-a02f-4d59-bb5f-c4698ceef69e",
-      "title": "Introducing Allergens During Baby's Weaning",
-      "teaser": "Why timely and well-monitored allergen exposure lowers the risk of food allergies later in life.",
+      "title": "Introduceren van allergenen tijdens het spenen van de baby",
+      "teaser": "Waarom tijdige en goed gecontroleerde blootstelling aan allergenen het risico op voedselallergieën later in het leven verlaagt.",
       "cover": {
         "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/allergy.webp",
-        "caption": "Parent offering an allergenic food safely during baby-led weaning."
+        "caption": "Ouder die veilig allergene voeding aanbiedt tijdens de babyvoeding spenen."
       },
       "blocks": [
         {
           "type": "paragraph",
           "data": {
-            "text": "Food allergies are among the most common concerns in early childhood."
+            "text": "Voedselallergieën behoren tot de meest voorkomende problemen in de vroege kinderjaren."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Parents were once advised to delay allergenic foods, but current evidence shows the opposite: offering tiny, controlled portions early on trains the immune system to tolerate new ingredients."
+            "text": "Ouders kregen ooit het advies om allergene voedingsmiddelen uit te stellen, maar huidig bewijs toont het tegenovergestelde aan: het vroegtijdig aanbieden van kleine, gecontroleerde porties traint het immuunsysteem om nieuwe ingrediënten te verdragen."
           }
         },
         {
@@ -1437,25 +1436,25 @@
         {
           "type": "heading",
           "data": {
-            "text": "The modern approach"
+            "text": "De moderne aanpak"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Leading organizations such as WHO, ESPGHAN, and the American Academy of Pediatrics suggest introducing allergenic foods around six months, when the baby is developmentally ready for solids."
+            "text": "Toonaangevende organisaties zoals de WHO, ESPGHAN en de American Academy of Pediatrics stellen voor om allergene voedingsmiddelen te introduceren rond de zes maanden, wanneer de baby in ontwikkelingsfase klaar is voor vaste voeding."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "“Gradual exposure in small amounts builds immune tolerance,” emphasize pediatric allergists. Always choose a moment when your baby is healthy and free from rashes or colds."
+            "text": "“Geleidelijke blootstelling in kleine hoeveelheden vergroot de immuuntolerantie”, benadrukken pediatrische allergologen. Kies altijd een moment waarop uw baby gezond is en vrij van huiduitslag of verkoudheid."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Introduce only one new ingredient at a time and do it earlier in the day so you can observe how your baby reacts."
+            "text": "Introduceer slechts één nieuw ingrediënt tegelijk en doe dit eerder op de dag, zodat u kunt zien hoe uw baby reageert."
           }
         },
         {
@@ -1464,19 +1463,19 @@
         {
           "type": "heading",
           "data": {
-            "text": "Major food allergens"
+            "text": "Belangrijke voedselallergenen"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "The European Union recognizes 14 major allergens: gluten, peanuts, tree nuts, celery, mustard, milk, eggs, sesame, fish, crustaceans, mollusks, soy, sulfites, and lupin."
+            "text": "De Europese Unie erkent 14 belangrijke allergenen: gluten, pinda's, noten, selderij, mosterd, melk, eieren, sesam, vis, schaaldieren, weekdieren, soja, sulfieten en lupine."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "For infants, the most relevant are eggs, fish, milk, wheat, soy, peanuts, celery, assorted nuts, and sesame."
+            "text": "Voor baby's zijn de meest relevante eieren, vis, melk, tarwe, soja, pinda's, selderij, diverse noten en sesam."
           }
         },
         {
@@ -1485,31 +1484,31 @@
         {
           "type": "heading",
           "data": {
-            "text": "When and how to start"
+            "text": "Wanneer en hoe te beginnen"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Begin allergen exposure once your baby comfortably handles vegetables, cereals, and meats."
+            "text": "Begin met de blootstelling aan allergenen zodra uw baby comfortabel met groenten, granen en vlees om kan gaan."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Start with micro portions — just a crumb or a quarter teaspoon."
+            "text": "• Begin met microporties – slechts een kruimel of een kwart theelepel."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Increase gradually if no reactions appear and keep a feeding log with dates and amounts."
+            "text": "• Verhoog geleidelijk als er geen reacties optreden en houd een voedingslogboek bij met datums en hoeveelheden."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Offer the same allergen again during the week to reinforce tolerance."
+            "text": "• Bied hetzelfde allergeen opnieuw aan tijdens de week om de tolerantie te versterken."
           }
         },
         {
@@ -1518,31 +1517,31 @@
         {
           "type": "heading",
           "data": {
-            "text": "Safe allergen introduction checklist"
+            "text": "Checklist voor veilige introductie van allergenen"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "1. Add only one new food at a time so you can pinpoint any reaction."
+            "text": "1. Voeg slechts één nieuw voedingsmiddel tegelijk toe, zodat u elke reactie kunt opmerken."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "2. Present the tiniest portion first and serve it during daytime hours."
+            "text": "2. Presenteer de kleinste portie eerst en serveer deze overdag."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "3. Leave a three-day window before trying a different new food."
+            "text": "3. Wacht drie dagen voordat u een ander nieuw voedingsmiddel probeert."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "4. If the food is well tolerated, repeat it one to two times per week to maintain tolerance."
+            "text": "4. Als het voedsel goed wordt verdragen, herhaal dit dan één tot twee keer per week om de tolerantie te behouden."
           }
         },
         {
@@ -1551,19 +1550,19 @@
         {
           "type": "heading",
           "data": {
-            "text": "Possible allergy signs"
+            "text": "Mogelijke allergische klachten"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Watch for redness around the mouth, hives, swelling of the lips or eyelids, coughing, sneezing, breathing difficulties, vomiting, diarrhea, or sudden irritability."
+            "text": "Let op roodheid rond de mond, netelroos, zwelling van de lippen of oogleden, hoesten, niezen, ademhalingsmoeilijkheden, braken, diarree of plotselinge prikkelbaarheid."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Seek urgent medical attention if you notice trouble breathing, facial swelling, or any signs of anaphylaxis."
+            "text": "Zoek dringend medische hulp als u moeite heeft met ademhalen, zwelling van het gezicht of tekenen van anafylaxie."
           }
         },
         {
@@ -1572,19 +1571,19 @@
         {
           "type": "heading",
           "data": {
-            "text": "If your child already reacted"
+            "text": "Als uw kind al heeft gereageerd"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Do not reintroduce the allergen without guidance from your pediatrician or an allergist. They can advise on supervised challenges and the right timing."
+            "text": "Introduceer het allergeen niet opnieuw zonder begeleiding van uw kinderarts of allergoloog. Zij kunnen u adviseren over uitdagingen onder toezicht en de juiste timing."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Many children outgrow specific allergies, but it must happen gradually and under expert supervision."
+            "text": "Veel kinderen ontgroeien specifieke allergieën, maar dit moet geleidelijk gebeuren en onder deskundig toezicht."
           }
         },
         {
@@ -1593,13 +1592,13 @@
         {
           "type": "heading",
           "data": {
-            "text": "Key takeaway"
+            "text": "Belangrijkste inzichten"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Allergens are not the enemy when introduced mindfully. Consistent, monitored exposure encourages healthy eating habits and reduces the likelihood of future allergies."
+            "text": "Allergenen zijn niet de vijand als ze met aandacht worden geïntroduceerd. Consistente, gecontroleerde blootstelling stimuleert gezonde eetgewoonten en vermindert de kans op toekomstige allergieën."
           }
         }
       ],
@@ -1620,71 +1619,71 @@
     },
     {
       "id": "b2eba6f0-4c4c-4a57-8bb0-bda297d91c19",
-      "title": "Prohibited foods for children: up to 1 year, up to 3 years, up to 5 years",
-      "teaser": "A practical parent guide to foods that are unsafe at different ages and the reasons to avoid them.",
+      "title": "Verboden voedingsmiddelen voor kinderen: tot 1 jaar, tot 3 jaar, tot 5 jaar",
+      "teaser": "Een praktische gids voor ouders over voedingsmiddelen die op verschillende leeftijden onveilig zijn en de redenen om ze te vermijden.",
       "cover": {
         "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/zaboroneni-produkty.webp",
-        "caption": "Prohibited foods for children at different ages"
+        "caption": "Verboden voedingsmiddelen voor kinderen op verschillende leeftijden"
       },
       "blocks": [
         {
           "type": "paragraph",
           "data": {
-            "text": "Young children need safe, age-appropriate meals. Certain foods pose choking risks, contain toxins, or overload immature organs, so it’s important to know what to avoid."
+            "text": "Jonge kinderen hebben veilige, bij hun leeftijd passende maaltijden nodig. Bepaalde voedingsmiddelen brengen verstikkingsrisico's met zich mee, bevatten gifstoffen of overbelasten onvolwassen organen, dus het is belangrijk om te weten wat u moet vermijden."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "Up to 1 year"
+            "text": "Tot 1 jaar"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Honey. May contain botulism spores and is dangerous even in tiny amounts."
+            "text": "• Honing. Kan sporen van botulisme bevatten en is zelfs in kleine hoeveelheden gevaarlijk."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Salt and salty foods. Babies’ kidneys cannot handle excess sodium; avoid salty cheese, sausages, canned foods, and sauces."
+            "text": "• Zoute en zoute voedingsmiddelen. De nieren van baby's kunnen overtollig natrium niet verwerken; vermijd zoute kaas, worstjes, ingeblikt voedsel en sauzen."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Sugar and sweets. Increase the risk of cavities and obesity and create unhealthy taste preferences."
+            "text": "• Suiker en snoep. Vergroot de kans op gaatjes en overgewicht en creëer ongezonde smaakvoorkeuren."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Whole nuts and seeds. Extremely high choking risk."
+            "text": "• Hele noten en zaden. Extreem hoog verstikkingsrisico."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Cow’s milk as a main drink. Too much protein and sodium, low iron → anemia risk; safe only for cooking."
+            "text": "• Koemelk als hoofddrank. Te veel eiwitten en natrium, laag ijzer → risico op bloedarmoede; alleen veilig om te koken."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• High-mercury fish. Shark, swordfish, and marlin can harm nervous system development."
+            "text": "• Vis met een hoog kwikgehalte. Haaien, zwaardvissen en marlijn kunnen de ontwikkeling van het zenuwstelsel schaden."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Raw or undercooked eggs, meat, fish. Risk of salmonella and other infections."
+            "text": "• Rauwe of onvoldoende verhitte eieren, vlees, vis. Risico op salmonella en andere infecties."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Juices and sweet drinks. Overload the pancreas, trigger diarrhea, and damage tooth enamel."
+            "text": "• Sappen en zoete dranken. Overbelast de alvleesklier, veroorzaakt diarree en beschadigt het tandglazuur."
           }
         },
         {
@@ -1693,37 +1692,37 @@
         {
           "type": "heading",
           "data": {
-            "text": "From 1 to 3 years"
+            "text": "Van 1 tot 3 jaar"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Limit salt, sugar, and fatty foods. Harm teeth and kidneys; avoid sausages, fast food, store-bought sauces, sweet yogurts, and sugary drinks."
+            "text": "• Beperk zout, suiker en vet voedsel. Beschadig tanden en nieren; vermijd worstjes, fastfood, sauzen uit de winkel, zoete yoghurt en suikerhoudende dranken."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Juices, sodas, nectars. Very high in sugar — heavy load for the liver and teeth."
+            "text": "• Sappen, frisdranken, nectars. Zeer rijk aan suiker – zware belasting voor de lever en tanden."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Popcorn, whole grapes, raw carrot sticks. Major choking hazards; serve grapes only sliced lengthwise."
+            "text": "• Popcorn, hele druiven, rauwe wortelstokjes. Grote verstikkingsgevaren; serveer druiven alleen in de lengte gesneden."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Rice drinks. May contain elevated arsenic levels."
+            "text": "• Rijstdrankjes. Kan verhoogde arseengehalten bevatten."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Salty, smoked, or cured meat products. High in salt and nitrites (sausages, ham, hot dogs)."
+            "text": "• Zoute, gerookte of gezouten vleesproducten. Rijk aan zout en nitrieten (worstjes, ham, hotdogs)."
           }
         },
         {
@@ -1732,37 +1731,37 @@
         {
           "type": "heading",
           "data": {
-            "text": "From 3 to 5 years"
+            "text": "Van 3 tot 5 jaar"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Whole nuts and seeds. Can still block the airway at 4–5 years; offer ground nuts or unsweetened nut butters."
+            "text": "• Hele noten en zaden. Kan na 4 à 5 jaar nog steeds de luchtwegen blokkeren; bied gemalen noten of ongezoete notenboters aan."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Popcorn, hard candies, caramel. Very high choking risk."
+            "text": "• Popcorn, harde snoepjes, karamel. Zeer hoog verstikkingsrisico."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Foods high in sugar, salt, and fats. Drive obesity, diabetes, and cavities; examples include chips, snacks, donuts, sweet cookies, fast food."
+            "text": "• Voedingsmiddelen met een hoog suiker-, zout- en vetgehalte. Stimuleer zwaarlijvigheid, diabetes en gaatjes; voorbeelden hiervan zijn chips, snacks, donuts, zoete koekjes, fastfood."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Soda and energy drinks. Lots of sugar and caffeine that harm teeth and the nervous system."
+            "text": "• Frisdrank en energiedrankjes. Veel suiker en cafeïne die de tanden en het zenuwstelsel beschadigen."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Hard or round foods. Can block the airway: whole cherry tomatoes, whole grapes, firm raw vegetables."
+            "text": "• Hard of rond voedsel. Kan de luchtwegen blokkeren: hele kerstomaatjes, hele druiven, stevige rauwe groenten."
           }
         },
         {
@@ -1797,145 +1796,145 @@
       ]
     },
     {
-      "title": "Meal Frequency and Portion Sizes During Complementary Feeding",
-      "teaser": "Evidence-based recommendations on feeding frequency, portion sizes, and intervals according to WHO, NHS, AAP, and Health Canada.",
+      "title": "Maaltijdfrequentie en portiegroottes tijdens aanvullende voeding",
+      "teaser": "Evidence-based aanbevelingen over voedingsfrequentie, portiegroottes en intervallen volgens de WHO, NHS, AAP en Health Canada.",
       "blocks": [
         {
           "type": "heading",
           "data": {
-            "text": "When to Start and How Often to Offer Food"
+            "text": "Wanneer te beginnen en hoe vaak voedsel aan te bieden"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "International recommendations consistently state that complementary feeding should begin around six months when the infant shows signs of readiness. At the beginning, one small meal per day is sufficient. Breast milk or formula remains the primary source of nutrition."
+            "text": "Internationale aanbevelingen stellen consequent dat aanvullende voeding ongeveer zes maanden moet beginnen wanneer het kind tekenen van gereedheid vertoont. In het begin is één kleine maaltijd per dag voldoende. Moedermelk of flesvoeding blijft de belangrijkste voedingsbron."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "Meal Frequency by Age"
+            "text": "Maaltijdfrequentie per leeftijd"
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "6–8 months"
+            "text": "6–8 maanden"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Recommended frequency is 2–3 meals per day. Breastfeeding or formula feeding continues between meals. Food should be soft or provided as safe finger-sized pieces."
+            "text": "De aanbevolen frequentie is 2–3 maaltijden per dag. Borstvoeding of flesvoeding gaat door tussen de maaltijden door. Het voedsel moet zacht zijn of in veilige stukjes ter grootte van een vinger worden verstrekt."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "9–11 months"
+            "text": "9–11 maanden"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Recommended frequency is 3–4 meals per day. One or two healthy snacks may be added if needed. The variety of foods increases."
+            "text": "De aanbevolen frequentie is 3–4 maaltijden per dag. Indien nodig kunnen er één of twee gezonde tussendoortjes worden toegevoegd. De verscheidenheid aan voedingsmiddelen neemt toe."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "12 months and older"
+            "text": "12 maanden en ouder"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Three main meals and two snacks per day are recommended. The child gradually transitions to family foods, and milk is no longer the primary calorie source."
+            "text": "Er worden drie hoofdmaaltijden en twee tussendoortjes per dag aanbevolen. Het kind gaat geleidelijk over op gezinsvoeding en melk is niet langer de belangrijkste caloriebron."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "Recommended Portion Sizes"
+            "text": "Aanbevolen portiegroottes"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "6–8 months: vegetables and fruits — 2–3 tablespoons; cereals — 2–4 tablespoons; protein foods — 1–2 teaspoons."
+            "text": "6–8 maanden: groenten en fruit – 2–3 eetlepels; ontbijtgranen — 2-4 eetlepels; eiwitrijk voedsel – 1-2 theelepels."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "9–11 months: vegetables and fruits — one-quarter to one-half cup; cereals — one-quarter to one-half cup; meat or legumes — 2–4 tablespoons."
+            "text": "9-11 maanden: groenten en fruit – een kwart tot een half kopje; granen – een kwart tot een half kopje; vlees of peulvruchten — 2-4 eetlepels."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "12–24 months: vegetables and fruits — one-half cup; grains — one-half cup; meat — 3–4 tablespoons; dairy — half a cup of yogurt or 20–30 g of cheese."
+            "text": "12-24 maanden: groenten en fruit — een half kopje; granen - een half kopje; vlees — 3-4 eetlepels; zuivel — een half kopje yoghurt of 20-30 g kaas."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "Intervals Between Meals"
+            "text": "Intervallen tussen de maaltijden"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Optimal intervals are approximately two and a half to three and a half hours. This supports healthy appetite regulation and prevents overeating."
+            "text": "De optimale intervallen zijn ongeveer tweeënhalf tot drieënhalf uur. Dit ondersteunt een gezonde eetlustregulatie en voorkomt overeten."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "How to Recognize Satiety and Hunger"
+            "text": "Verzadiging en honger herkennen"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Signs of satiety include turning the head away, closing the mouth, and reduced interest. Signs of hunger include reaching for food, opening the mouth, and showing continued interest."
+            "text": "Tekenen van verzadiging zijn onder meer het hoofd wegdraaien, de mond sluiten en verminderde interesse. Tekenen van honger zijn onder meer het grijpen naar voedsel, het openen van de mond en het tonen van voortdurende interesse."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "Fluids During Complementary Feeding"
+            "text": "Vloeistof tijdens aanvullende voeding"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "After six months, small amounts of water may be offered with meals. Water does not replace milk or formula."
+            "text": "Na zes maanden mogen kleine hoeveelheden water bij de maaltijd worden aangeboden. Water is geen vervanging voor melk of kunstvoeding."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "When to Consult a Doctor"
+            "text": "Wanneer moet u een arts raadplegen"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Consultation is recommended if the child gains weight poorly, rejects solid foods, shows repeated reactions to foods, or has chronic health conditions."
+            "text": "Raadpleging wordt aanbevolen als het kind slecht aankomt, vast voedsel afwijst, herhaaldelijk op voedsel reageert of chronische gezondheidsproblemen heeft."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "Summary"
+            "text": "Samenvatting"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Complementary feeding should begin after six months with a gradual increase in meal frequency. Portions should remain small and intervals regular. The core principle is gradual progression and responsiveness to the child's needs."
+            "text": "Aanvullende voeding moet na zes maanden beginnen, met een geleidelijke toename van de maaltijdfrequentie. De porties moeten klein blijven en de tussenpozen regelmatig. Het kernprincipe is geleidelijke vooruitgang en het inspelen op de behoeften van het kind."
           }
         },
         {
@@ -1945,7 +1944,7 @@
       "id": "31d7da57-b214-45e4-981e-7835b5d2e530",
       "cover": {
         "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/pryiomy-yizhi.webp",
-        "caption": "Meal schedule and portion sizes for complementary feeding"
+        "caption": "Maaltijdschema en portiegroottes voor aanvullende voeding"
       },
       "sources": [
         {

@@ -1,0 +1,1973 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2025-05-29T00:00:00Z",
+  "language": "pl",
+  "articles": [
+    {
+      "id": "b6dd27cc-8a79-4d12-a609-6bc0afd4f1b9",
+      "title": "Jak korzystać z aplikacji „Rozszerzanie”",
+      "teaser": "Poznaj główne sekcje aplikacji Rozszerzanie Tracker i prowadź porządek w notatkach dotyczących odsadzania dziecka.",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/app.webp",
+        "caption": "Interfejs aplikacji Rozszerzanie"
+      },
+      "blocks": [
+        {
+          "type": "heading",
+          "data": {
+            "text": "Ważna informacja medyczna"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Aplikacja Rozszerzanie nie zastępuje profesjonalnej porady lekarskiej."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Zawsze skonsultuj się ze swoim pediatrą lub alergologiem przed dodaniem nowej żywności, zmianą harmonogramu karmienia lub reagowaniem na objawy."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "O aplikacji"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Rozszerzanie Tracker pomaga monitorować postęp karmienia uzupełniającego i utrzymywać porządek w każdej notatce."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Śledź, jakie pokarmy próbowało już Twoje dziecko."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Rejestruj reakcje, notatki i komentarze."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Twórz własne dania."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Planuj posiłki na dzień lub cały tydzień."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Główne sekcje"
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "📊 Statystyki"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": " Daje ci migawkę ostatnich posiłków, reakcji i nowo wprowadzonych pokarmów, dzięki czemu możesz śledzić postępy."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "🥣 Produkty"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Przeglądaj żywność odpowiednią do wieku, zaznacz wprowadzone produkty i dodaj obserwacje."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Na etykiecie ⚠️ zaznaczono alergeny objęte regulacją, a ❗ podkreślono potencjalne uczulenia."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "🍽️ Menu"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Zaplanuj śniadanie, lunch, kolację lub przekąski, dodając dania i krótkie notatki."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Menu jest podzielone na trzy sekcje:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "1. Dzisiaj."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "2. Planowane posiłki."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "3. Historia."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "🧾 Niestandardowe potrawy"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Dodawaj własne potrawy lub przepisy, łącznie ze szczegółami przygotowania i notatkami."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Edytuj je lub usuwaj, gdy zajdzie taka potrzeba."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "⚙️ Ustawienia"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Włącz lub wyłącz synchronizację iCloud w dowolnym momencie."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Użyj przycisku „Synchronizuj teraz”, aby ręcznie aktualizować i czyścić pamięć podręczną lub wskazówki, jeśli to konieczne."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Synchronizacja"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Wszystkie informacje są przechowywane w Twojej prywatnej bazie danych iCloud i widoczne tylko dla Ciebie Ciebie."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Urządzenia aktualizują się automatycznie."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Jeśli Twoje miejsce w iCloud jest pełne, zwolnij miejsce lub uaktualnij swój plan."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Prywatność"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Żadne dane nie są udostępniane stronom trzecim, a programiści nie mają dostępu do Twoich danych."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Wszystko pozostaje bezpieczne w Twoim Apple ID."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Pomoc"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "W przypadku pytań lub pomysłów technicznych otwórz Ustawienia → Opinia."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Możesz także wysłać e-mail do pomocy technicznej, podając model swojego urządzenia, wersję iOS i opis problemu."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Pamiętaj: aplikacja jest przydatnym towarzyszem, ale nigdy nie zastąpi profesjonalnej konsultacji lekarskiej."
+          }
+        }
+      ]
+    },
+    {
+      "id": "3f91c5db-5f06-4e36-9d2c-2b9188cbf65c",
+      "title": "Kiedy rozpocząć karmienie uzupełniające: oznaki, że Twoje dziecko jest gotowe",
+      "teaser": "Jak ustalić, czy Twoje dziecko jest gotowe na pierwsze posiłki stałe i wybrać idealny moment.",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/1.webp",
+        "caption": "Pierwsze łyżki pokarmu uzupełniającego dla ciekawskiego dziecka"
+      },
+      "blocks": [
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Wprowadzenie pokarmów uzupełniających to ważny kamień milowy w rozwoju Twojego dziecka, gdy przechodzi ono z ekskluzywnego mleka matki lub mieszanki modyfikowanej na nową żywność. Wybór odpowiedniego momentu na rozpoczęcie żywienia wpływa nie tylko na apetyt, ale także na rozwój układu trawiennego, nawyki żywieniowe, a nawet przyszłe podejście do jedzenia."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Najlepszy wiek na rozpoczęcie żywienia uzupełniającego"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Według Światowej Organizacji Zdrowia (WHO) i pediatrów w większości krajów pokarmy stałe należy wprowadzić około 6 miesiąca życia. Do tego czasu mleko matki lub mieszanka całkowicie pokrywa potrzeby żywieniowe Twojego dziecka."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Niektóre dzieci mogą być gotowe nieco wcześniej – w wieku 5 miesięcy – a inne dopiero bliżej 7. miesiąca życia. Najważniejsze, żeby się nie spieszyć i skupić nie tylko na wieku, ale także na sygnałach gotowości."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Oznaki gotowości, na które warto zwrócić uwagę"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Każde dziecko rozwija się w swoim własnym tempie, dlatego ważne jest obserwowanie jego zachowania. Poniżej przedstawiamy najważniejsze sygnały, które wskazują, że czas wprowadzić nowe smaki."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "1. Twoje dziecko trzyma głowę stabilnie"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Twoje dziecko powinno być w stanie utrzymać głowę prosto i siedzieć z minimalnym podparciem. Ma to kluczowe znaczenie dla bezpieczeństwa, aby nie było ryzyka zadławienia się podczas posiłków."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "2. Wykazuje zainteresowanie rodzinnymi posiłkami"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Jeśli Twoje dziecko z fascynacją obserwuje, jak jesz, sięga po łyżkę lub próbuje chwycić kawałek, to znak, że jest ciekawe nowych potraw."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "3. Odruch wsuwania języka osłabł."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Noworodki mają naturalny odruch wsuwania języka, który automatycznie wypycha wszystko, co jest gęstsze niż mleko. Kiedy ten odruch osłabnie, Twoje dziecko będzie mogło poradzić sobie z puree."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "4. Większy apetyt i mleko nie wystarczą"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Jeśli Twoje dziecko częściej prosi o jedzenie, ale nadal wydaje się później niezadowolone, może to oznaczać, że jego organizm potrzebuje więcej składników odżywczych."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "5. Waga podwoiła się od urodzenia"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Podwojenie masy urodzeniowej to kolejny wskaźnik gotowości. Świadczy to o tym, że Twoje dziecko aktywnie rośnie i potrzebuje dodatkowej energii."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "6. Brak objawów choroby"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Rozpocznij wprowadzanie pokarmów stałych tylko wtedy, gdy Twoje dziecko jest zdrowe, nie jest przeziębione, nie ma problemów z brzuszkiem ani dyskomfortu związanego z ząbkowaniem, które mogłoby spowodować tymczasową odmowę przyjęcia nowego pokarmu."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Kiedy odłożyć karmienie uzupełniające"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Nie wprowadzaj nowego pokarmu, jeśli Twoje dziecko jest chore lub właśnie otrzymało szczepienie."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Unikaj rozpoczynania posiłków w czasie upałów ze względu na ryzyko odwodnienia."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Opóźnij wprowadzenie, jeśli zauważysz duży stres lub rutynowe zmiany, takie jak przeprowadzka lub nowego opiekuna."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Poczekaj, jeśli dziecko nadal nie może utrzymać główki lub samodzielnie siedzieć."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Jak przygotować się do pierwszego karmienia"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "1. Wybierz odpowiednią porę dnia — kiedy dziecko jest czujne, niezbyt głodne i ma dobry nastrój."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "2. Zacznij od jednego pokarmu i obserwuj reakcję przez 2–3 dni."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "3. Nie zmuszaj tego – jeśli Twoje dziecko odwróci się lub złączy usta, po prostu spróbuj ponownie później."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "4. Podawaj jedzenie łyżką, a nie butelką — pomoże to Twojemu dziecku nauczyć się prawidłowego połykania."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "5. Rób notatki – prowadź mały dziennik karmienia lub korzystaj z aplikacji mobilnej."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Wcześnie czy późno? Dlaczego równowaga ma znaczenie"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Zbyt wczesne wprowadzenie pokarmów stałych, przed 4 miesiącem życia, może przeciążyć układ trawienny i zwiększyć ryzyko alergii i problemów żołądkowych."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Zbyt późne rozpoczęcie, po 8 miesiącach, może prowadzić do niedoboru żelaza, odmowy przyjmowania pokarmów teksturowanych i opóźnienia w rozwijaniu umiejętności żucia."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Najlepszą strategią jest skupienie się na gotowości dziecka, a nie na stałych datach w kalendarzu."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Wprowadzanie pokarmów stałych to nie tylko jedzenie — to nowy krok w rozwoju Twojego dziecka. Kiedy zauważysz sygnały gotowości, podawaj nowe smaki powoli, z uwagą i ciekawością."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Pamiętaj: każda łyżeczka to małe odkrycie, krok w stronę niezależności i nowych wrażeń."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "WHO complementary feeding guidance",
+          "url": "https://www.who.int/publications/i/item/9789240081864"
+        },
+        {
+          "title": "UNICEF Baby Friendly: Start4Life",
+          "url": "https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2008/02/Start4Life-Introducing-Solid-Foods-2015.pdf"
+        },
+        {
+          "title": "EFSA Journal 5780",
+          "url": "https://www.efsa.europa.eu/en/efsajournal/pub/5780"
+        },
+        {
+          "title": "NHS: From around 6 months",
+          "url": "https://www.nhs.uk/best-start-in-life/baby/weaning/what-to-feed-your-baby/from-around-6-months"
+        }
+      ]
+    },
+    {
+      "id": "f7ddca56-f196-4524-bb21-51b5a63a40f3",
+      "title": "Pierwsze pokarmy do żywienia uzupełniającego: co podać w pierwszej kolejności",
+      "teaser": "Poradnik po warzywach i płatkach zbożowych, które najlepiej sprawdzają się na pierwsze stałe posiłki oraz jak bezpiecznie wprowadzać nowe smaki.",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/2.webp",
+        "caption": "Przeciery i płatki zbożowe jako pierwsze dania uzupełniające"
+      },
+      "blocks": [
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Rozpoczęcie jedzenia na stałe to nowy etap w życiu Twojego dziecka i ważny krok dla rodziców. Po sześciu miesiącach samo mleko matki lub mieszanka nie wystarcza, więc dzieci stopniowo potrzebują dodatkowego pokarmu. Ale od czego zacząć, aby wszystko było bezpieczne i korzystne?"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Który pokarm wybrać jako pierwszy"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Istnieje kilka sposobów na rozpoczęcie spożywania pokarmów stałych, a wybór często zależy od stanu zdrowia, przyrostu masy ciała i porady lekarza. Pediatrzy zazwyczaj zalecają jednoskładnikowe przeciery warzywne lub zbożowe, aby organizm dziecka mógł się stopniowo przystosowywać."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Opcja 1. Przecier warzywny"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Idealny dla dzieci, które szybko przybierają na wadze lub mają już większą wagę."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Pierwsze warzywa to zazwyczaj:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- cukinia;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- kalafior;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- brokuły;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- dynia."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Są lekkostrawne, rzadko powodują alergie, oraz mają delikatny smak przypominający mleko matki. Przygotuj puree bez soli i przypraw, zaczynając od 1–2 łyżeczek dziennie."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Opcja 2. Płatki bezglutenowe"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Jeśli Twoje dziecko powoli przybiera na wadze lub wydaje mu się, że brakuje mu energii, zacznij od jednoskładnikowych płatków bezmlecznych:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- ryż;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- kasza gryczana;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- kukurydza."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Ugotuj płatki w wodzie lub wymieszaj z mlekiem matki lub mieszanką. Kluczem jest brak cukru, soli i dodatków."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Opcja 3. Przecier owocowy"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Owoce smakują wyśmienicie i dzieci szybko się do nich przyzwyczajają, ale nie spiesz się. Podawaj je po warzywach, aby maluch nie odmówił mniej słodkich posiłków."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Dobre pierwsze opcje to:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- jabłko;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- gruszka;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- banan (od 7 miesiąca)."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Jak wprowadzać pierwsze pokarmy"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "1. Zacznij od jednego składnika. Podawaj każdy nowy pokarm osobno, aby łatwiej było śledzić reakcję."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "2. Stopniowo zwiększaj ilość. Zacznij od 1 łyżeczki i powoli zwiększaj aż do pełnej porcji – 100–150 g dziennie."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "3. Obserwuj reakcje. Jeżeli nie występuje wysypka, ból brzucha lub zmiana stolca, po 3–4 dniach można dodać kolejny pokarm."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "4. Gotuj bez soli, cukru i przypraw. Naturalny smak składników to wszystko, czego potrzebuje Twoje dziecko."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "5. Wybierz odpowiedni moment. Podawaj nowe pokarmy w ciągu dnia – między porannym a południowym posiłkiem – kiedy dziecko jest w dobrym nastroju."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Przykładowe menu na pierwszy tydzień"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Dni 1–3: purée z cukinii — 1 łyżeczka → 3–4 łyżeczki."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Dni 4–6: purée z kalafiora — 1 łyżeczka → 5 łyżeczek."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Dni 7–10: cukinia + kalafior lub przejdź na płatki gryczane."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Od 7 miesiąca życia możesz dodawać ziemniaki, marchewkę, dynię, jabłko, gruszkę, a później mięso."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Częste błędy przy rozpoczynaniu posiłków stałych"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Zaczynanie, zanim dziecko potrafi siedzieć lub trzymać główkę."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Podawanie kilku nowych pokarmów na raz."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Dodawanie soli lub cukru."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Naciskanie na dziecko, aby jadło, kiedy nie chce."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Podawanie pokarmów stałych w czasie choroby lub zaraz po szczepieniu."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Pamiętaj: żywienie uzupełniające to nie wyścig, ale delikatne wprowadzenie w świat nowych smaków."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "|Kiedy wezwać lekarza"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Skontaktuj się z pediatrą, jeśli po nowym jedzeniu zauważysz:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- wysypkę lub zaczerwienienie;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- biegunkę lub zaparcie;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- częste plucia;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- niepokój lub zaburzenia snu;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- obrzęki lub trudności w oddychaniu – natychmiast przerwij nowe jedzenie i skontaktuj się z pediatrą lub alergologiem."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Wskazówki dla rodziców"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Mleko matki lub mieszanka mleczna pozostaje głównym źródłem pożywienia do pierwszego roku życia."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Stwórz pozytywną atmosferę podczas posiłku: uśmiechaj się i mów spokojnie."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Pozwól dziecku dotykać łyżki i próbować samodzielnie się nakarmić – pobudza to ciekawość i poprawia motorykę małą."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Jeśli coś Ci się nie podoba, zrób sobie krótką przerwę dni i zaoferuj to ponownie."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Na wynos"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Pierwsza żywność uzupełniająca powinna być prosta, bezpieczna i naturalna. Zacznij od warzyw lub płatków zbożowych, uważnie obserwuj swoje dziecko i krok po kroku dodawaj nowe potrawy."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Przede wszystkim zachowaj spokój, niespieszność i troskę. Każda nowa łyżeczka to krok Twojego dziecka w wielki świat rodzinnych posiłków."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "NHS — Your baby’s first solid foods",
+          "url": "https://www.nhs.uk/baby/weaning-and-feeding/babys-first-solid-foods/"
+        },
+        {
+          "title": "Start4Life / UNICEF — Introducing Solid Foods",
+          "url": "https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2008/02/Start4Life-Introducing-Solid-Foods-2015.pdf"
+        },
+        {
+          "title": "ESPGHAN — Complementary Feeding Position Paper",
+          "url": "https://alimentacionysalud.unam.mx/wp-content/uploads/2020/12/Complementary-Feeding_-A-Position-Paper-by-the-European-Society-for-Paediatric-Gastroenterology-Hepatology-and-Nutrition-ESPGHAN-Committee-on-Nutrition.pdf"
+        },
+        {
+          "title": "AAP — Starting Solid Foods handout",
+          "url": "https://18andundermd.com/wp-content/uploads/2020/02/solid-food-introduction-handout.pdf"
+        },
+        {
+          "title": "Allergy UK — Weaning: Introducing Your Baby to Solids",
+          "url": "https://www.allergyuk.org/wp-content/uploads/2022/02/Weaning-%E2%80%93-Introducing-Your-Baby-to-Solids.pdf"
+        }
+      ]
+    },
+    {
+      "id": "7accabaa-306a-4267-8159-7b684cfec85d",
+      "title": "BLW (Baby-Led Weaning), czyli samodzielne karmienie — nowoczesny sposób na wprowadzanie stałych pokarmów",
+      "teaser": "Na czym polega podejście BLW, jak ocenić gotowość i jak zorganizować bezpieczne samodzielne karmienie.",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/3.webp",
+        "caption": "Dziecko samodzielnie poznaje pokarmy stałe podczas pierwszego posiłku"
+      },
+      "blocks": [
+        {
+          "type": "heading",
+          "data": {
+            "text": "Co to jest BLW"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "BLW (odsadzanie pod kontrolą dziecka) to nie rodzaj pokarmu, ale podejście, w którym dziecko przejmuje inicjatywę w karmieniu już od pierwszych stałych posiłków."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Pomysł został sformułowany przez Gill Rapley – brytyjską pielęgniarkę, konsultantkę laktacyjną i badacza."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "BLW rozprzestrzeniło się na całym świecie dzięki prostej, ale rewolucyjnej koncepcji:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "„Dziecko samodzielnie karmi swoje dziecko, a dorośli zapewniają bezpieczne, naturalne środowisko.”"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Korzyści samodzielnego karmienia"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- zachęca do zdrowych nawyków żywieniowych od niemowlęctwa;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- rozwija koordynację i motorykę małą;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- stymuluje rozwój zmysłów poprzez dotyk, smak i węch;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- zmniejsza ryzyko przejadania się i wybrednego jedzenia w późniejszym czasie;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- wzmacnia więź emocjonalną między dzieckiem a rodzicami podczas posiłków."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Kiedy rozpocząć BLW"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Samodzielne karmienie jest odpowiednie dla dzieci w wieku około 6 miesięcy starsze, gdy:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- potrafi siedzieć samodzielnie lub przy minimalnym podparciu;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- trzyma głowę stabilnie;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- potrafi chwytać jedzenie rękoma i przykładać je do ust."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Zanim zaczniesz, upewnij się, że Twoje dziecko jest gotowe fizycznie – jego układ trawienny, umiejętności żucia i stabilność postawy powinny być wystarczająco rozwinięte."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Światowa Organizacja Zdrowia zaleca również wprowadzenie pokarmów stałych po 6 miesiącu kontynuowania karmienia piersią."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Podstawowe zasady BLW"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "1. Bezpieczeństwo przede wszystkim. Twoje dziecko powinno siedzieć prosto, aby koordynować połykanie i oddychanie."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "2. Nie karm łyżeczką. Pozwól dziecku decydować, co, kiedy i ile zjeść."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "3. Nigdy nie zostawiaj dziecka bez opieki podczas jedzenia."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "4. Pomiń sól, cukier, miód i przyprawy."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "5. Oferuj miękkie produkty spożywcze w bezpiecznych kształtach i rozmiarach."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "6. Podawaj wodę w filiżance lub otwartej szklance, a nie w kubku-niekapku."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "7. Żadnych gadżetów i telewizji podczas posiłków."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "8. Mleko matki lub mleko modyfikowane pozostaje głównym pożywieniem do pierwszego roku życia."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Jak zaplanować porę posiłków"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- posadź dziecko w wygodnym wysokim krzesełku z podnóżkiem;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- wybierz zwykłe naczynia bez wzorów, aby zmniejszyć rozpraszanie uwagi;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- użyj przyssawki lub maty silikonowej;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- umieść pod krzesłem matę lub szmatkę – na początku bałagan jest nieunikniony;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- przygotuj silikonowy śliniaczek z kieszenią;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- podawaj jedzenie w postaci długich pasków lub patyczków z grubsza Rozmiar palca dorosłego."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Bezpieczne sposoby podawania jedzenia"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Sprawdź konsystencję: jeśli jedzenie łatwo zgniata się między palcami, jest bezpieczne."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Zacznij od miękkich warzyw i owoców — brokułów, kalafiora, marchewki, cukinii, awokado, banana, jabłka gotowanego na parze."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Stopniowo dodawaj inne produkty, takie jak płatki zbożowe, mięso, rośliny strączkowe i jajka."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Najważniejsze jest, aby robić to powoli i stopniowo wprowadzać nowe składniki obserwując reakcje dziecka."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Ryzyko zadławienia i naturalne odruchy"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Rodzice często obawiają się zadławienia, ale badania pokazują, że ryzyko zadławienia się metodą BLW nie jest większe niż w przypadku tradycyjnego karmienia łyżeczką."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "|Dzieci mają silny odruch wymiotny – naturalny mechanizm zabezpieczający, który zapobiega przedostawaniu się kawałków zbyt głęboko do gardła."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Ważne:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- nie wkładaj dziecku rąk ani łyżki do ust dziecka;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- nie klep ich po plecach;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- spokojnie pozwól dziecku kaszleć;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- interweniuj tylko wtedy, gdy dziecko nie oddycha, nie wydaje dźwięków i sinieje."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Co podać jako pierwsze"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Przy pierwszych próbach wybieraj miękkie pokarmy, które można rozgnieść z dziąsłami:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- warzywa gotowane (marchew, dynia, ziemniak, brokuły);"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- owoce (banan, gruszka, awokado);"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- miękkie mięso lub klopsiki;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- gęste kaszki uformowane w paski;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- tosty, makaron, jajko, ryba – wprowadzane stopniowo wraz z wiekiem."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Łączenie z łyżką"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "BLW nie zakazuje używania łyżek, jeśli dziecko trzyma je samodzielnie."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Najlepiej sprawdzają się początkowe przybory do przygotowywania łyżek z małymi wypustkami."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Upewnij się, że przeciery są gęste, a nie rzadkie, aby dziecko mogło zachować kontrolę."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Kiedy BLW nie jest odpowiednie"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Unikaj tego podejścia w przypadku dzieci z:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- dysfagią (trudnościami w połykaniu);"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- hipotonią lub opóźnieniami rozwojowymi;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- problemami strukturalnymi jamy ustnej;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- niską wagą, anemią lub wcześniakiem (bez zgody pediatrycznej)."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Globalne doświadczenia i zalecenia"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- WHO kładzie nacisk na rozpoczynanie stosowania pokarmów uzupełniających od 6 miesiąca życia i kontynuację karmienia piersią do 2 roku życia lub dłużej."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Amerykańska Akademia Pediatrii uważa BLW za bezpieczne jeśli dorośli nadzorują i wybierają odpowiednią konsystencję."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Brytyjska służba zdrowia zauważa, że samodzielne jedzenie pomaga dzieciom rozpoznać głód i sytość oraz buduje niezależność."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Systematyczne recenzje w BMJ Open i International Journal of Pediatrics pokazują, że diety BLW zapewniają podobne wartości odżywcze, ale ważne jest monitorowanie spożycia żelaza i unikanie twardych kawałków."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "BLW to naturalny, uważny i pełen szacunku sposób wspierania rozwoju dziecka."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Wspomaga niezależność, buduje zdrowy związek z jedzeniem i tworzy pozytywną atmosferę podczas posiłków."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Rodzice powinni pozostać blisko, wspierać i ufać swojemu dziecku."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Ostatecznym celem pokarmów stałych jest nie tylko karmienie dziecka, ale nauczenie go jedzenia z radością, pewnością i bezpieczeństwem ❤️."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "WHO – Complementary Feeding",
+          "url": "https://www.who.int/health-topics/complementary-feeding"
+        },
+        {
+          "title": "WHO – Continued Breastfeeding",
+          "url": "https://www.who.int/tools/elena/bbc/continued-breastfeeding"
+        },
+        {
+          "title": "NHS – Baby’s First Solid Foods",
+          "url": "https://www.nhs.uk/baby/weaning-and-feeding/babys-first-solid-foods/"
+        },
+        {
+          "title": "NHS – Weaning & Readiness Signs",
+          "url": "https://bedslutonchildrenshealth.nhs.uk/feeding-and-eating/weaning-and-introducing-solid-foods/"
+        },
+        {
+          "title": "UNICEF / Start4Life – Introducing Solid Foods",
+          "url": "https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2008/02/Start4Life-Introducing-Solid-Foods-2015.pdf"
+        },
+        {
+          "title": "AAP – Baby-Led Weaning: Is It Safe?",
+          "url": "https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/baby-led-weaning-is-it-safe.aspx"
+        }
+      ]
+    },
+    {
+      "id": "08e35bc2-a02f-4d59-bb5f-c4698ceef69e",
+      "title": "Wprowadzanie alergenów podczas odstawiania dziecka od piersi",
+      "teaser": "Dlaczego terminowa i dobrze monitorowana ekspozycja na alergeny zmniejsza ryzyko alergii pokarmowych w późniejszym życiu.",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/allergy.webp",
+        "caption": "Rodzic oferujący żywność alergizującą bezpiecznie podczas odstawiania od piersi pod nadzorem dziecka."
+      },
+      "blocks": [
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Alergie pokarmowe należą do najczęstszych problemów we wczesnym dzieciństwie."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Kiedyś zalecono rodzicom, aby opóźniali spożywanie pokarmów alergizujących, ale aktualne dowody wskazują na coś przeciwnego: podawanie małych, kontrolowanych porcji na wczesnym etapie uczy układ odpornościowy tolerowania nowych składników."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Nowoczesne podejście"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Wiodące organizacje, takie jak WHO, ESPGHAN i Amerykańska Akademia Pediatrii sugerują wprowadzanie pokarmów alergizujących w wieku około szóstego miesiąca życia, kiedy dziecko jest już gotowe na przyjęcie pokarmów stałych."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "„Stopniowe narażenie na pokarm w małych ilościach buduje tolerancję immunologiczną” – podkreślają alergologowie pediatryczni. Zawsze wybieraj moment, kiedy Twoje dziecko jest zdrowe i wolne od wysypek lub przeziębień."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Wprowadzaj tylko jeden nowy składnik na raz i rób to wcześniej tego samego dnia, aby móc obserwować reakcję dziecka."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Główne alergeny pokarmowe"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Unia Europejska uznaje 14 głównych alergenów: gluten, orzeszki ziemne, orzechy z drzew orzechowych, seler, musztarda, mleko, jaja, sezam, ryby, skorupiaki, mięczaki, soja, siarczyny i łubin."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "W przypadku niemowląt najważniejsze są jaja, ryby, mleko, pszenica, soja, orzeszki ziemne, seler, różne orzechy i sezam."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Kiedy i jak rozpocząć"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Rozpocznij narażenie na alergeny, gdy dziecko będzie już mogło swobodnie obchodzić się z warzywami, zbożami i mięsem."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Zacznij od mikroporcji — tylko okruszek lub ćwierć łyżeczki."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Zwiększaj stopniowo, jeśli nie pojawiają się żadne reakcje, i prowadź dziennik karmienia z datami i datą ilościach."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Zaoferuj ponownie ten sam alergen w ciągu tygodnia, aby wzmocnić tolerancję."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Lista kontrolna bezpiecznego wprowadzania alergenów"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "1. Dodawaj tylko jeden nowy pokarm na raz, aby móc określić każdą reakcję."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "2. Najpierw podawaj najmniejszą porcję i podawaj w ciągu dnia."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "3. Zostaw trzydniowe okno, zanim spróbujesz innego nowego jedzenia."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "4. Jeśli pokarm jest dobrze tolerowany, powtarzaj go 1–2 razy w tygodniu, aby utrzymać tolerancję."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Możliwe objawy alergii"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Zwróć uwagę na zaczerwienienie wokół ust, pokrzywkę, obrzęk warg lub powiek, kaszel, kichanie, trudności w oddychaniu, wymioty, biegunkę lub nagłą drażliwość."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "W przypadku zauważenia trudności w oddychaniu, obrzęku twarzy lub jakichkolwiek objawów anafilaksji należy pilnie zgłosić się do lekarza."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Jeśli Twoje dziecko już zareagowało"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Nie należy ponownie wprowadzać alergenu bez konsultacji z pediatrą lub alergologiem. Mogą doradzić w sprawie nadzorowanych wyzwań i odpowiedniego momentu."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Wiele dzieci wyrasta z określonych alergii, ale musi to następować stopniowo i pod fachowym nadzorem."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Najważniejsze wnioski"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Alergeny nie są wrogiem, jeśli wprowadzane są świadomie. Stałe, monitorowane narażenie na żywność zachęca do zdrowych nawyków żywieniowych i zmniejsza prawdopodobieństwo wystąpienia alergii w przyszłości."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "HealthyChildren.org",
+          "url": "https://www.healthychildren.org/English/healthy-living/nutrition/Pages/when-to-introduce-egg-peanut-butter-and-other-common-food-allergens-to-your-baby-food-allergy-prevention-tips.aspx"
+        },
+        {
+          "title": "AAP Pediatrics",
+          "url": "https://publications.aap.org/pediatrics/article/152/5/e2023062836/194356/Updates-in-Food-Allergy-Prevention-in-Children"
+        },
+        {
+          "title": "EFSA: Food allergens",
+          "url": "https://www.efsa.europa.eu/en/safe2eat/food-allergens"
+        }
+      ]
+    },
+    {
+      "id": "b2eba6f0-4c4c-4a57-8bb0-bda297d91c19",
+      "title": "Żywność zabroniona dla dzieci: do 1 roku, do 3 lat, do 5 lat",
+      "teaser": "Praktyczny przewodnik dla rodziców na temat żywności niebezpiecznej w różnym wieku i powodów, aby ich unikać.",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/zaboroneni-produkty.webp",
+        "caption": "Żywność zabroniona dla dzieci w różnym wieku"
+      },
+      "blocks": [
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Małe dzieci potrzebują bezpiecznych posiłków dostosowanych do wieku. Niektóre produkty spożywcze stwarzają ryzyko zadławienia, zawierają toksyny lub przeciążają niedojrzałe narządy, dlatego ważne jest, aby wiedzieć, czego unikać."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Do 1 roku"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Miód. Może zawierać zarodniki zatrucia jadem kiełbasianym i jest niebezpieczny nawet w małych ilościach."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Sól i słone potrawy. Nerki niemowląt nie radzą sobie z nadmiarem sodu; unikaj słonych serów, kiełbas, konserw i sosów."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Cukier i słodycze. Zwiększ ryzyko próchnicy i otyłości oraz stwórz niezdrowe preferencje smakowe."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Całe orzechy i nasiona. Wyjątkowo wysokie ryzyko zadławienia."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Głównym napojem jest mleko krowie. Za dużo białka i sodu, mało żelaza → ryzyko anemii; bezpieczny tylko do gotowania."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Ryby o wysokiej zawartości rtęci. Rekin, miecznik i marlin mogą szkodzić rozwojowi układu nerwowego."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Surowe lub niedogotowane jaja, mięso, ryby. Ryzyko salmonelli i innych infekcji."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Soki i słodkie napoje. Przeciąża trzustkę, wywołuje biegunkę i uszkadza szkliwo zębów."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Od 1 do 3 lat"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Ogranicz sól, cukier i tłuste potrawy. Szkodzić zębom i nerkom; unikaj kiełbasek, fast foodów, sosów ze sklepu, słodkich jogurtów i słodkich napojów."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Soki, napoje gazowane, nektary. Bardzo wysoka zawartość cukru – duże obciążenie dla wątroby i zębów."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Popcorn, całe winogrona, paluszki surowej marchwi. Poważne ryzyko zadławienia; podawaj winogrona tylko przekrojone wzdłuż."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Napoje ryżowe. Może zawierać podwyższoną zawartość arsenu."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Słone, wędzone lub peklowane produkty mięsne. Wysoka zawartość soli i azotynów (kiełbasy, szynka, hot dogi)."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Od 3 do 5 lat"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Całe orzechy i nasiona. Może nadal blokować drogi oddechowe w wieku 4–5 lat; oferuj mielone orzechy lub niesłodzone masła orzechowe."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Popcorn, twarde cukierki, karmel. Bardzo wysokie ryzyko zadławienia."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Pokarmy bogate w cukier, sól i tłuszcze. Prowadź otyłość, cukrzycę i próchnicę; przykłady obejmują chipsy, przekąski, pączki, słodkie ciasteczka, fast foody."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Napoje gazowane i energetyczne. Dużo cukru i kofeiny, które szkodzą zębom i układowi nerwowemu."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Twarde lub okrągłe pokarmy. Może blokować drogi oddechowe: całe pomidory koktajlowe, całe winogrona, jędrne, surowe warzywa."
+          }
+        },
+        {
+          "type": "divider"
+        }
+      ],
+      "sources": [
+        {
+          "title": "WHO — Complementary Feeding",
+          "url": "https://www.who.int/health-topics/complementary-feeding"
+        },
+        {
+          "title": "NHS — Foods to Avoid Giving Babies and Young Children",
+          "url": "https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/"
+        },
+        {
+          "title": "UNICEF / Start4Life — Introducing Solid Foods",
+          "url": "https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2008/02/Start4Life-Introducing-Solid-Foods-2015.pdf"
+        },
+        {
+          "title": "UK GOV — Feeding Young Children (1–5 years)",
+          "url": "https://www.gov.uk/government/publications/sacn-report-feeding-young-children-aged-1-to-5-years"
+        },
+        {
+          "title": "Healthy Eating Research — Infant & Toddler Feeding Guidelines",
+          "url": "https://healthyeatingresearch.org/tips-for-families/ages-0-2-feeding-recommendations/"
+        },
+        {
+          "title": "Early Years Foundation Stage – Choking Hazard Table",
+          "url": "https://www.foundationyears.org.uk/files/2021/09/Early-Years-Choking-Hazards-Table_FINAL_21-Sept-2021.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Częstotliwość posiłków i wielkość porcji podczas karmienia uzupełniającego",
+      "teaser": "Oparte na dowodach zalecenia dotyczące częstotliwości karmienia, wielkości porcji i odstępów czasu zgodnie z WHO, NHS, AAP i Health Canada.",
+      "blocks": [
+        {
+          "type": "heading",
+          "data": {
+            "text": "Kiedy rozpocząć i jak często podawać jedzenie"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Międzynarodowe zalecenia konsekwentnie stwierdzają, że żywienie uzupełniające powinno rozpocząć się około szóstego miesiąca życia niemowlęcia, w którym pojawiają się oznaki choroby gotowość. Na początek wystarczy jeden mały posiłek dziennie. Głównym źródłem pożywienia pozostaje mleko matki lub mieszanka modyfikowana."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Częstotliwość posiłków w zależności od wieku"
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "6–8 miesięcy"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Zalecana częstotliwość to 2–3 posiłki dziennie. Karmienie piersią lub karmienie sztucznym mlekiem jest kontynuowane pomiędzy posiłkami. Jedzenie powinno być miękkie lub dostarczane w postaci bezpiecznych kawałków wielkości palca."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "9–11 miesięcy"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Zalecana częstotliwość to 3–4 posiłki dziennie. W razie potrzeby można dodać jedną lub dwie zdrowe przekąski. Zwiększa się różnorodność żywności."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "12 miesięcy i więcej"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Zalecane są trzy główne posiłki i dwie przekąski dziennie. Dziecko stopniowo przechodzi na posiłki rodzinne, a mleko nie jest już głównym źródłem kalorii."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Zalecana wielkość porcji"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "6–8 miesięcy: warzywa i owoce — 2–3 łyżki; płatki zbożowe — 2–4 łyżki; produkty białkowe — 1–2 łyżeczki."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "9–11 miesięcy: warzywa i owoce — od jednej czwartej do pół szklanki; płatki zbożowe — od jednej czwartej do pół szklanki; mięso lub rośliny strączkowe — 2–4 łyżki."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "12–24 miesięcy: warzywa i owoce — pół szklanki; ziarna — pół szklanki; mięso — 3–4 łyżki; nabiał — pół szklanki jogurtu lub 20–30 g sera."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Przerwy między posiłkami"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Optymalne odstępy to około dwie i pół do trzech i pół godziny. Wspomaga to zdrową regulację apetytu i zapobiega przejadaniu się."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Jak rozpoznać sytość i głód"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Oznaki sytości obejmują odwrócenie głowy, zamknięcie ust i zmniejszone zainteresowanie. Oznaki głodu obejmują sięganie po jedzenie, otwieranie ust i okazywanie ciągłego zainteresowania."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Płyny podczas karmienia uzupełniającego"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Po sześciu miesiącach do posiłków można podawać niewielkie ilości wody. Woda nie zastępuje mleka ani mleka modyfikowanego."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Kiedy skonsultować się z lekarzem"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Konsultację zaleca się, jeśli dziecko słabo przybiera na wadze, odrzuca pokarmy stałe, wykazuje powtarzające się reakcje na pokarmy lub ma przewlekłe schorzenia."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Podsumowanie"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Żywienie uzupełniające należy rozpocząć po sześciu miesiącach stopniowo zwiększając częstotliwość posiłków. Porcje powinny pozostać małe, a odstępy między posiłkami powinny być regularne. Podstawową zasadą jest stopniowy postęp i reagowanie na potrzeby dziecka."
+          }
+        },
+        {
+          "type": "divider"
+        }
+      ],
+      "id": "31d7da57-b214-45e4-981e-7835b5d2e530",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/pryiomy-yizhi.webp",
+        "caption": "Harmonogram posiłków i wielkość porcji w żywieniu uzupełniającym"
+      },
+      "sources": [
+        {
+          "title": "WHO – Complementary Feeding",
+          "url": "https://www.who.int/health-topics/complementary-feeding"
+        },
+        {
+          "title": "WHO – Guiding Principles for Complementary Feeding",
+          "url": "https://www.who.int/publications/i/item/9241593431"
+        },
+        {
+          "title": "NHS – Your baby’s first solid foods",
+          "url": "https://www.nhs.uk/conditions/baby/weaning-and-feeding/"
+        },
+        {
+          "title": "American Academy of Pediatrics – Starting Solid Foods",
+          "url": "https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Starting-Solid-Foods.aspx"
+        },
+        {
+          "title": "Health Canada – Infant Feeding",
+          "url": "https://www.canada.ca/en/health-canada/services/infant-care/infant-feeding.html"
+        }
+      ]
+    }
+  ]
+}
