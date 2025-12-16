@@ -1,0 +1,1973 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2025-05-29T00:00:00Z",
+  "language": "pt-pt",
+  "articles": [
+    {
+      "id": "b6dd27cc-8a79-4d12-a609-6bc0afd4f1b9",
+      "title": "Como usar o aplicativo “Alimentação Bebé”",
+      "teaser": "Visite as seções principais do aplicativo Alimentação Bebé Tracker e mantenha as notas de desmame conduzidas pelo bebê em ordem.",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/app.webp",
+        "caption": "Interface do aplicativo Alimentação Bebé"
+      },
+      "blocks": [
+        {
+          "type": "heading",
+          "data": {
+            "text": "Aviso médico importante"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "O aplicativo Alimentação Bebé não substitui o aconselhamento médico profissional."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Sempre consulte seu pediatra ou alergista antes de adicionar novos alimentos, alterar o horário de alimentação ou responder aos sintomas."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Sobre o aplicativo"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Alimentação Bebé Tracker ajuda você a monitorar o progresso da alimentação complementar e mantenha todas as anotações organizadas."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Acompanhe quais alimentos seu bebê já experimentou."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Registre reações, notas e comentários."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Crie pratos personalizados."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Planeje refeições para um dia ou uma semana inteira."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Seções principais"
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "📊 Estatísticas"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Fornece um instantâneo de refeições recentes, reações e alimentos recém-introduzidos para que você possa acompanhar o progresso."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "🥣 Produtos"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Navegue por alimentos apropriados para a idade, marque os itens que você introduziu e adicione observações."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "O rótulo ⚠️ marca os alérgenos regulamentados enquanto ❗ destaca possíveis sensibilidades."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "🍽️ Menu"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Planeje o café da manhã, almoço, jantar ou lanches adicionando pratos e notas rápidas."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "O menu está dividido em três seções:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "1. Hoje."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "2. Refeições planejadas."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "3. Histórico."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "🧾 Alimentos personalizados"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Adicione seus próprios alimentos ou receitas, incluindo detalhes e notas de preparação."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Edite ou exclua-os sempre que necessário."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "⚙️ Configurações"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Ative ou desative a sincronização do iCloud a qualquer momento."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Use o botão “Sincronizar agora” para atualizações manuais e limpe o cache ou dicas quando necessário."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Sincronização"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Todas as informações são armazenadas em seu banco de dados privado do iCloud e visíveis apenas para você."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Os dispositivos permanecem ativos atualizado automaticamente."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Se o armazenamento do iCloud estiver cheio, libere espaço ou atualize seu plano."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Privacidade"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Nenhum dado é compartilhado com terceiros e os desenvolvedores não podem acessar seus registros."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Tudo permanece seguro dentro do seu ID Apple."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Suporte"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Para dúvidas técnicas ou ideias, abra Configurações → Feedback."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Você também pode enviar um e-mail para o suporte com o modelo do seu dispositivo, versão do iOS e descrição do problema."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Lembre-se: o aplicativo é um companheiro prático, mas nunca substitui a consulta médica profissional."
+          }
+        }
+      ]
+    },
+    {
+      "id": "3f91c5db-5f06-4e36-9d2c-2b9188cbf65c",
+      "title": "Quando iniciar a alimentação complementar: sinais de que seu bebê está pronto",
+      "teaser": "Como determinar se seu bebê está pronto para os primeiros sólidos e escolher o momento perfeito.",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/1.webp",
+        "caption": "Primeiras colheres de alimentos complementares para um bebê curioso"
+      },
+      "blocks": [
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "A introdução de alimentos complementares é um marco importante no desenvolvimento do seu bebê quando ele passa do leite materno exclusivo ou fórmula para novos alimentos. A escolha do momento certo para começar afeta não apenas o apetite, mas também o desenvolvimento do sistema digestivo, os hábitos alimentares e até as atitudes futuras em relação à alimentação."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "A melhor idade para iniciar a alimentação complementar"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Segundo a Organização Mundial da Saúde (OMS) e os pediatras da maioria dos países, os sólidos devem ser introduzidos por volta dos 6 meses. Até então, o leite materno ou a fórmula cobrem totalmente as necessidades nutricionais do seu bebê."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Alguns bebês podem estar prontos um pouco mais cedo – aos 5 meses – enquanto outros apenas perto dos 7 meses. O principal é não ter pressa e focar não apenas na idade, mas também nos sinais de prontidão."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Sinais de prontidão a serem observados"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Cada criança se desenvolve em seu próprio ritmo, por isso é importante observar seu comportamento. Abaixo estão os principais sinais que mostram que é hora de introduzir novos sabores."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "1. Seu bebê mantém a cabeça firme "
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": " Seu bebê deve ser capaz de manter a cabeça ereta e sentar-se com o mínimo de apoio. Isto é fundamental para a segurança, para que não haja risco de asfixia durante as refeições."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "2. Demonstra interesse nas refeições em família"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Se o seu bebê observa você comer com fascinação, pega a colher ou tenta pegar um pedaço, é sinal de que ele está curioso sobre novos alimentos."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "3. O reflexo de impulso da língua desapareceu"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Os recém-nascidos têm um reflexo natural de impulso da língua que expele automaticamente qualquer coisa mais espessa que o leite. Assim que esse reflexo desaparecer, seu bebê poderá lidar com texturas de purê."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "4. Maior apetite e leite não são suficientes"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Se o seu bebê pede para mamar com mais frequência, mas ainda parece insatisfeito depois, isso pode significar que seu corpo precisa de mais nutrientes."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "5. O peso dobrou desde o nascimento"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Dobrar o peso ao nascer é outro marcador de prontidão. Isso mostra que seu bebê está crescendo ativamente e precisa de energia extra."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "6. Sem sinais de doença"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Comece com alimentos sólidos apenas quando seu bebê estiver saudável, sem resfriados, problemas de barriga ou desconforto na dentição que possa causar uma recusa temporária de novos alimentos."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Quando adiar a alimentação complementar"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Não introduza novos alimentos se seu bebê estiver doente ou tiver acabado de receber vacinas."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Evite começar durante ondas de calor devido ao risco de desidratação."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Adie a introdução se notar grande estresse ou mudanças de rotina, como mudar de casa ou um novo cuidador."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Espere se o seu bebê ainda não consegue manter a cabeça firme ou sentar sozinho."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Como se preparar para a primeira mamada"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "1. Escolha a hora certa do dia – quando seu bebê estiver alerta, sem muita fome e de bom humor."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "2. Comece com um único alimento e observe a reação por 2–3 dias."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "3. Não force – se o seu bebê se virar ou apertar os lábios, tente novamente mais tarde."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "4. Ofereça comida com uma colher e não com mamadeira – isso ajuda seu bebê a aprender a engolir corretamente."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "5. Faça anotações – mantenha um pequeno diário de alimentação ou use um aplicativo móvel."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Cedo ou tarde? Por que o equilíbrio é importante"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "A introdução de sólidos muito cedo, antes dos 4 meses, pode sobrecarregar o sistema digestivo e aumentar o risco de alergias e problemas de barriga."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Começar muito tarde, após os 8 meses, pode levar à deficiência de ferro, recusa de alimentos texturizados e atrasos no desenvolvimento de habilidades de mastigação."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "A melhor estratégia é focar na prontidão do seu bebê em vez de datas fixas no calendário."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Introduzir sólidos não é apenas uma questão de comida - é um novo passo em sua vida desenvolvimento do bebê. Ao notar sinais de prontidão, ofereça novos sabores aos poucos, com cuidado e curiosidade."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Lembre-se: cada colherada é uma pequena descoberta, um passo em direção à independência e a novas sensações."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "WHO complementary feeding guidance",
+          "url": "https://www.who.int/publications/i/item/9789240081864"
+        },
+        {
+          "title": "UNICEF Baby Friendly: Start4Life",
+          "url": "https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2008/02/Start4Life-Introducing-Solid-Foods-2015.pdf"
+        },
+        {
+          "title": "EFSA Journal 5780",
+          "url": "https://www.efsa.europa.eu/en/efsajournal/pub/5780"
+        },
+        {
+          "title": "NHS: From around 6 months",
+          "url": "https://www.nhs.uk/best-start-in-life/baby/weaning/what-to-feed-your-baby/from-around-6-months"
+        }
+      ]
+    },
+    {
+      "id": "f7ddca56-f196-4524-bb21-51b5a63a40f3",
+      "title": "Primeiros alimentos para alimentação complementar: o que oferecer primeiro",
+      "teaser": "Um guia sobre os vegetais e cereais que funcionam melhor para os primeiros sólidos e como introduzir novos sabores com segurança.",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/2.webp",
+        "caption": "Purês e cereais como primeiros pratos complementares"
+      },
+      "blocks": [
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Começar com alimentos sólidos é uma nova etapa na vida do seu bebê e um passo importante para os pais. Depois dos seis meses, o leite materno ou a fórmula por si só não são mais suficientes, então os bebês gradualmente precisam de alimentos extras. Mas por onde começar a manter tudo seguro e benéfico?"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Qual comida escolher primeiro"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Existem várias maneiras de começar com alimentos sólidos, e a escolha geralmente depende da saúde, do ganho de peso e do conselho do seu médico. Os pediatras geralmente recomendam purês de vegetais ou grãos com um único ingrediente para que o corpo do bebê possa se adaptar gradualmente."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Opção 1. Purê de vegetais"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Ideal para bebés que estão a ganhar peso rapidamente ou que já têm um peso superior."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Os primeiros vegetais geralmente incluem:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- abobrinha;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- couve-flor;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- brócolis;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- abóbora."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "São fáceis de digerir, raramente causam alergias e têm sabor delicado semelhante ao do leite materno. Prepare o purê sem sal nem temperos, começando com 1–2 colheres de chá por dia."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Opção 2. Cereais sem glúten"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Se o seu bebê ganhar peso lentamente ou parecer com pouca energia, comece com cereais de ingrediente único e sem laticínios:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- arroz;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- trigo sarraceno;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- milho."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Cozinhe o cereal em água ou misture com leite materno ou fórmula. A chave é sem açúcar, sal ou aditivos."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Opção 3. Purê de frutas"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "As frutas têm um sabor ótimo e os bebês se acostumam rapidamente, mas não tenha pressa. Ofereça-os depois dos legumes para que o seu pequeno não recuse refeições menos doces."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Boas primeiras opções são:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- maçã;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- pêra;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- banana (a partir dos 7 meses)."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Como introduzir os primeiros alimentos"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "1. Comece com um ingrediente. Ofereça cada novo alimento sozinho para que seja mais fácil monitorar qualquer reação."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "2. Aumente a quantidade gradualmente. Comece com 1 colher de chá e aumente lentamente até uma porção completa – 100–150 g por dia."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "3. Observe as reações. Se não houver erupção na pele, dor de barriga ou alteração nas fezes, você pode adicionar outro alimento após 3–4 dias."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "4. Cozinhe sem sal, açúcar ou especiarias. O sabor natural dos ingredientes é tudo o que o seu bebé precisa."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "5. Escolha o momento certo. Ofereça novos alimentos durante o dia - entre as mamadas da manhã e do meio-dia - quando seu bebê estiver de bom humor."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Exemplo de cardápio da primeira semana"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Dias 1–3: purê de abobrinha — 1 colher de chá → 3–4 colheres de chá."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Dias 4–6: purê de couve-flor — 1 colher de chá → 5 colheres de chá."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Dias 7–10: abobrinha + couve-flor, ou switch ao cereal de trigo sarraceno."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "A partir dos 7 meses você pode adicionar batata, cenoura, abóbora, maçã, pêra e, mais tarde, carne."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Erros comuns ao iniciar alimentos sólidos"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Começar antes que seu bebê consiga sentar ou segurar a cabeça."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Oferecer vários alimentos novos de uma vez."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Adicionar sal ou açúcar."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Pressionar o seu bebé a comer quando ele não quer."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Oferecer alimentos sólidos durante a doença ou logo após as vacinas."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Lembre-se: a alimentação complementar não é uma corrida, mas uma introdução suave a um mundo de novos sabores."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Quando chamar o médico"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Contacte o seu pediatra se notar após uma nova alimentação:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- erupção cutânea ou vermelhidão;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- diarreia ou prisão de ventre;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- cuspir frequentes;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- inquietação ou perturbações dormir;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- inchaço ou dificuldades respiratórias – pare imediatamente a nova alimentação e consulte um pediatra ou alergista."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Dicas para os pais"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- O leite materno ou a fórmula continuam a ser a principal fonte de nutrição até um ano de idade."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Crie um ambiente positivo para as refeições: sorria e mantenha a voz calma."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Deixe o seu bebé tocar na colher e tente alimentar-se sozinho - isso desperta a curiosidade e a motricidade fina."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Se algo não gostar, faça uma pausa de alguns dias e ofereça-o. novamente."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Para viagem"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Os primeiros alimentos complementares devem ser simples, seguros e naturais. Comece com vegetais ou cereais, observe atentamente o seu bebê e acrescente novos pratos passo a passo."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Acima de tudo, mantenha a calma, sem pressa e carinhosa. Cada nova colherada é o passo do seu bebê no grande mundo das refeições em família."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "NHS — Your baby’s first solid foods",
+          "url": "https://www.nhs.uk/baby/weaning-and-feeding/babys-first-solid-foods/"
+        },
+        {
+          "title": "Start4Life / UNICEF — Introducing Solid Foods",
+          "url": "https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2008/02/Start4Life-Introducing-Solid-Foods-2015.pdf"
+        },
+        {
+          "title": "ESPGHAN — Complementary Feeding Position Paper",
+          "url": "https://alimentacionysalud.unam.mx/wp-content/uploads/2020/12/Complementary-Feeding_-A-Position-Paper-by-the-European-Society-for-Paediatric-Gastroenterology-Hepatology-and-Nutrition-ESPGHAN-Committee-on-Nutrition.pdf"
+        },
+        {
+          "title": "AAP — Starting Solid Foods handout",
+          "url": "https://18andundermd.com/wp-content/uploads/2020/02/solid-food-introduction-handout.pdf"
+        },
+        {
+          "title": "Allergy UK — Weaning: Introducing Your Baby to Solids",
+          "url": "https://www.allergyuk.org/wp-content/uploads/2022/02/Weaning-%E2%80%93-Introducing-Your-Baby-to-Solids.pdf"
+        }
+      ]
+    },
+    {
+      "id": "7accabaa-306a-4267-8159-7b684cfec85d",
+      "title": "BLW (Baby-Led Weaning) ou Autoalimentação - uma maneira moderna de introduzir alimentos sólidos",
+      "teaser": "O que é a abordagem BLW, como avaliar a prontidão e como organizar a autoalimentação segura.",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/3.webp",
+        "caption": "Um bebê explorando alimentos sólidos de forma independente durante a primeira refeição"
+      },
+      "blocks": [
+        {
+          "type": "heading",
+          "data": {
+            "text": "O que é BLW"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "BLW (baby-led weaning) não é um tipo de alimento, mas uma abordagem onde o bebê assume a liderança na alimentação desde as primeiras refeições sólidas."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "A ideia foi formulada por Gill Rapley - uma enfermeira britânica, consultora de lactação e pesquisadora."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "O BLW se espalhou pelo mundo graças ao seu conceito simples, mas revolucionário:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "“A criança lidera sua própria alimentação e os adultos fornecem uma alimentação segura e natural ambiente.”"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Benefícios da autoalimentação"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- incentiva hábitos alimentares saudáveis desde a infância;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- desenvolve coordenação e habilidades motoras finas;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- estimula o desenvolvimento sensorial através do tato, paladar e olfato;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- reduz o risco de comer demais e de comer exigente mais tarde;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- fortalece o vínculo emocional entre a criança e os pais durante as refeições."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Quando começar o BLW"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "A autoalimentação é adequada para bebês por volta dos 6 meses de idade quando eles:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- podem sentar-se de forma independente ou com apoio mínimo;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- manter a cabeça firme;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- podem pegar comida com as mãos e levá-la à boca."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Antes de começar, certifique-se de que seu bebê esteja fisicamente preparado - seu sistema digestivo, habilidades de mastigação e estabilidade postural devem estar suficientemente desenvolvidos."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "A Organização Mundial da Saúde também recomenda a introdução de sólidos após os 6 meses, enquanto continua a amamentar."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Regras básicas do BLW"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "1. Segurança em primeiro lugar. Seu bebê deve sentar-se ereto para coordenar a deglutição e a respiração."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "2. Não alimente com colher. Deixe seu bebê decidir o que, quando e quanto comer."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "3. Nunca deixe seu bebê sozinho enquanto come."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "4. Evite sal, açúcar, mel e especiarias."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "5. Ofereça alimentos macios em formatos e tamanhos seguros."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "6. Sirva a água em copo ou copo aberto e não em copinho com canudinho."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "7. Nada de gadgets ou TV durante as refeições."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "8. O leite materno ou a fórmula continuam a ser o alimento principal até um ano."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Como organizar a hora das refeições"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- sentar o bebé numa cadeira alta confortável com apoio para os pés;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- escolher loiça simples e sem padrões para reduzir as distrações;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- usar uma ventosa ou tapete de silicone;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- colocar um tapete ou pano por baixo da cadeira – a confusão é inevitável no início;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- preparar um babete de silicone com bolso;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- servir os alimentos em tiras compridas ou palitos grosseiramente tamanho de um dedo adulto."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Maneiras seguras de servir a comida"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Verifique a textura: se a comida espremer facilmente entre os dedos, é segura."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Comece com vegetais e frutas macias - brócolis, couve-flor, cenoura, abobrinha, abacate, banana, maçã cozida no vapor."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Adicione gradualmente outros alimentos, como cereais, carne, legumes e ovos."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "O segredo é ir devagar e introduzir novos ingredientes gradualmente enquanto observa as reações do seu bebê."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Risco de asfixia e reflexos naturais"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Os pais muitas vezes se preocupam com a asfixia, mas estudos mostram que o risco com o BLW não é maior do que com a alimentação tradicional com colher."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Os bebês têm um forte reflexo de vômito, um mecanismo natural de segurança que evita que os pedaços desçam muito pela garganta."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Importante:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- não coloque as mãos ou uma colher na boca do bebê;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- não dê tapinhas nas costas dele;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- deixe-o calmamente tossir;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- intervir apenas se o bebê não estiver respirando, não fizer barulho e ficar azul."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "O que oferecer primeiro"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Para as primeiras tentativas escolha alimentos macios que possam ser amassados com a gengiva:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- legumes cozidos (cenoura, abóbora, batata, brócolis);"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- frutas (banana, pêra, abacate);"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- carnes macias ou almôndegas;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- mingaus grossos em tiras;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- torradas, macarrão, ovo, peixe - introduzido gradualmente de acordo com a idade."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Combinar com uma colher"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "O BLW não proíbe colheres se o bebê as segurar de forma independente."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Utensílios pré-colher com pequenas cristas funcionam melhor."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Certifique-se de que os purês sejam grossos, não escorrendo, para que o bebê possa manter o controle."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Quando o BLW não é adequado"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Evite esta abordagem para bebês com:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- disfagia (dificuldades para engolir);"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- hipotonia ou atrasos no desenvolvimento;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- problemas estruturais da boca;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- baixo peso, anemia ou prematuridade (sem aprovação pediátrica)."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Experiência e recomendações globais"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- A OMS enfatiza o início de alimentos complementares aos 6 meses e a continuação da amamentação até os 2 anos ou mais."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- A Academia Americana de Pediatria considera o BLW seguro se adultos supervisione e escolha texturas apropriadas."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- O Serviço Nacional de Saúde do Reino Unido observa que a autoalimentação ajuda os bebês a reconhecer a fome e a saciedade e a desenvolver independência."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Revisões sistemáticas no BMJ Open e no International Journal of Pediatrics mostram que as dietas BLW fornecem nutrição semelhante, mas é crucial monitorar a ingestão de ferro e evitar pedaços duros."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "O BLW é uma maneira natural, consciente e respeitosa de apoiar o desenvolvimento do seu filho."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Ele promove a independência e constrói um relacionamento saudável com comida e cria uma atmosfera positiva na hora das refeições."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Os pais devem ficar próximos, apoiar e confiar em seu filho."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "O objetivo final dos sólidos não é apenas alimentar, mas ensinar uma criança a comer com alegria, confiança e segurança ❤️."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "WHO – Complementary Feeding",
+          "url": "https://www.who.int/health-topics/complementary-feeding"
+        },
+        {
+          "title": "WHO – Continued Breastfeeding",
+          "url": "https://www.who.int/tools/elena/bbc/continued-breastfeeding"
+        },
+        {
+          "title": "NHS – Baby’s First Solid Foods",
+          "url": "https://www.nhs.uk/baby/weaning-and-feeding/babys-first-solid-foods/"
+        },
+        {
+          "title": "NHS – Weaning & Readiness Signs",
+          "url": "https://bedslutonchildrenshealth.nhs.uk/feeding-and-eating/weaning-and-introducing-solid-foods/"
+        },
+        {
+          "title": "UNICEF / Start4Life – Introducing Solid Foods",
+          "url": "https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2008/02/Start4Life-Introducing-Solid-Foods-2015.pdf"
+        },
+        {
+          "title": "AAP – Baby-Led Weaning: Is It Safe?",
+          "url": "https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/baby-led-weaning-is-it-safe.aspx"
+        }
+      ]
+    },
+    {
+      "id": "08e35bc2-a02f-4d59-bb5f-c4698ceef69e",
+      "title": "Introdução de alérgenos durante o desmame do bebê",
+      "teaser": "Por que a exposição oportuna e bem monitorada aos alérgenos reduz o risco de alergias alimentares mais tarde na vida.",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/allergy.webp",
+        "caption": "Os pais oferecem um alimento alergênico com segurança durante o bebê desmame."
+      },
+      "blocks": [
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "As alergias alimentares estão entre as preocupações mais comuns na primeira infância."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Os pais já foram aconselhados a adiar os alimentos alergénicos, mas as evidências atuais mostram o contrário: oferecer pequenas porções controladas desde o início treina o sistema imunitário para tolerar novos ingredientes."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "A abordagem moderna"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Organizações líderes como OMS, ESPGHAN e a Academia Americana de Pediatria sugerem a introdução de alimentos alergênicos por volta dos seis meses, quando o bebê está pronto para o desenvolvimento de alimentos sólidos."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "“A exposição gradual em pequenas quantidades aumenta a tolerância imunológica”, enfatizam os alergistas pediátricos. Escolha sempre um momento em que seu bebê esteja saudável e livre de erupções cutâneas ou resfriados."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Introduza apenas um ingrediente novo de cada vez e faça-o no início do dia para observar como o seu bebê reage."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Principais alérgenos alimentares"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "A União Europeia reconhece 14 alérgenos principais: glúten, amendoim, nozes, aipo, mostarda, leite, ovos, gergelim, peixe, crustáceos, moluscos, soja, sulfitos e tremoço."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Para os bebês, os mais relevantes são ovos, peixe, leite, trigo, soja, amendoim, aipo, nozes variadas e gergelim."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Quando e como começar"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Comece a exposição aos alérgenos assim que seu bebê manusear confortavelmente vegetais, cereais e carnes."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Comece com micro porções – apenas uma migalha ou um quarto de colher de chá."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Aumente gradualmente se não surgirem reações e mantenha um registo de alimentação com datas e quantidades."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Oferecer novamente o mesmo alergénio durante a semana para reforçar a tolerância."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Lista de verificação de introdução segura de alérgenos"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "1. Adicione apenas um alimento novo por vez para identificar qualquer reação."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "2. Apresente primeiro a menor porção e sirva durante o dia."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "3. Deixe uma janela de três dias antes de experimentar um novo alimento diferente."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "4. Se o alimento for bem tolerado, repita-o uma a duas vezes por semana para manter a tolerância."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Possíveis sinais de alergia"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Fique atento a vermelhidão ao redor da boca, urticária, inchaço dos lábios ou pálpebras, tosse, espirros, dificuldades respiratórias, vômitos, diarréia ou irritabilidade repentina."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Procure atendimento médico urgente se notar dificuldade para respirar, inchaço facial ou qualquer sinal de anafilaxia."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Se seu filho já reagiu"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Não reintroduza o alérgeno sem orientação do seu pediatra ou alergista. Eles podem aconselhar sobre desafios supervisionados e o momento certo."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Muitas crianças superam alergias específicas, mas isso deve acontecer gradualmente e sob supervisão especializada."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Principais conclusões"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Os alérgenos não são o inimigo quando introduzidos com atenção. A exposição consistente e monitorada incentiva hábitos alimentares saudáveis ​​e reduz a probabilidade de futuras alergias."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "HealthyChildren.org",
+          "url": "https://www.healthychildren.org/English/healthy-living/nutrition/Pages/when-to-introduce-egg-peanut-butter-and-other-common-food-allergens-to-your-baby-food-allergy-prevention-tips.aspx"
+        },
+        {
+          "title": "AAP Pediatrics",
+          "url": "https://publications.aap.org/pediatrics/article/152/5/e2023062836/194356/Updates-in-Food-Allergy-Prevention-in-Children"
+        },
+        {
+          "title": "EFSA: Food allergens",
+          "url": "https://www.efsa.europa.eu/en/safe2eat/food-allergens"
+        }
+      ]
+    },
+    {
+      "id": "b2eba6f0-4c4c-4a57-8bb0-bda297d91c19",
+      "title": "Alimentos proibidos para crianças: até 1 ano, até 3 anos, até 5 anos",
+      "teaser": "Um guia prático para pais sobre alimentos que não são seguros em diferentes idades e as razões para evitá-los.",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/zaboroneni-produkty.webp",
+        "caption": "Alimentos proibidos para crianças em diferentes idades"
+      },
+      "blocks": [
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "As crianças pequenas precisam de refeições seguras e adequadas à idade. Certos alimentos apresentam risco de asfixia, contêm toxinas ou sobrecarregam órgãos imaturos, por isso é importante saber o que evitar."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Até 1 ano"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Querida. Pode conter esporos de botulismo e é perigoso mesmo em pequenas quantidades."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Sal e alimentos salgados. Os rins dos bebês não conseguem lidar com o excesso de sódio; evite queijos salgados, embutidos, enlatados e molhos."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Açúcar e doces. Aumenta o risco de cáries e obesidade e cria preferências de sabor pouco saudáveis."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Nozes e sementes inteiras. Risco de asfixia extremamente elevado."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Leite de vaca como bebida principal. Muita proteína e sódio, baixo teor de ferro → risco de anemia; seguro apenas para cozinhar."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Peixe com alto teor de mercúrio. Tubarão, peixe-espada e espadim podem prejudicar o desenvolvimento do sistema nervoso."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Ovos, carne e peixe crus ou mal cozidos. Risco de salmonela e outras infecções."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Sucos e bebidas doces. Sobrecarregar o pâncreas, provocar diarreia e danificar o esmalte dos dentes."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "De 1 a 3 anos"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Limitar sal, açúcar e alimentos gordurosos. Prejudicar dentes e rins; evite salsichas, fast food, molhos comprados em lojas, iogurtes doces e bebidas açucaradas."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Sucos, refrigerantes, néctares. Muito rico em açúcar – carga pesada para o fígado e os dentes."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Pipoca, uvas inteiras, palitos de cenoura crua. Principais riscos de asfixia; sirva as uvas apenas cortadas longitudinalmente."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Bebidas de arroz. Pode conter níveis elevados de arsênico."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Produtos cárneos salgados, defumados ou curados. Rico em sal e nitritos (salsichas, presunto, cachorro-quente)."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "De 3 a 5 anos"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Nozes e sementes inteiras. Ainda pode bloquear as vias aéreas aos 4–5 anos; ofereça amendoins ou manteigas de nozes sem açúcar."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Pipoca, balas duras, caramelo. Risco de asfixia muito elevado."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Alimentos ricos em açúcar, sal e gorduras. Impulsionar obesidade, diabetes e cáries; exemplos incluem batatas fritas, salgadinhos, donuts, biscoitos doces e fast food."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Refrigerantes e bebidas energéticas. Muito açúcar e cafeína que prejudicam os dentes e o sistema nervoso."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Alimentos duros ou redondos. Podem bloquear as vias respiratórias: tomates cereja inteiros, uvas inteiras, vegetais crus firmes."
+          }
+        },
+        {
+          "type": "divider"
+        }
+      ],
+      "sources": [
+        {
+          "title": "WHO — Complementary Feeding",
+          "url": "https://www.who.int/health-topics/complementary-feeding"
+        },
+        {
+          "title": "NHS — Foods to Avoid Giving Babies and Young Children",
+          "url": "https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/"
+        },
+        {
+          "title": "UNICEF / Start4Life — Introducing Solid Foods",
+          "url": "https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2008/02/Start4Life-Introducing-Solid-Foods-2015.pdf"
+        },
+        {
+          "title": "UK GOV — Feeding Young Children (1–5 years)",
+          "url": "https://www.gov.uk/government/publications/sacn-report-feeding-young-children-aged-1-to-5-years"
+        },
+        {
+          "title": "Healthy Eating Research — Infant & Toddler Feeding Guidelines",
+          "url": "https://healthyeatingresearch.org/tips-for-families/ages-0-2-feeding-recommendations/"
+        },
+        {
+          "title": "Early Years Foundation Stage – Choking Hazard Table",
+          "url": "https://www.foundationyears.org.uk/files/2021/09/Early-Years-Choking-Hazards-Table_FINAL_21-Sept-2021.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Frequência das refeições e tamanho das porções durante a alimentação complementar",
+      "teaser": "Recomendações baseadas em evidências sobre frequência de alimentação, tamanho das porções e intervalos de acordo com a OMS, NHS, AAP e Health Canada.",
+      "blocks": [
+        {
+          "type": "heading",
+          "data": {
+            "text": "Quando começar e com que frequência oferecer alimentos"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "As recomendações internacionais afirmam consistentemente que a alimentação complementar deve começar por volta dos seis meses, quando a criança mostra sinais de prontidão. No início, uma pequena refeição por dia é suficiente. O leite materno ou a fórmula continuam a ser a principal fonte de nutrição."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Frequência das refeições por idade"
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "6–8 meses"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "A frequência recomendada é de 2 a 3 refeições por dia. A amamentação ou alimentação com fórmula continua entre as refeições. Os alimentos devem ser macios ou fornecidos em pedaços seguros do tamanho de um dedo."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "9–11 meses"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "A frequência recomendada é de 3 a 4 refeições por dia. Um ou dois lanches saudáveis ​​podem ser adicionados, se necessário. A variedade de alimentos aumenta."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "12 meses ou mais"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "São recomendadas três refeições principais e dois lanches por dia. A criança gradualmente faz a transição para os alimentos da família e o leite não é mais a principal fonte de calorias."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Porções recomendadas"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "6–8 meses: vegetais e frutas — 2–3 colheres de sopa; cereais — 2–4 colheres de sopa; alimentos proteicos — 1–2 colheres de chá."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "9–11 meses: vegetais e frutas — um quarto a meia xícara; cereais — um quarto a meia xícara; carne ou legumes — 2–4 colheres de sopa."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "12–24 meses: vegetais e frutas — meia xícara; grãos – meia xícara; carne — 3–4 colheres de sopa; laticínios — meia xícara de iogurte ou 20–30 g de queijo."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Intervalos entre as refeições"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Os intervalos ideais são de aproximadamente duas horas e meia a três horas e meia. Isso apoia a regulação saudável do apetite e evita comer demais."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Como reconhecer a saciedade e a fome"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Os sinais de saciedade incluem virar a cabeça, fechar a boca e reduzir o interesse. Os sinais de fome incluem procurar comida, abrir a boca e demonstrar interesse contínuo."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Líquidos durante a alimentação complementar"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Após os seis meses, pequenas quantidades de água podem ser oferecidas nas refeições. Água não substitui leite ou fórmula."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Quando consultar o médico"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "A consulta é recomendada caso a criança ganhe pouco peso, rejeite alimentos sólidos, apresente reações repetidas aos alimentos ou tenha problemas crônicos de saúde."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Resumo"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "A alimentação complementar deve ser iniciada a partir dos seis meses com aumento gradual na frequência das refeições. As porções devem permanecer pequenas e os intervalos regulares. O princípio fundamental é a progressão gradual e a capacidade de resposta às necessidades da criança."
+          }
+        },
+        {
+          "type": "divider"
+        }
+      ],
+      "id": "31d7da57-b214-45e4-981e-7835b5d2e530",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/pryiomy-yizhi.webp",
+        "caption": "Horário das refeições e tamanho das porções para alimentação complementar"
+      },
+      "sources": [
+        {
+          "title": "WHO – Complementary Feeding",
+          "url": "https://www.who.int/health-topics/complementary-feeding"
+        },
+        {
+          "title": "WHO – Guiding Principles for Complementary Feeding",
+          "url": "https://www.who.int/publications/i/item/9241593431"
+        },
+        {
+          "title": "NHS – Your baby’s first solid foods",
+          "url": "https://www.nhs.uk/conditions/baby/weaning-and-feeding/"
+        },
+        {
+          "title": "American Academy of Pediatrics – Starting Solid Foods",
+          "url": "https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Starting-Solid-Foods.aspx"
+        },
+        {
+          "title": "Health Canada – Infant Feeding",
+          "url": "https://www.canada.ca/en/health-canada/services/infant-care/infant-feeding.html"
+        }
+      ]
+    }
+  ]
+}

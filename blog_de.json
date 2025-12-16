@@ -1,0 +1,1973 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2025-05-29T00:00:00Z",
+  "language": "de",
+  "articles": [
+    {
+      "id": "b6dd27cc-8a79-4d12-a609-6bc0afd4f1b9",
+      "title": "So verwenden Sie die „Baby Beikost“-App",
+      "teaser": "Besichtigen Sie die Hauptabschnitte der Baby Beikost Tracker-App und halten Sie die Notizen zur babygeführten Entwöhnung in Ordnung.",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/app.webp",
+        "caption": "Baby Beikost-App-Schnittstelle"
+      },
+      "blocks": [
+        {
+          "type": "heading",
+          "data": {
+            "text": "Wichtiger medizinischer Hinweis"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Die Baby Beikost-App ersetzt keinen professionellen medizinischen Rat."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Konsultieren Sie immer Ihren Kinderarzt oder Allergologen, bevor Sie neue Lebensmittel hinzufügen, den Fütterungsplan ändern oder auf Symptome reagieren."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Über die App"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Baby Beikost Tracker hilft Ihnen bei der Überwachung der Komplementärnahrung Führen Sie den Fütterungsfortschritt durch und halten Sie jede Notiz aufgeräumt."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Verfolgen Sie, welche Lebensmittel Ihr Baby bereits probiert hat."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Protokollieren Sie Reaktionen, Notizen und Kommentare."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Erstellen Sie benutzerdefinierte Gerichte."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Planen Sie Mahlzeiten für einen Tag oder eine ganze Woche."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Hauptabschnitte"
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "📊 Statistiken"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Gibt Ihnen eine Momentaufnahme der letzten Mahlzeiten, Reaktionen und neu eingeführten Lebensmittel, damit Sie den Fortschritt verfolgen können."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "🥣 Produkte"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Durchsuchen Sie altersgerechte Lebensmittel, markieren Sie die Artikel, die Sie haben eingeführt und Beobachtungen hinzugefügt."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Das ⚠️-Label markiert regulierte Allergene, während ❗ potenzielle Empfindlichkeiten hervorhebt."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "🍽️ Menü"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Planen Sie Frühstück, Mittagessen, Abendessen oder Snacks, indem Sie Gerichte und kurze Notizen hinzufügen."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Das Menü ist in drei Abschnitte unterteilt:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "1. Heute."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "2. Geplante Mahlzeiten."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "3. Verlauf."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "🧾 Benutzerdefinierte Lebensmittel"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Fügen Sie Ihre eigenen Lebensmittel oder Rezepte hinzu, einschließlich Zubereitungsdetails und Notizen."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Bearbeiten oder löschen Sie sie bei Bedarf."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "⚙️ Einstellungen"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Sie können die iCloud-Synchronisierung jederzeit ein- oder ausschalten."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Verwenden Sie die Schaltfläche „Jetzt synchronisieren“ für manuelle Aktualisierungen und leeren Sie bei Bedarf den Cache oder Hinweise."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Synchronisierung"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Alle Informationen werden in Ihrer privaten iCloud-Datenbank gespeichert und sind nur für Sie sichtbar."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Geräte Bleiben Sie automatisch auf dem neuesten Stand."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Wenn Ihr iCloud-Speicher voll ist, geben Sie Speicherplatz frei oder aktualisieren Sie Ihren Plan."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Datenschutz"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Es werden keine Daten an Dritte weitergegeben und Entwickler können nicht auf Ihre Datensätze zugreifen."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "In Ihrer Apple-ID bleibt alles sicher."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Support"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Für technische Fragen oder Ideen öffnen Sie Einstellungen → Feedback."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Sie können dem Support auch eine E-Mail mit Ihrem Gerätemodell, Ihrer iOS-Version und einer Problembeschreibung senden."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Denken Sie daran: Die App ist ein praktischer Begleiter, ersetzt jedoch niemals eine professionelle ärztliche Beratung."
+          }
+        }
+      ]
+    },
+    {
+      "id": "3f91c5db-5f06-4e36-9d2c-2b9188cbf65c",
+      "title": "Wann Sie mit der Beikost beginnen sollten: Anzeichen dafür, dass Ihr Baby bereit ist",
+      "teaser": "So stellen Sie fest, ob Ihr Baby für die ersten Beilagen bereit ist und wählen den perfekten Zeitpunkt.",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/1.webp",
+        "caption": "Erste Löffel Beikost für ein neugieriges Baby"
+      },
+      "blocks": [
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Die Einführung von Beikost ist ein wichtiger Meilenstein in der Entwicklung Ihres Babys, wenn es von ausschließlicher Muttermilch oder Säuglingsnahrung auf neue Lebensmittel umsteigt. Die Wahl des richtigen Zeitpunkts für den Beginn wirkt sich nicht nur auf den Appetit aus, sondern auch auf die Entwicklung des Verdauungssystems, die Essgewohnheiten und sogar auf die zukünftige Einstellung gegenüber Nahrungsmitteln."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Das beste Alter, um mit der Beikost zu beginnen"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Nach Angaben der Weltgesundheitsorganisation (WHO) und Kinderärzten in den meisten Ländern sollte die Einführung fester Nahrung nach etwa 6 Monaten erfolgen. Bis dahin deckt Muttermilch oder Säuglingsnahrung den Nährstoffbedarf Ihres Babys vollständig."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Einige Babys sind möglicherweise etwas früher – mit 5 Monaten – bereit, während andere erst mit 7 Monaten reif sind. Das Wichtigste ist, nicht zu hetzen und sich nicht nur auf das Alter, sondern auch auf die Bereitschaftssignale zu konzentrieren."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Bereitschaftszeichen, auf die man achten sollte"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Jedes Kind entwickelt sich in seinem eigenen Tempo, daher ist es wichtig, sein Verhalten zu beobachten. Nachfolgend finden Sie die wichtigsten Signale, die zeigen, dass es an der Zeit ist, neue Geschmacksrichtungen einzuführen."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "1. Ihr Baby hält seinen Kopf ruhig"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Ihr Baby sollte in der Lage sein, seinen Kopf aufrecht zu halten und mit minimaler Unterstützung zu sitzen. Dies ist aus Sicherheitsgründen von entscheidender Bedeutung, damit beim Essen keine Erstickungsgefahr besteht."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "2. Zeigt Interesse an Familienessen."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Wenn Ihr Baby Sie fasziniert beim Essen beobachtet, nach dem Löffel greift oder versucht, sich ein Stück davon zu schnappen, ist das ein Zeichen dafür, dass es neugierig auf neue Lebensmittel ist."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "3. Der Zungenstoßreflex ist verblasst"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Neugeborene haben einen natürlichen Zungenstoßreflex, der automatisch alles ausstößt, was dicker als Milch ist. Sobald dieser Reflex nachlässt, kann Ihr Baby mit pürierten Texturen umgehen."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "4. Mehr Appetit und Milch reichen nicht aus"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Wenn Ihr Baby häufiger nach Nahrung verlangt, danach aber immer noch unzufrieden zu sein scheint, kann das bedeuten, dass sein Körper mehr Nährstoffe benötigt."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "5. Das Gewicht hat sich seit der Geburt verdoppelt"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Die Verdoppelung ihres Geburtsgewichts ist ein weiterer Indikator für die Bereitschaft. Es zeigt, dass Ihr Baby aktiv wächst und zusätzliche Energie benötigt."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "6. Keine Krankheitszeichen"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Beginnen Sie mit fester Nahrung nur, wenn Ihr Baby gesund ist, ohne Erkältungen, Bauchbeschwerden oder Zahnungsbeschwerden, die zu einer vorübergehenden Verweigerung neuer Nahrung führen könnten."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Wann sollte die Beikost verschoben werden?"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Führen Sie keine neue Nahrung ein, wenn Ihr Baby krank ist oder gerade geimpft wurde."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Vermeiden Sie es, während Hitzewellen zu beginnen, da die Gefahr einer Dehydrierung besteht."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Verzögern Sie die Einführung, wenn Sie großen Stress oder Routineänderungen bemerken, wie z neue Bezugsperson."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Warten Sie, wenn Ihr Baby den Kopf immer noch nicht ruhig halten oder nicht alleine sitzen kann."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "So bereiten Sie sich auf die erste Fütterung vor"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "1. Wählen Sie die richtige Tageszeit – wenn Ihr Baby wachsam, nicht zu hungrig und gut gelaunt ist."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "2. Beginnen Sie mit einem einzigen Lebensmittel und beobachten Sie die Reaktion 2–3 Tage lang."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "3. Erzwingen Sie es nicht – wenn sich Ihr Baby abwendet oder die Lippen aufeinander presst, versuchen Sie es einfach später noch einmal."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "4. Bieten Sie Essen mit einem Löffel an, nicht aus der Flasche – so lernt Ihr Baby, richtig zu schlucken."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "5. Machen Sie sich Notizen – führen Sie ein kleines Fütterungstagebuch oder nutzen Sie eine mobile App."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Früh oder spät? Warum Ausgewogenheit wichtig ist"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Eine zu frühe Aufnahme fester Nahrung, vor dem 4. Monat, kann das Verdauungssystem überlasten und das Risiko von Allergien und Magenproblemen erhöhen."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Ein zu später Beginn, nach dem 8. Monat, kann zu Eisenmangel, der Verweigerung strukturierter Nahrungsmittel und Verzögerungen bei der Entwicklung der Kaufähigkeiten führen."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Die beste Strategie besteht darin, sich auf die Bereitschaft Ihres Babys zu konzentrieren und nicht auf feste Termine im Kalender."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Bei der Einführung fester Nahrung geht es nicht nur um Nahrung – es ist eine Ein neuer Schritt in der Entwicklung Ihres Babys. Wenn Sie Bereitschaftssignale bemerken, bieten Sie neue Geschmacksrichtungen langsam, mit Sorgfalt und Neugier an."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Denken Sie daran: Jeder Löffel ist eine kleine Entdeckung, ein Schritt in Richtung Unabhängigkeit und neuen Empfindungen."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "WHO complementary feeding guidance",
+          "url": "https://www.who.int/publications/i/item/9789240081864"
+        },
+        {
+          "title": "UNICEF Baby Friendly: Start4Life",
+          "url": "https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2008/02/Start4Life-Introducing-Solid-Foods-2015.pdf"
+        },
+        {
+          "title": "EFSA Journal 5780",
+          "url": "https://www.efsa.europa.eu/en/efsajournal/pub/5780"
+        },
+        {
+          "title": "NHS: From around 6 months",
+          "url": "https://www.nhs.uk/best-start-in-life/baby/weaning/what-to-feed-your-baby/from-around-6-months"
+        }
+      ]
+    },
+    {
+      "id": "f7ddca56-f196-4524-bb21-51b5a63a40f3",
+      "title": "Erste Nahrungsmittel für die Beikost: Was Sie zuerst anbieten sollten",
+      "teaser": "Ein Leitfaden zu den Gemüse- und Cerealiensorten, die sich am besten für die ersten Beikostmahlzeiten eignen, und wie Sie sicher neue Geschmacksrichtungen einführen können.",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/2.webp",
+        "caption": "Pürees und Müsli als erste Ergänzungsgerichte"
+      },
+      "blocks": [
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Der Einstieg in die Beikost ist ein neuer Abschnitt im Leben Ihres Babys und ein wichtiger Schritt für Eltern. Nach sechs Monaten reicht Muttermilch oder Säuglingsnahrung allein nicht mehr aus, sodass Babys nach und nach zusätzliche Nahrung benötigen. Aber wo fangen Sie an, alles sicher und wohltuend aufzubewahren?"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Welche Nahrung sollten Sie zuerst wählen?"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Es gibt mehrere Möglichkeiten, mit fester Nahrung zu beginnen, und die Wahl hängt oft von der Gesundheit, der Gewichtszunahme und dem Rat Ihres Arztes ab. Kinderärzte empfehlen in der Regel ein zutatenfreies Gemüse- oder Getreidepüree, damit sich der Körper Ihres Babys allmählich anpassen kann."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Option 1. Gemüsepüree"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Ideal für Babys, die schnell zunehmen oder bereits ein höheres Gewicht haben."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Zu den ersten Gemüsesorten gehören normalerweise:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Zucchini;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Blumenkohl;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Brokkoli;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Kürbis."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Sie sind leicht verdaulich, verursachen selten Allergien und haben ein empfindliches Geschmack ähnlich wie Muttermilch. Bereiten Sie das Püree ohne Salz oder Gewürze zu, beginnen Sie mit 1–2 Teelöffeln pro Tag."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Option 2. Glutenfreie Cerealien"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Wenn Ihr Baby langsam an Gewicht zunimmt oder den Eindruck hat, dass es an Energie mangelt, beginnen Sie mit milchfreien Cerealien mit nur einer Zutat:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Reis;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Buchweizen;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Mais."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Kochen Sie die Cerealien in Wasser oder mischen Sie sie mit Muttermilch oder Milchnahrung. Der Schlüssel ist kein Zucker, Salz oder Zusatzstoffe."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Option 3. Fruchtpüree"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Früchte schmecken großartig und Babys gewöhnen sich schnell daran, aber beeilen Sie sich nicht. Bieten Sie sie nach dem Gemüse an, damit Ihr Kleines weniger süße Mahlzeiten nicht ablehnt."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Gute erste Optionen sind:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Apfel;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Birne;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Banane (ab 7 Monaten)."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "So stellen Sie die ersten Lebensmittel vor"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "1. Beginnen Sie mit einer Zutat. Bieten Sie jedes neue Lebensmittel einzeln an, damit Sie etwaige Reaktionen leichter verfolgen können."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "2. Erhöhen Sie die Menge schrittweise. Beginnen Sie mit 1 Teelöffel und steigern Sie sich langsam bis zur vollen Portion – 100–150 g pro Tag."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "3. Achten Sie auf Reaktionen. Wenn kein Ausschlag, keine Bauchschmerzen oder Stuhlveränderungen auftreten, können Sie nach 3–4 Tagen ein weiteres Futter hinzufügen."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "4. Ohne Salz, Zucker oder Gewürze kochen. Der natürliche Geschmack der Zutaten ist alles, was Ihr Baby braucht."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "5. Wählen Sie den richtigen Zeitpunkt. Bieten Sie tagsüber – zwischen Morgen- und Mittagsfütterung – neue Lebensmittel an, wenn Ihr Baby gute Laune hat."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Beispielmenü für die erste Woche"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Tage 1–3: Zucchinipüree – 1 TL → 3–4 TL."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Tage 4–6: Blumenkohlpüree – 1 TL → 5 TL."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Tage 7–10: Zucchini + Blumenkohl oder auf Buchweizengetreide umsteigen."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Ab dem siebten Monat können Sie Kartoffeln, Karotten, Kürbis, Äpfel, Birnen und später Fleisch hinzufügen."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Häufige Fehler bei der Aufnahme von Beikost."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Beginnen Sie, bevor Ihr Baby sitzen oder den Kopf halten kann."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Bieten Sie mehrere neue Nahrungsmittel auf einmal an."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Fügen Sie Salz oder Zucker hinzu."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Drängen Sie Ihr Baby zum Essen, wenn es nicht möchte."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Bieten Sie während einer Krankheit oder unmittelbar nach Impfungen feste Nahrung an."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Denken Sie daran: Beikost ist kein Wettlauf, sondern eine sanfte Einführung in eine Welt voller neuer Geschmacksrichtungen."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Wann sollten Sie den Arzt rufen"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Kontaktieren Sie Ihren Kinderarzt, wenn Sie nach einer neuen Nahrung Folgendes bemerken:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Ausschlag oder Rötung;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Durchfall oder Verstopfung;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- häufig Spucken;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Unruhe oder Schlafstörungen;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Schwellungen oder Atembeschwerden – hören Sie sofort mit der neuen Nahrung auf und suchen Sie einen Kinderarzt oder Allergologen auf."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Tipps für Eltern"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Muttermilch oder Säuglingsnahrung bleiben bis zum ersten Lebensjahr die Hauptnahrungsquelle."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Schaffen Sie eine positive Essensumgebung: Lächeln Sie und halten Sie Ihre Stimme ruhig."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Lassen Sie Ihr Baby den Löffel berühren und versuchen, sich selbst zu füttern – das weckt Neugier und Feinmotorik Fähigkeiten."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Wenn Ihnen etwas nicht gefällt, machen Sie ein paar Tage Pause und bieten Sie es erneut an."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Takeaway"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Erste Beikost sollte einfach, sicher und natürlich sein. Beginnen Sie mit Gemüse oder Müsli, beobachten Sie Ihr Baby genau und fügen Sie Schritt für Schritt neue Gerichte hinzu."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Bleiben Sie vor allem ruhig, ohne Eile und fürsorglich. Jeder neue Löffel ist der Schritt Ihres Babys in die große Welt der Familienmahlzeiten."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "NHS — Your baby’s first solid foods",
+          "url": "https://www.nhs.uk/baby/weaning-and-feeding/babys-first-solid-foods/"
+        },
+        {
+          "title": "Start4Life / UNICEF — Introducing Solid Foods",
+          "url": "https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2008/02/Start4Life-Introducing-Solid-Foods-2015.pdf"
+        },
+        {
+          "title": "ESPGHAN — Complementary Feeding Position Paper",
+          "url": "https://alimentacionysalud.unam.mx/wp-content/uploads/2020/12/Complementary-Feeding_-A-Position-Paper-by-the-European-Society-for-Paediatric-Gastroenterology-Hepatology-and-Nutrition-ESPGHAN-Committee-on-Nutrition.pdf"
+        },
+        {
+          "title": "AAP — Starting Solid Foods handout",
+          "url": "https://18andundermd.com/wp-content/uploads/2020/02/solid-food-introduction-handout.pdf"
+        },
+        {
+          "title": "Allergy UK — Weaning: Introducing Your Baby to Solids",
+          "url": "https://www.allergyuk.org/wp-content/uploads/2022/02/Weaning-%E2%80%93-Introducing-Your-Baby-to-Solids.pdf"
+        }
+      ]
+    },
+    {
+      "id": "7accabaa-306a-4267-8159-7b684cfec85d",
+      "title": "BLW (Baby-Led Weaning) oder Selbsternährung – eine moderne Art, feste Nahrung einzuführen",
+      "teaser": "Was der BLW-Ansatz ist, wie man die Bereitschaft beurteilt und wie man eine sichere Selbsternährung organisiert.",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/3.webp",
+        "caption": "Ein Baby erkundet während der ersten Mahlzeit selbständig feste Nahrung."
+      },
+      "blocks": [
+        {
+          "type": "heading",
+          "data": {
+            "text": "Was ist BLW?"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "BLW (baby-led weaning) ist keine Art von Nahrung, sondern ein Ansatz, bei dem das Baby von den ersten festen Mahlzeiten an die Führung beim Füttern übernimmt."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Die Idee wurde von Gill Rapley formuliert – einer britischen Krankenschwester, Stillberaterin und Forscherin."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "BLW verbreitete sich weltweit dank seines einfachen, aber revolutionären Konzepts:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "„Das Kind führt seine eigene Ernährung durch, und Erwachsene sorgen für eine sichere, natürliche Ernährung.“ Umwelt.“"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Vorteile der Selbsternährung"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- fördert gesunde Essgewohnheiten vom Säuglingsalter an;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- stärkt Koordination und Feinmotorik;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- stimuliert die sensorische Entwicklung durch Berührung, Geschmack und Geruch;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- verringert das Risiko von übermäßigem Essen und wählerischem Essen später;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- stärkt die emotionale Bindung zwischen Kind und Eltern während der Mahlzeiten."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Wann man mit BLW beginnen sollte"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Selbsternährung ist für Babys um 6 Jahre geeignet Monate alt, wenn sie:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- unabhängig oder mit minimaler Unterstützung sitzen können;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- ihren Kopf ruhig halten;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Nahrung mit den Händen greifen und zum Mund führen können."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Bevor Sie beginnen, stellen Sie sicher, dass Ihr Baby körperlich bereit ist – sein Verdauungssystem, seine Kaufähigkeiten und seine Haltungsstabilität sollten ausreichend entwickelt sein."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Die Weltgesundheitsorganisation empfiehlt außerdem, nach 6 Monaten feste Nahrung zu sich zu nehmen und gleichzeitig weiter zu stillen."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Grundregeln des BLW"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "1. Sicherheit geht vor. Ihr Baby sollte aufrecht sitzen, um Schlucken und Atmen zu koordinieren."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "2. Nicht mit dem Löffel füttern. Lassen Sie Ihr Baby entscheiden, was, wann und wie viel es isst."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "3. Lassen Sie Ihr Baby beim Essen niemals unbeaufsichtigt."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "4. Verzichten Sie auf Salz, Zucker, Honig und Gewürze."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "5. Bieten Sie weiche Lebensmittel in sicheren Formen und Größen an."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "6. Servieren Sie Wasser in einer Tasse oder einem offenen Glas, nicht in einem Trinkbecher."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "7. Keine Geräte oder Fernseher während der Mahlzeiten."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "8. Muttermilch oder Säuglingsnahrung bleiben bis zu einem Jahr die Hauptnahrung."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "So richten Sie die Essenszeit ein"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Setzen Sie Ihr Baby in einen bequemen Hochstuhl mit Fußstütze;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Wählen Sie schlichtes Geschirr ohne Muster, um Ablenkungen zu vermeiden;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Verwenden Sie eine Saugplatte oder eine Silikonmatte;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Legen Sie eine Matte oder ein Tuch unter den Stuhl – am Anfang ist Unordnung unvermeidlich;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Bereiten Sie ein Silikon-Lätzchen mit einer Tasche vor;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Servieren Sie die Lebensmittel als lange Streifen oder Stäbchen, etwa mit den Fingern eines Erwachsenen Größe."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Sichere Arten, Speisen zu servieren"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Überprüfen Sie die Konsistenz: Wenn sich die Speisen leicht zwischen Ihren Fingern zerquetschen lassen, ist sie sicher."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Beginnen Sie mit weichem Gemüse und Obst – Brokkoli, Blumenkohl, Karotten, Zucchini, Avocado, Banane, gedünsteter Apfel."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Fügen Sie nach und nach andere Nahrungsmittel wie Müsli, Fleisch, Hülsenfrüchte und Eier hinzu."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Der Schlüssel liegt darin, es langsam angehen zu lassen und nach und nach neue Zutaten einzuführen, während Sie die Reaktionen Ihres Babys beobachten."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Erstickungsrisiko und natürliche Reflexe"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Eltern haben oft Angst vor dem Ersticken, aber Studien zeigen, dass das Risiko bei BLW nicht höher ist als bei herkömmlicher Löffelfütterung."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Babys haben einen starken Würgereflex – ein natürlicher Sicherheitsmechanismus, der verhindert, dass die Stücke zu weit in den Hals gelangen."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Wichtig:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Stecken Sie Ihrem Baby weder Ihre Hände noch einen Löffel in den Mund;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Klopfen Sie ihm nicht auf die Schulter;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- ruhig Lassen Sie sie es aushusten;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- nur eingreifen, wenn das Baby nicht atmet, kein Geräusch macht und blau wird."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Was Sie zuerst anbieten sollten"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Wählen Sie für die ersten Versuche weiche Lebensmittel, die mit dem Zahnfleisch zerstampft werden können:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- gekochtes Gemüse (Karotte, Kürbis, Kartoffel, Brokkoli);"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Obst (Banane, Birne, Avocado);"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- weiches Fleisch oder Fleischbällchen;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- dicke, zu Brei geformte Lebensmittel Streifen;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Toast, Nudeln, Eier, Fisch – wird nach und nach mit zunehmendem Alter eingeführt."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Kombination mit einem Löffel"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "BLW verbietet Löffel nicht, wenn das Baby sie selbstständig hält."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Vorbereitende Utensilien zum Vorlöffeln mit kleinen Rillen funktionieren am besten."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Stellen Sie sicher, dass die Pürees dick und nicht flüssig sind, damit das Baby die Kontrolle behalten kann."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Wenn BLW nicht geeignet ist"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Vermeiden Sie diesen Ansatz bei Babys mit:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Dysphagie (Schluckschwierigkeiten);"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Hypotonie oder Entwicklungsverzögerungen;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- strukturellen Problemen im Mund;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- geringem Gewicht, Anämie oder Frühgeburt (ohne pädiatrische Genehmigung)."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Globale Erfahrungen und Empfehlungen"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Die WHO legt Wert darauf, mit Beikost im Alter von 6 Monaten zu beginnen und das Stillen bis zu 2 Jahre oder länger fortzusetzen."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Die American Academy of Pediatrics erwägt BLW sicher, wenn Erwachsene beaufsichtigt werden und geeignete Texturen auswählen."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Der britische National Health Service weist darauf hin, dass Selbsternährung Babys hilft, Hunger und Sättigung zu erkennen und ihre Unabhängigkeit zu stärken."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Systematische Untersuchungen in BMJ Open und dem International Journal of Pediatrics zeigen, dass BLW-Diäten eine ähnliche Ernährung liefern, es ist jedoch wichtig, die Eisenaufnahme zu überwachen und harte Brocken zu vermeiden."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "BLW ist eine natürliche, achtsame und respektvolle Möglichkeit, die Entwicklung Ihres Kindes zu unterstützen."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Es fördert Unabhängigkeit, baut eine gesunde Beziehung zum Essen auf und schafft eine positive Essensatmosphäre."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Eltern sollten in der Nähe ihres Kleinen bleiben, es unterstützen und ihm vertrauen."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Das ultimative Ziel von fester Nahrung ist nicht nur das Füttern, sondern dem Kind beizubringen, mit Freude, Selbstvertrauen und Sicherheit zu essen ❤️."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "WHO – Complementary Feeding",
+          "url": "https://www.who.int/health-topics/complementary-feeding"
+        },
+        {
+          "title": "WHO – Continued Breastfeeding",
+          "url": "https://www.who.int/tools/elena/bbc/continued-breastfeeding"
+        },
+        {
+          "title": "NHS – Baby’s First Solid Foods",
+          "url": "https://www.nhs.uk/baby/weaning-and-feeding/babys-first-solid-foods/"
+        },
+        {
+          "title": "NHS – Weaning & Readiness Signs",
+          "url": "https://bedslutonchildrenshealth.nhs.uk/feeding-and-eating/weaning-and-introducing-solid-foods/"
+        },
+        {
+          "title": "UNICEF / Start4Life – Introducing Solid Foods",
+          "url": "https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2008/02/Start4Life-Introducing-Solid-Foods-2015.pdf"
+        },
+        {
+          "title": "AAP – Baby-Led Weaning: Is It Safe?",
+          "url": "https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/baby-led-weaning-is-it-safe.aspx"
+        }
+      ]
+    },
+    {
+      "id": "08e35bc2-a02f-4d59-bb5f-c4698ceef69e",
+      "title": "Einführung von Allergenen während der Entwöhnung des Babys",
+      "teaser": "Warum eine rechtzeitige und gut überwachte Allergenexposition das Risiko von Nahrungsmittelallergien im späteren Leben senkt.",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/allergy.webp",
+        "caption": "Eltern, die ein allergenes Nahrungsmittel anbieten sicher während der kindlichen Entwöhnung."
+      },
+      "blocks": [
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Nahrungsmittelallergien gehören zu den häufigsten Problemen in der frühen Kindheit."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Eltern wurde einst geraten, allergene Lebensmittel hinauszuzögern, aber aktuelle Erkenntnisse zeigen das Gegenteil: Das frühzeitige Anbieten kleiner, kontrollierter Portionen trainiert das Immunsystem, neue Zutaten zu tolerieren."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Der moderne Ansatz"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Führende Organisationen wie die WHO, ESPGHAN und die American Academy of Pediatrics schlagen die Einführung allergener Lebensmittel etwa im sechsten Monat vor, wenn das Baby in seiner Entwicklung für feste Nahrung bereit ist."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "„Eine allmähliche Exposition gegenüber kleinen Mengen stärkt die Immuntoleranz“, betonen pädiatrische Allergologen. Wählen Sie immer einen Zeitpunkt, an dem Ihr Baby gesund und frei von Hautausschlägen oder Erkältungen ist."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Führen Sie jeweils nur eine neue Zutat ein und tun Sie dies früher am Tag, damit Sie beobachten können, wie Ihr Baby reagiert."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Wichtige Nahrungsmittelallergene"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Die Europäische Union erkennt 14 Hauptallergene an: Gluten, Erdnüsse, Nüsse, Sellerie, Senf, Milch, Eier, Sesam, Fisch, Krebstiere, Weichtiere, Soja, Sulfite und Lupine."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Für Säuglinge sind Eier, Fisch, Milch, Weizen, Soja, Erdnüsse, Sellerie, verschiedene Nüsse und Sesam am relevantesten."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Wann und wie beginnen?"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Beginnen Sie mit der Allergenexposition, sobald Ihr Baby problemlos mit Gemüse, Getreide und Fleisch zurechtkommt."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Beginnen Sie mit Mikroportionen – nur ein Krümel oder ein viertel Teelöffel."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Erhöhen Sie die Menge schrittweise, wenn keine Reaktionen auftreten, und führen Sie ein Fütterungsprotokoll mit Daten und Mengen."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Bieten Sie das gleiche Allergen unter der Woche noch einmal an, um die Toleranz zu stärken."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Checkliste für die sichere Einführung von Allergenen"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "1. Fügen Sie jeweils nur ein neues Lebensmittel hinzu, damit Sie jede Reaktion genau erkennen können."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "2. Präsentieren Sie die kleinste Portion zuerst und servieren Sie sie tagsüber."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "3. Lassen Sie ein Zeitfenster von drei Tagen, bevor Sie ein anderes neues Lebensmittel probieren."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "4. Wenn das Lebensmittel gut vertragen wird, wiederholen Sie es ein- bis zweimal pro Woche, um die Verträglichkeit aufrechtzuerhalten."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Mögliche Allergiezeichen"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Achten Sie auf Rötungen im Mundbereich, Nesselsucht, Schwellung der Lippen oder Augenlider, Husten, Niesen, Atembeschwerden, Erbrechen, Durchfall oder plötzliche Reizbarkeit."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Suchen Sie dringend einen Arzt auf, wenn Sie Atembeschwerden, Gesichtsschwellungen oder Anzeichen einer Anaphylaxie bemerken."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Wenn Ihr Kind bereits reagiert hat"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Führen Sie das Allergen nicht ohne die Anleitung Ihres Kinderarztes oder eines Allergologen wieder ein. Sie können Ratschläge zu beaufsichtigten Herausforderungen und zum richtigen Zeitpunkt geben."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Viele Kinder wachsen aus bestimmten Allergien heraus, aber dies muss schrittweise und unter fachkundiger Aufsicht geschehen."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Wichtige Erkenntnisse"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Allergene sind keine Feinde, wenn sie achtsam eingeführt werden. Kontinuierliche, überwachte Exposition fördert gesunde Essgewohnheiten und verringert die Wahrscheinlichkeit zukünftiger Allergien."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "HealthyChildren.org",
+          "url": "https://www.healthychildren.org/English/healthy-living/nutrition/Pages/when-to-introduce-egg-peanut-butter-and-other-common-food-allergens-to-your-baby-food-allergy-prevention-tips.aspx"
+        },
+        {
+          "title": "AAP Pediatrics",
+          "url": "https://publications.aap.org/pediatrics/article/152/5/e2023062836/194356/Updates-in-Food-Allergy-Prevention-in-Children"
+        },
+        {
+          "title": "EFSA: Food allergens",
+          "url": "https://www.efsa.europa.eu/en/safe2eat/food-allergens"
+        }
+      ]
+    },
+    {
+      "id": "b2eba6f0-4c4c-4a57-8bb0-bda297d91c19",
+      "title": "Verbotene Lebensmittel für Kinder: bis zu 1 Jahr, bis zu 3 Jahre, bis zu 5 Jahre",
+      "teaser": "Ein praktischer Leitfaden für Eltern zu Lebensmitteln, die in verschiedenen Altersstufen unsicher sind, und die Gründe, sie zu meiden.",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/zaboroneni-produkty.webp",
+        "caption": "Verbotene Lebensmittel für Kinder in verschiedenen Altersstufen"
+      },
+      "blocks": [
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Kleine Kinder brauchen sichere, altersgerechte Mahlzeiten. Bestimmte Lebensmittel bergen Erstickungsgefahr, enthalten Giftstoffe oder überlasten unreife Organe. Daher ist es wichtig zu wissen, was Sie vermeiden sollten."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Bis zu 1 Jahr"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Honig. Kann Botulismussporen enthalten und ist bereits in geringen Mengen gefährlich."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Salz und salzige Lebensmittel. Die Nieren von Babys können überschüssiges Natrium nicht verarbeiten; Vermeiden Sie salzigen Käse, Würstchen, Konserven und Soßen."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Zucker und Süßigkeiten. Erhöhen Sie das Risiko von Karies und Fettleibigkeit und schaffen Sie ungesunde Geschmacksvorlieben."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Ganze Nüsse und Samen. Extrem hohe Erstickungsgefahr."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Kuhmilch als Hauptgetränk. Zu viel Protein und Natrium, zu wenig Eisen → Anämierisiko; Nur zum Kochen sicher."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Fisch mit hohem Quecksilbergehalt. Hai, Schwertfisch und Marlin können die Entwicklung des Nervensystems beeinträchtigen."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Rohe oder ungekochte Eier, Fleisch, Fisch. Gefahr von Salmonellen und anderen Infektionen."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Säfte und süße Getränke. Überlasten Sie die Bauchspeicheldrüse, lösen Sie Durchfall aus und schädigen Sie den Zahnschmelz."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Von 1 bis 3 Jahren"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Begrenzen Sie Salz, Zucker und fetthaltige Lebensmittel. Schädigt Zähne und Nieren; Vermeiden Sie Würste, Fast Food, im Laden gekaufte Soßen, süße Joghurts und zuckerhaltige Getränke."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Säfte, Limonaden, Nektare. Sehr hoher Zuckergehalt – schwere Belastung für Leber und Zähne."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Popcorn, ganze Weintrauben, rohe Karottenstifte. Große Erstickungsgefahr; Servieren Sie Weintrauben nur der Länge nach."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Reisgetränke. Kann einen erhöhten Arsengehalt enthalten."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Salzige, geräucherte oder gepökelte Fleischprodukte. Reich an Salz und Nitriten (Würstchen, Schinken, Hot Dogs)."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Von 3 bis 5 Jahren"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Ganze Nüsse und Samen. Kann die Atemwege auch nach 4–5 Jahren immer noch blockieren; Bieten Sie gemahlene Nüsse oder ungesüßte Nussbutter an."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Popcorn, Bonbons, Karamell. Sehr hohes Erstickungsrisiko."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Lebensmittel mit hohem Zucker-, Salz- und Fettgehalt. Fördern Sie Fettleibigkeit, Diabetes und Karies; Beispiele hierfür sind Chips, Snacks, Donuts, süße Kekse, Fast Food."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Limonade und Energy-Drinks. Viel Zucker und Koffein, die den Zähnen und dem Nervensystem schaden."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Harte oder runde Lebensmittel. Kann die Atemwege blockieren: ganze Kirschtomaten, ganze Weintrauben, festes rohes Gemüse."
+          }
+        },
+        {
+          "type": "divider"
+        }
+      ],
+      "sources": [
+        {
+          "title": "WHO — Complementary Feeding",
+          "url": "https://www.who.int/health-topics/complementary-feeding"
+        },
+        {
+          "title": "NHS — Foods to Avoid Giving Babies and Young Children",
+          "url": "https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/"
+        },
+        {
+          "title": "UNICEF / Start4Life — Introducing Solid Foods",
+          "url": "https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2008/02/Start4Life-Introducing-Solid-Foods-2015.pdf"
+        },
+        {
+          "title": "UK GOV — Feeding Young Children (1–5 years)",
+          "url": "https://www.gov.uk/government/publications/sacn-report-feeding-young-children-aged-1-to-5-years"
+        },
+        {
+          "title": "Healthy Eating Research — Infant & Toddler Feeding Guidelines",
+          "url": "https://healthyeatingresearch.org/tips-for-families/ages-0-2-feeding-recommendations/"
+        },
+        {
+          "title": "Early Years Foundation Stage – Choking Hazard Table",
+          "url": "https://www.foundationyears.org.uk/files/2021/09/Early-Years-Choking-Hazards-Table_FINAL_21-Sept-2021.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Mahlzeitenhäufigkeit und Portionsgrößen während der Ergänzungsfütterung",
+      "teaser": "Evidenzbasierte Empfehlungen zu Fütterungshäufigkeit, Portionsgrößen und Intervallen gemäß WHO, NHS, AAP und Health Canada.",
+      "blocks": [
+        {
+          "type": "heading",
+          "data": {
+            "text": "Wann man mit der Nahrungsergänzung beginnen und wie oft man Nahrung anbieten sollte"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Internationale Empfehlungen besagen durchgängig, dass die Ergänzungsfütterung etwa im sechsten Monat beginnen sollte, wenn das Kind Anzeichen der Bereitschaft zeigt. Zu Beginn reicht eine kleine Mahlzeit pro Tag. Muttermilch oder Milchnahrung bleibt die Hauptnahrungsquelle."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Mahlzeitenhäufigkeit nach Alter"
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "6–8 Monate"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Die empfohlene Häufigkeit beträgt 2–3 Mahlzeiten pro Tag. Zwischen den Mahlzeiten wird weiterhin gestillt oder mit Säuglingsnahrung gefüttert. Das Essen sollte weich sein oder in sicheren fingergroßen Stücken vorliegen."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "9–11 Monate"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Die empfohlene Häufigkeit beträgt 3–4 Mahlzeiten pro Tag. Bei Bedarf können ein oder zwei gesunde Snacks hinzugefügt werden. Die Vielfalt der Lebensmittel nimmt zu."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "12 Monate und älter"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Empfohlen werden drei Hauptmahlzeiten und zwei Snacks pro Tag. Das Kind stellt allmählich auf Familiennahrung um und Milch ist nicht mehr die primäre Kalorienquelle."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Empfohlene Portionsgrößen"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "6–8 Monate: Gemüse und Obst – 2–3 Esslöffel; Getreide – 2–4 Esslöffel; Eiweißnahrungsmittel – 1–2 Teelöffel."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "9–11 Monate: Gemüse und Obst – eine viertel bis eine halbe Tasse; Getreide – eine viertel bis eine halbe Tasse; Fleisch oder Hülsenfrüchte – 2–4 Esslöffel."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "12–24 Monate: Gemüse und Obst – eine halbe Tasse; Körner – eine halbe Tasse; Fleisch – 3–4 Esslöffel; Milchprodukte – eine halbe Tasse Joghurt oder 20–30 g Käse."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Abstände zwischen den Mahlzeiten"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Optimale Abstände liegen bei etwa zweieinhalb bis dreieinhalb Stunden. Dies unterstützt eine gesunde Appetitregulation und beugt übermäßigem Essen vor."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "So erkennen Sie Sättigung und Hunger"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Zu den Anzeichen von Sättigung gehören das Wegdrehen des Kopfes, das Schließen des Mundes und vermindertes Interesse. Anzeichen von Hunger sind das Greifen nach Nahrung, das Öffnen des Mundes und anhaltendes Interesse."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Flüssigkeit während der Beikost"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Nach sechs Monaten können zu den Mahlzeiten kleine Mengen Wasser angeboten werden. Wasser ersetzt weder Milch noch Säuglingsnahrung."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Wann sollte ein Arzt konsultiert werden?"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Eine Konsultation wird empfohlen, wenn das Kind schlecht an Gewicht zunimmt, feste Nahrung ablehnt, wiederholt auf Nahrungsmittel reagiert oder an chronischen Gesundheitsproblemen leidet."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Zusammenfassung"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Mit der Beikost sollte nach sechs Monaten mit einer allmählichen Steigerung der Mahlzeitenhäufigkeit begonnen werden. Die Portionen sollten klein und die Abstände regelmäßig bleiben. Das Grundprinzip ist die schrittweise Weiterentwicklung und das Eingehen auf die Bedürfnisse des Kindes."
+          }
+        },
+        {
+          "type": "divider"
+        }
+      ],
+      "id": "31d7da57-b214-45e4-981e-7835b5d2e530",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/pryiomy-yizhi.webp",
+        "caption": "Mahlzeitplan und Portionsgrößen für die Ergänzungsfütterung"
+      },
+      "sources": [
+        {
+          "title": "WHO – Complementary Feeding",
+          "url": "https://www.who.int/health-topics/complementary-feeding"
+        },
+        {
+          "title": "WHO – Guiding Principles for Complementary Feeding",
+          "url": "https://www.who.int/publications/i/item/9241593431"
+        },
+        {
+          "title": "NHS – Your baby’s first solid foods",
+          "url": "https://www.nhs.uk/conditions/baby/weaning-and-feeding/"
+        },
+        {
+          "title": "American Academy of Pediatrics – Starting Solid Foods",
+          "url": "https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Starting-Solid-Foods.aspx"
+        },
+        {
+          "title": "Health Canada – Infant Feeding",
+          "url": "https://www.canada.ca/en/health-canada/services/infant-care/infant-feeding.html"
+        }
+      ]
+    }
+  ]
+}
