@@ -1,34 +1,33 @@
 {
   "schemaVersion": 1,
   "updatedAt": "2025-05-29T00:00:00Z",
-
-  "language": "en",
+  "language": "it",
   "articles": [
     {
       "id": "b6dd27cc-8a79-4d12-a609-6bc0afd4f1b9",
-      "title": "How to Use the “My Feeding” App",
-      "teaser": "Tour the main sections of the My Feeding Tracker app and keep baby-led weaning notes in order.",
+      "title": "Come utilizzare l'app \"Svezzamento\"",
+      "teaser": "Visualizza le sezioni principali dell'app Svezzamento Tracker e tieni in ordine le note sullo svezzamento guidate dal bambino.",
       "cover": {
         "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/app.webp",
-        "caption": "My Feeding app interface"
+        "caption": "Interfaccia dell'app Svezzamento"
       },
       "blocks": [
         {
           "type": "heading",
           "data": {
-            "text": "Important medical notice"
+            "text": "Avviso medico importante"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "The My Feeding app does not replace professional medical advice."
+            "text": "L'app Svezzamento non sostituisce la consulenza medica professionale."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Always consult your pediatrician or allergist before adding new foods, changing the feeding schedule, or responding to symptoms."
+            "text": "Consulta sempre il tuo pediatra o allergologo prima di aggiungere nuovi alimenti, modificare il programma di alimentazione o rispondere ai sintomi."
           }
         },
         {
@@ -37,37 +36,37 @@
         {
           "type": "heading",
           "data": {
-            "text": "About the app"
+            "text": "Informazioni sull'app"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "My Feeding Tracker helps you monitor complementary feeding progress and keep every note tidy."
+            "text": "Svezzamento Tracker ti aiuta a monitorare l'alimentazione complementare progressi e tieni ogni nota in ordine."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Track which foods your baby has already tried."
+            "text": "• Tieni traccia degli alimenti che il tuo bambino ha già provato."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Log reactions, notes, and comments."
+            "text": "• Registra reazioni, note e commenti."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Create custom dishes."
+            "text": "• Crea piatti personalizzati."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Plan meals for a day or an entire week."
+            "text": "• Pianifica i pasti per un giorno o un'intera settimana."
           }
         },
         {
@@ -76,37 +75,37 @@
         {
           "type": "heading",
           "data": {
-            "text": "Main sections"
+            "text": "Sezioni principali"
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "📊 Statistics"
+            "text": "📊 Statistiche"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Gives you a snapshot of recent meals, reactions, and newly introduced foods so you can follow progress."
+            "text": "Ti fornisce un'istantanea dei pasti recenti, delle reazioni e degli alimenti appena introdotti in modo da poter seguire i progressi."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "🥣 Products"
+            "text": "🥣 Prodotti"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Browse age-appropriate foods, mark the items you have introduced, and add observations."
+            "text": "Sfoglia gli alimenti adatti all'età, contrassegna gli alimenti che hai introdotti e aggiungi osservazioni."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "The ⚠️ label marks regulated allergens while ❗ highlights potential sensitivities."
+            "text": "L'etichetta ⚠️ segnala gli allergeni regolamentati mentre ❗ evidenzia le potenziali sensibilità."
           }
         },
         {
@@ -118,67 +117,67 @@
         {
           "type": "paragraph",
           "data": {
-            "text": "Plan breakfast, lunch, dinner, or snacks by adding dishes and quick notes."
+            "text": "Pianifica colazione, pranzo, cena o spuntini aggiungendo piatti e note rapide."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "The menu is split into three sections:"
+            "text": "Il menu è diviso in tre sezioni:"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "1. Today."
+            "text": "1. Oggi."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "2. Planned meals."
+            "text": "2. Pasti programmati."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "3. History."
+            "text": "3. Cronologia."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "🧾 Custom foods"
+            "text": "🧾 Cibi personalizzati"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Add your own foods or recipes, including preparation details and notes."
+            "text": "Aggiungi i tuoi cibi o ricette, inclusi dettagli e note sulla preparazione."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Edit or delete them whenever needed."
+            "text": "Modificali o eliminali quando necessario."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "⚙️ Settings"
+            "text": "⚙️ Impostazioni"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Toggle iCloud sync on or off at any time."
+            "text": "Attiva o disattiva la sincronizzazione iCloud in qualsiasi momento."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Use the “Sync Now” button for manual updates, and clear cache or hints when required."
+            "text": "Utilizza il pulsante \"Sincronizza ora\" per gli aggiornamenti manuali e svuota la cache o i suggerimenti quando richiesto."
           }
         },
         {
@@ -187,25 +186,25 @@
         {
           "type": "heading",
           "data": {
-            "text": "Synchronization"
+            "text": "Sincronizzazione"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "All information is stored in your private iCloud database and visible only to you."
+            "text": "Tutte le informazioni vengono archiviate nel tuo database iCloud privato e visibili solo a te."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Devices stay up to date automatically."
+            "text": "I dispositivi rimangono si aggiorna automaticamente."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "If your iCloud storage is full, free up space or upgrade your plan."
+            "text": "Se il tuo spazio di archiviazione iCloud è pieno, libera spazio o aggiorna il tuo piano."
           }
         },
         {
@@ -220,13 +219,13 @@
         {
           "type": "paragraph",
           "data": {
-            "text": "No data is shared with third parties, and developers cannot access your records."
+            "text": "Nessun dato viene condiviso con terze parti e gli sviluppatori non possono accedere ai tuoi record."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Everything stays secure inside your Apple ID."
+            "text": "Tutto rimane al sicuro nel tuo ID Apple."
           }
         },
         {
@@ -235,19 +234,19 @@
         {
           "type": "heading",
           "data": {
-            "text": "Support"
+            "text": "Supporto"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "For technical questions or ideas, open Settings → Feedback."
+            "text": "Per domande o idee tecniche, apri Impostazioni → Feedback."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "You can also email support with your device model, iOS version, and issue description."
+            "text": "Puoi anche inviare un'e-mail al supporto con il modello del tuo dispositivo, la versione iOS e la descrizione del problema."
           }
         },
         {
@@ -256,42 +255,42 @@
         {
           "type": "paragraph",
           "data": {
-            "text": "Remember: the app is a handy companion, but it never replaces professional medical consultation."
+            "text": "Ricorda: l'app è un compagno utile, ma non sostituisce mai la consulenza medica professionale."
           }
         }
       ]
     },
     {
       "id": "3f91c5db-5f06-4e36-9d2c-2b9188cbf65c",
-      "title": "When to Start Complementary Feeding: Signs Your Baby Is Ready",
-      "teaser": "How to determine if your baby is ready for the first solids and choose the perfect moment.",
+      "title": "Quando iniziare l'alimentazione complementare: segnali che il tuo bambino è pronto",
+      "teaser": "Come determinare se il tuo bambino è pronto per i primi cibi solidi e scegliere il momento perfetto.",
       "cover": {
         "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/1.webp",
-        "caption": "First spoonfuls of complementary food for a curious baby"
+        "caption": "Primi cucchiai di alimenti complementari per un bambino curioso"
       },
       "blocks": [
         {
           "type": "paragraph",
           "data": {
-            "text": "Introducing complementary foods is an important milestone in your baby's development when they move from exclusive breastmilk or formula to new foods. Choosing the right time to start affects not only appetite, but also the development of the digestive system, eating habits, and even future attitudes toward food."
+            "text": "L'introduzione di alimenti complementari è una tappa importante nello sviluppo del tuo bambino quando passa dal latte materno esclusivo o artificiale a nuovi alimenti. La scelta del momento giusto per iniziare influisce non solo sull'appetito, ma anche sullo sviluppo dell'apparato digerente, sulle abitudini alimentari e persino sul futuro atteggiamento nei confronti del cibo."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "The best age to start complementary feeding"
+            "text": "L'età migliore per iniziare l'alimentazione complementare"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "According to the World Health Organization (WHO) and pediatricians in most countries, solids should be introduced at around 6 months. Until then, breastmilk or formula fully covers your baby's nutritional needs."
+            "text": "Secondo l'Organizzazione Mondiale della Sanità (OMS) e i pediatri nella maggior parte dei paesi, i cibi solidi dovrebbero essere introdotti intorno ai 6 mesi. Fino ad allora, il latte materno o artificiale copre completamente le esigenze nutrizionali del tuo bambino."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Some babies may be ready a little earlier—at 5 months—while others only closer to 7 months. The main thing is not to rush and to focus not only on age but also on readiness cues."
+            "text": "Alcuni bambini potrebbero essere pronti un po' prima, a 5 mesi, mentre altri solo più vicino ai 7 mesi. La cosa principale è non avere fretta e concentrarsi non solo sull'età ma anche sui segnali di preparazione."
           }
         },
         {
@@ -300,85 +299,85 @@
         {
           "type": "heading",
           "data": {
-            "text": "Readiness signs to watch for"
+            "text": "Segnali di preparazione a cui prestare attenzione"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Every child develops at their own pace, so it is important to observe their behavior. Below are the key signals that show it's time to introduce new tastes."
+            "text": "Ogni bambino si sviluppa al proprio ritmo, quindi è importante osservare il suo comportamento. Di seguito sono riportati i segnali chiave che mostrano che è tempo di introdurre nuovi gusti."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "1. Your baby holds their head steady"
+            "text": "1. Il tuo bambino tiene la testa ferma"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Your baby should be able to hold their head upright and sit with minimal support. This is crucial for safety so there is no risk of choking during meals."
+            "text": "Il tuo bambino dovrebbe essere in grado di tenere la testa dritta e sedersi con il minimo supporto. Questo è fondamentale per la sicurezza, quindi non c'è rischio di soffocamento durante i pasti."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "2. Shows interest in family meals"
+            "text": "2. Mostra interesse per i pasti in famiglia"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "If your baby watches you eat with fascination, reaches for the spoon, or tries to grab a piece, it's a sign they are curious about new foods."
+            "text": "Se il tuo bambino ti guarda affascinato mentre mangi, prende il cucchiaio o cerca di afferrarne un pezzo, è segno che è curioso di nuovi cibi."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "3. The tongue-thrust reflex has faded"
+            "text": "3. Il riflesso della propulsione della lingua è svanito"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Newborns have a natural tongue-thrust reflex that automatically pushes out anything thicker than milk. Once this reflex fades, your baby can handle puréed textures."
+            "text": "I neonati hanno un riflesso naturale della propulsione della lingua che spinge fuori automaticamente tutto ciò che è più denso del latte. Una volta che questo riflesso svanisce, il tuo bambino sarà in grado di gestire le consistenze della purea."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "4. Bigger appetite and milk is not enough"
+            "text": "4. Un maggiore appetito e il latte non sono sufficienti"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "If your baby asks to feed more often but still seems unsatisfied afterward, it may mean their body needs more nutrients."
+            "text": "Se il tuo bambino chiede di allattare più spesso ma dopo sembra ancora insoddisfatto, potrebbe significare che il suo corpo ha bisogno di più nutrienti."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "5. Weight has doubled since birth"
+            "text": "5. Il peso è raddoppiato dalla nascita"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Doubling their birth weight is another readiness marker. It shows that your baby is growing actively and needs extra energy."
+            "text": "Il raddoppio del peso alla nascita è un altro indicatore di preparazione. Ciò dimostra che il tuo bambino sta crescendo attivamente e ha bisogno di energia extra."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "6. No signs of illness"
+            "text": "6. Nessun segno di malattia"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Start solids only when your baby is healthy, without colds, tummy troubles, or teething discomfort that could cause a temporary refusal of new foods."
+            "text": "Iniziare con i cibi solidi solo quando il bambino è sano, senza raffreddore, problemi di pancia o disturbi alla dentizione che potrebbero causare un rifiuto temporaneo di nuovi alimenti."
           }
         },
         {
@@ -387,31 +386,31 @@
         {
           "type": "heading",
           "data": {
-            "text": "When to postpone complementary feeding"
+            "text": "Quando rimandare l'alimentazione complementare"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Don't introduce new foods if your baby is ill or has just received vaccinations."
+            "text": "Non introdurre nuovi alimenti se il bambino è malato o ha appena ricevuto vaccinazioni."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Avoid starting during heat waves because of the risk of dehydration."
+            "text": "Evita di iniziare durante le ondate di caldo a causa del rischio di disidratazione."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Delay the introduction if you notice major stress or routine changes, such as moving house or a new caregiver."
+            "text": "Ritarda l'introduzione se noti forte stress o cambiamenti nella routine, come un trasloco o una nuova badante."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Wait if your baby still can't hold their head steady or sit on their own."
+            "text": "Aspetta se il tuo bambino non riesce ancora a tenere la testa ferma o a sedersi da solo."
           }
         },
         {
@@ -420,37 +419,37 @@
         {
           "type": "heading",
           "data": {
-            "text": "How to prepare for the first feeding"
+            "text": "Come prepararsi per la prima poppata"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "1. Pick the right time of day—when your baby is alert, not too hungry, and in a good mood."
+            "text": "1. Scegli il momento giusto della giornata: quando il tuo bambino è vigile, non troppo affamato e di buon umore."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "2. Start with a single food and observe the reaction for 2–3 days."
+            "text": "2. Inizia con un singolo alimento e osserva la reazione per 2–3 giorni."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "3. Don't force it—if your baby turns away or presses their lips together, simply try again later."
+            "text": "3. Non forzare: se il tuo bambino si gira dall'altra parte o preme le labbra insieme, riprova semplicemente più tardi."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "4. Offer food with a spoon, not from a bottle—this helps your baby learn to swallow correctly."
+            "text": "4. Offri il cibo con un cucchiaio, non dal biberon: questo aiuta il tuo bambino a imparare a deglutire correttamente."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "5. Keep notes—maintain a small feeding diary or use a mobile app."
+            "text": "5. Prendi appunti: tieni un piccolo diario di alimentazione o utilizza un'app mobile."
           }
         },
         {
@@ -459,37 +458,37 @@
         {
           "type": "heading",
           "data": {
-            "text": "Early or late? Why balance matters"
+            "text": "Presto o tardi? Perché l'equilibrio è importante"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Introducing solids too early, before 4 months, can overload the digestive system and raise the risk of allergies and tummy issues."
+            "text": "L'introduzione di cibi solidi troppo presto, prima dei 4 mesi, può sovraccaricare il sistema digestivo e aumentare il rischio di allergie e problemi di pancia."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Starting too late, after 8 months, can lead to iron deficiency, refusal of textured foods, and delays in developing chewing skills."
+            "text": "Iniziare troppo tardi, dopo 8 mesi, può portare a carenza di ferro, rifiuto di cibi strutturati e ritardi nello sviluppo delle capacità di masticazione."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "The best strategy is to focus on your baby's readiness rather than fixed dates on the calendar."
+            "text": "La strategia migliore è concentrarsi sulla preparazione del bambino piuttosto che su date fisse sul calendario."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Introducing solids isn't only about food—it's a new step in your baby's development. When you notice readiness cues, offer new tastes slowly, with care and curiosity."
+            "text": "L'introduzione di cibi solidi non riguarda solo il cibo: è un nuovo passo nella tua vita lo sviluppo del bambino. Quando noti segnali di prontezza, offri nuovi gusti lentamente, con cura e curiosità."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Remember: every spoonful is a small discovery, a step toward independence and new sensations."
+            "text": "Ricorda: ogni cucchiaio è una piccola scoperta, un passo verso l'indipendenza e nuove sensazioni."
           }
         }
       ],
@@ -514,17 +513,17 @@
     },
     {
       "id": "f7ddca56-f196-4524-bb21-51b5a63a40f3",
-      "title": "First Foods for Complementary Feeding: What to Offer First",
-      "teaser": "A guide to the vegetables and cereals that work best for the first solids and how to safely introduce new tastes.",
+      "title": "Primi alimenti per l'alimentazione complementare: cosa offrire per primo",
+      "teaser": "Una guida alle verdure e ai cereali più adatti per i primi cibi solidi e come introdurre in sicurezza nuovi gusti.",
       "cover": {
         "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/2.webp",
-        "caption": "Purées and cereals as first complementary dishes"
+        "caption": "Purea e cereali come primi piatti complementari"
       },
       "blocks": [
         {
           "type": "paragraph",
           "data": {
-            "text": "Starting solids is a new stage in your baby's life and an important step for parents. After six months, breastmilk or formula alone is no longer enough, so babies gradually need extra foods. But where do you begin to keep everything safe and beneficial?"
+            "text": "L'inizio dei cibi solidi è una nuova fase nella vita del tuo bambino e un passo importante per i genitori. Dopo i sei mesi, il solo latte materno o artificiale non è più sufficiente, quindi i bambini gradualmente necessitano di alimenti extra. Ma da dove iniziare per mantenere tutto sicuro e benefico?"
           }
         },
         {
@@ -533,43 +532,43 @@
         {
           "type": "heading",
           "data": {
-            "text": "Which food to choose first"
+            "text": "Quale alimento scegliere per primo"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "There are several ways to start solids, and the choice often depends on health, weight gain, and your doctor's advice. Pediatricians usually recommend single-ingredient vegetable or grain purées so your baby's body can adapt gradually."
+            "text": "Esistono diversi modi per iniziare con i cibi solidi e la scelta spesso dipende dalla salute, dall'aumento di peso e dal consiglio del medico. I pediatri consigliano solitamente i passati di verdura o di cereali con un solo ingrediente in modo che il corpo del bambino possa adattarsi gradualmente."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "Option 1. Vegetable purée"
+            "text": "Opzione 1. Passato di verdure"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Ideal for babies who are gaining weight quickly or already have a higher weight."
+            "text": "Ideale per i bambini che stanno ingrassando rapidamente o hanno già un peso maggiore."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "The first vegetables usually include:"
+            "text": "Le prime verdure di solito includono:"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- zucchini;"
+            "text": "- zucchine;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- cauliflower;"
+            "text": "- cavolfiore;"
           }
         },
         {
@@ -581,85 +580,85 @@
         {
           "type": "paragraph",
           "data": {
-            "text": "- pumpkin."
+            "text": "- zucca."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "They are easy to digest, rarely cause allergies, and have a delicate flavor similar to breastmilk. Prepare the purée without salt or spices, starting with 1–2 teaspoons per day."
+            "text": "Sono facili da digerire, raramente causano allergie e hanno un sapore delicato simile al latte materno. Prepara la purea senza sale né spezie, iniziando con 1-2 cucchiaini al giorno."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "Option 2. Gluten-free cereals"
+            "text": "Opzione 2. Cereali senza glutine"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "If your baby gains weight slowly or seems low on energy, start with single-ingredient, dairy-free cereals:"
+            "text": "Se il tuo bambino aumenta di peso lentamente o sembra avere poche energie, inizia con cereali monoingrediente e senza latticini:"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- rice;"
+            "text": "- riso;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- buckwheat;"
+            "text": "- grano saraceno;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- corn."
+            "text": "- mais."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Cook the cereal in water or mix it with breastmilk or formula. The key is no sugar, salt, or additives."
+            "text": "Cuoci i cereali in acqua o mescolali con latte materno o latte artificiale. La chiave è niente zucchero, sale o additivi."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "Option 3. Fruit purée"
+            "text": "Opzione 3. Purea di frutta"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Fruits taste great and babies get used to them quickly, but don't rush. Offer them after vegetables so your little one doesn't refuse less sweet meals."
+            "text": "La frutta ha un ottimo sapore e i bambini si abituano rapidamente, ma non avere fretta. Offriteli dopo le verdure, così il tuo piccolo non rifiuta i pasti meno dolci."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Good first options are:"
+            "text": "Buone prime opzioni sono:"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- apple;"
+            "text": "- mela;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- pear;"
+            "text": "- pera;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- banana (from 7 months)."
+            "text": "- banana (dai 7 mesi)."
           }
         },
         {
@@ -668,37 +667,37 @@
         {
           "type": "heading",
           "data": {
-            "text": "How to introduce the first foods"
+            "text": "Come introdurre i primi cibi"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "1. Start with one ingredient. Offer each new food on its own so it's easier to track any reaction."
+            "text": "1. Inizia con un ingrediente. Offri ogni nuovo cibo separatamente in modo che sia più facile monitorare qualsiasi reazione."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "2. Increase the amount gradually. Begin with 1 teaspoon and slowly work up to a full serving—100–150 g per day."
+            "text": "2. Aumentare gradualmente la quantità. Inizia con 1 cucchiaino e aumenta lentamente fino a raggiungere una porzione completa: 100–150 g al giorno."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "3. Watch for reactions. If there is no rash, tummy ache, or change in stool, you can add another food after 3–4 days."
+            "text": "3. Osserva le reazioni. Se non si verificano eruzioni cutanee, mal di pancia o cambiamenti nelle feci, è possibile aggiungere un altro alimento dopo 3-4 giorni."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "4. Cook without salt, sugar, or spices. The natural taste of the ingredients is all your baby needs."
+            "text": "4. Cuocere senza sale, zucchero o spezie. Il gusto naturale degli ingredienti è tutto ciò di cui il tuo bambino ha bisogno."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "5. Choose the right timing. Offer new foods in the daytime—between morning and midday feeds—when your baby is in a good mood."
+            "text": "5. Scegli il momento giusto. Offri nuovi alimenti durante il giorno, tra la poppata del mattino e quella di mezzogiorno, quando il tuo bambino è di buon umore."
           }
         },
         {
@@ -707,31 +706,31 @@
         {
           "type": "heading",
           "data": {
-            "text": "Sample first-week menu"
+            "text": "Esempio di menu della prima settimana"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- Days 1–3: zucchini purée — 1 tsp → 3–4 tsp."
+            "text": "- Giorni 1–3: purea di zucchine — 1 cucchiaino → 3–4 cucchiaino."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- Days 4–6: cauliflower purée — 1 tsp → 5 tsp."
+            "text": "- Giorni 4–6: purea di cavolfiore — 1 cucchiaino → 5 cucchiaino."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- Days 7–10: zucchini + cauliflower, or switch to buckwheat cereal."
+            "text": "- Giorni 7–10: zucchine + cavolfiore, oppure passa al grano saraceno cereali."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "From 7 months you can add potato, carrot, pumpkin, apple, pear, and later meat."
+            "text": "A partire dai 7 mesi puoi aggiungere patate, carote, zucca, mele, pere e successivamente carne."
           }
         },
         {
@@ -740,43 +739,43 @@
         {
           "type": "heading",
           "data": {
-            "text": "Common mistakes when starting solids"
+            "text": "Errori comuni quando si iniziano i cibi solidi"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- Starting before your baby can sit or hold their head."
+            "text": "- Iniziare prima che il bambino possa sedersi o tenere la testa."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- Offering several new foods at once."
+            "text": "- Offrire diversi nuovi alimenti contemporaneamente."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- Adding salt or sugar."
+            "text": "- Aggiungere sale o zucchero."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- Pressuring your baby to eat when they don't want to."
+            "text": "- Esercitare pressioni sul bambino affinché mangi quando non vuole."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- Offering solids during illness or right after vaccinations."
+            "text": "- Offrire cibi solidi durante la malattia o subito dopo le vaccinazioni."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Remember: complementary feeding is not a race but a gentle introduction to a world of new flavors."
+            "text": "Ricorda: l'alimentazione complementare non è una gara ma un'introduzione dolce a un mondo di nuovi sapori."
           }
         },
         {
@@ -785,43 +784,43 @@
         {
           "type": "heading",
           "data": {
-            "text": "When to call the doctor"
+            "text": "Quando chiamare il medico"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Contact your pediatrician if you notice after a new food:"
+            "text": "Contatta il tuo pediatra se noti dopo un nuovo cibo:"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- rash or redness;"
+            "text": "- eruzione cutanea o arrossamento;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- diarrhea or constipation;"
+            "text": "- diarrea o stitichezza;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- frequent spit-ups;"
+            "text": "- rigurgiti frequenti;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- restlessness or disrupted sleep;"
+            "text": "- irrequietezza o irrequietezza sonno interrotto;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- swelling or breathing difficulties—stop the new food immediately and see a pediatrician or allergist."
+            "text": "- gonfiore o difficoltà respiratorie: interrompi immediatamente il nuovo cibo e consulta un pediatra o un allergologo."
           }
         },
         {
@@ -830,31 +829,31 @@
         {
           "type": "heading",
           "data": {
-            "text": "Tips for parents"
+            "text": "Suggerimenti per i genitori"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- Breastmilk or formula remains the main source of nutrition up to age one."
+            "text": "- Il latte materno o artificiale rimane la principale fonte di nutrimento fino all'età di un anno."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- Create a positive mealtime setting: smile and keep your voice calm."
+            "text": "- Crea un'atmosfera positiva durante il pasto: sorridi e mantieni la voce calma."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- Let your baby touch the spoon and try feeding themselves—it sparks curiosity and fine motor skills."
+            "text": "- Lascia che il tuo bambino tocchi il cucchiaio e provi a nutrirsi da solo: stimola la curiosità e le capacità motorie."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- If something isn't liked, take a break for a few days and offer it again."
+            "text": "- Se qualcosa non gli piace, prenditi una pausa per qualche giorno e offriglielo ancora una volta."
           }
         },
         {
@@ -863,19 +862,19 @@
         {
           "type": "heading",
           "data": {
-            "text": "Takeaway"
+            "text": "Da asporto"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "First complementary foods should be simple, safe, and natural. Start with vegetables or cereals, watch your baby closely, and add new dishes step by step."
+            "text": "I primi alimenti complementari dovrebbero essere semplici, sicuri e naturali. Inizia con verdure o cereali, osserva attentamente il tuo bambino e aggiungi nuovi piatti passo dopo passo."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Above all, stay calm, unhurried, and caring. Every new spoonful is your baby's step into the big world of family meals."
+            "text": "Soprattutto, mantieni la calma, senza fretta e premuroso. Ogni nuovo cucchiaio è il passo del tuo bambino nel grande mondo dei pasti in famiglia."
           }
         }
       ],
@@ -904,41 +903,41 @@
     },
     {
       "id": "7accabaa-306a-4267-8159-7b684cfec85d",
-      "title": "BLW (Baby-Led Weaning) or Self-Feeding — a Modern Way to Introduce Solids",
-      "teaser": "What the BLW approach is, how to assess readiness, and how to organize safe self-feeding.",
+      "title": "BLW (Svezzamento guidato dal bambino) o autoalimentazione: un modo moderno di introdurre cibi solidi",
+      "teaser": "Cos'è l'approccio BLW, come valutare la preparazione e come organizzare un'autoalimentazione sicura.",
       "cover": {
         "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/3.webp",
-        "caption": "A baby exploring solid food independently during the first meal"
+        "caption": "Un bambino che esplora il cibo solido in modo indipendente durante il primo pasto"
       },
       "blocks": [
         {
           "type": "heading",
           "data": {
-            "text": "What is BLW"
+            "text": "Cos'è il BLW"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "BLW (baby-led weaning) isn't a type of food but an approach where the baby takes the lead in feeding from the very first solid meals."
+            "text": "Il BLW (baby-led weaning) non è un tipo di cibo ma un approccio in cui il bambino prende l'iniziativa nell'alimentazione fin dai primi pasti solidi."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "The idea was formulated by Gill Rapley—a British nurse, lactation consultant, and researcher."
+            "text": "L'idea è stata formulata da Gill Rapley, un'infermiera, consulente per l'allattamento e ricercatrice britannica."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "BLW spread worldwide thanks to its simple yet revolutionary concept:"
+            "text": "Il BLW si è diffuso in tutto il mondo grazie al suo concetto semplice ma rivoluzionario:"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "“The child leads their own feeding, and adults provide a safe, natural environment.”"
+            "text": "“Il bambino guida la propria alimentazione e gli adulti forniscono un'alimentazione sicura e naturale dell'ambiente.”"
           }
         },
         {
@@ -947,37 +946,37 @@
         {
           "type": "heading",
           "data": {
-            "text": "Benefits of self-feeding"
+            "text": "Vantaggi dell'autoalimentazione"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- encourages healthy eating habits from infancy;"
+            "text": "- incoraggia abitudini alimentari sane fin dall'infanzia;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- builds coordination and fine motor skills;"
+            "text": "- sviluppa la coordinazione e le capacità motorie;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- stimulates sensory development through touch, taste, and smell;"
+            "text": "- stimola lo sviluppo sensoriale attraverso il tatto, il gusto e l'olfatto;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- reduces the risk of overeating and picky eating later on;"
+            "text": "- riduce il rischio di mangiare troppo e di essere schizzinosi in seguito;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- strengthens the emotional bond between child and parents during meals."
+            "text": "- rafforza il legame emotivo tra bambino e genitori durante i pasti."
           }
         },
         {
@@ -986,43 +985,43 @@
         {
           "type": "heading",
           "data": {
-            "text": "When to start BLW"
+            "text": "Quando iniziare BLW"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Self-feeding is suitable for babies around 6 months old when they:"
+            "text": "L'autoalimentazione è adatta ai bambini intorno ai 6 mesi di età quando:"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- can sit independently or with minimal support;"
+            "text": "- possono sedersi in modo indipendente o con un supporto minimo;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- hold their head steady;"
+            "text": "- tengono la testa ferma;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- can grab food with their hands and bring it to their mouth."
+            "text": "- possono afferrare il cibo con le mani e portarlo alla bocca."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Before you start, make sure your baby is physically ready—their digestive system, chewing skills, and postural stability should be developed enough."
+            "text": "Prima di iniziare, assicurati che il tuo bambino sia fisicamente pronto: il suo sistema digestivo, le capacità di masticazione e la stabilità posturale dovrebbero essere sufficientemente sviluppati."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "The World Health Organization also recommends introducing solids after 6 months while continuing breastfeeding."
+            "text": "L'Organizzazione Mondiale della Sanità raccomanda inoltre di introdurre cibi solidi dopo 6 mesi continuando l'allattamento al seno."
           }
         },
         {
@@ -1031,55 +1030,55 @@
         {
           "type": "heading",
           "data": {
-            "text": "Core rules of BLW"
+            "text": "Regole fondamentali del BLW"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "1. Safety first. Your baby should sit upright to coordinate swallowing and breathing."
+            "text": "1. La sicurezza prima di tutto. Il tuo bambino dovrebbe stare seduto in posizione eretta per coordinare la deglutizione e la respirazione."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "2. Don't spoon-feed. Let your baby decide what, when, and how much to eat."
+            "text": "2. Non dare da mangiare con il cucchiaio. Lascia che sia il tuo bambino a decidere cosa, quando e quanto mangiare."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "3. Never leave your baby unattended while eating."
+            "text": "3. Non lasciare mai il tuo bambino incustodito mentre mangia."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "4. Skip salt, sugar, honey, and spices."
+            "text": "4. Evita sale, zucchero, miele e spezie."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "5. Offer soft foods in safe shapes and sizes."
+            "text": "5. Offri cibi morbidi in forme e dimensioni sicure."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "6. Serve water in a cup or open glass, not in a sippy cup."
+            "text": "6. Servire l'acqua in una tazza o in un bicchiere aperto, non in una tazza con beccuccio."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "7. No gadgets or TV during meals."
+            "text": "7. Niente gadget o TV durante i pasti."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "8. Breastmilk or formula remains the main food until one year."
+            "text": "8. Il latte materno o artificiale rimane l'alimento principale fino a un anno."
           }
         },
         {
@@ -1088,43 +1087,43 @@
         {
           "type": "heading",
           "data": {
-            "text": "How to set up mealtime"
+            "text": "Come organizzare la pappa"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- seat your baby in a comfortable high chair with a footrest;"
+            "text": "- far sedere il bambino su un comodo seggiolone con poggiapiedi;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- choose plain dishware without patterns to reduce distractions;"
+            "text": "- scegliere stoviglie semplici e senza schemi per ridurre le distrazioni;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- use a suction plate or silicone mat;"
+            "text": "- utilizzare una ventosa o un tappetino in silicone;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- place a mat or cloth under the chair—mess is inevitable at the start;"
+            "text": "- posizionare un tappetino o un panno sotto la sedia: il disordine è inevitabile all'inizio;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- prepare a silicone bib with a pocket;"
+            "text": "- preparare un bavaglino in silicone con una tasca;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- serve foods as long strips or sticks roughly adult-finger size."
+            "text": "- servire gli alimenti sotto forma di lunghe strisce o bastoncini grosso modo per adulti. dimensioni."
           }
         },
         {
@@ -1133,31 +1132,31 @@
         {
           "type": "heading",
           "data": {
-            "text": "Safe ways to serve food"
+            "text": "Modi sicuri per servire il cibo"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Check the texture: if the food squishes easily between your fingers, it's safe."
+            "text": "Controlla la consistenza: se il cibo si schiaccia facilmente tra le dita, è sicuro."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Start with soft vegetables and fruits—broccoli, cauliflower, carrot, zucchini, avocado, banana, steamed apple."
+            "text": "Inizia con verdure e frutta morbide: broccoli, cavolfiori, carote, zucchine, avocado, banane, mele al vapore."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Gradually add other foods such as cereals, meat, legumes, and eggs."
+            "text": "Aggiungi gradualmente altri alimenti come cereali, carne, legumi e uova."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "The key is to take it slow and introduce new ingredients gradually while watching your baby's reactions."
+            "text": "La chiave è prenderla con calma e introdurre nuovi ingredienti gradualmente mentre osservi le reazioni del tuo bambino."
           }
         },
         {
@@ -1166,49 +1165,49 @@
         {
           "type": "heading",
           "data": {
-            "text": "Choking risk and natural reflexes"
+            "text": "Rischio di soffocamento e riflessi naturali"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Parents often worry about choking, but studies show the risk with BLW is no higher than with traditional spoon-feeding."
+            "text": "I genitori spesso si preoccupano del soffocamento, ma gli studi dimostrano che il rischio con l'allattamento al seno non è superiore a quello dell'allattamento tradizionale con il cucchiaio."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Babies have a strong gag reflex—a natural safety mechanism that keeps pieces from going too far down the throat."
+            "text": "I bambini hanno un forte riflesso del vomito, un meccanismo di sicurezza naturale che impedisce ai pezzi di andare troppo in fondo alla gola."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Important:"
+            "text": "Importante:"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- don't put your hands or a spoon into your baby's mouth;"
+            "text": "- non mettere le mani o un cucchiaio nella bocca del bambino;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- don't pat them on the back;"
+            "text": "- non dargli pacche sulla spalla;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- calmly allow them to cough it out;"
+            "text": "- lasciarlo tossire con calma fuori;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- intervene only if the baby isn't breathing, makes no sound, and turns blue."
+            "text": "- intervenire solo se il bambino non respira, non emette suoni e diventa blu."
           }
         },
         {
@@ -1217,43 +1216,43 @@
         {
           "type": "heading",
           "data": {
-            "text": "What to offer first"
+            "text": "Cosa offrire per primo"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "For the first attempts choose soft foods that can be mashed with the gums:"
+            "text": "Per i primi tentativi scegliere cibi morbidi da schiacciare con le gengive:"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- cooked vegetables (carrot, pumpkin, potato, broccoli);"
+            "text": "- verdure cotte (carote, zucca, patate, broccoli);"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- fruit (banana, pear, avocado);"
+            "text": "- frutta (banana, pera, avocado);"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- soft meat or meatballs;"
+            "text": "- carne morbida o polpette;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- thick porridges shaped into strips;"
+            "text": "- porridge spesse a listarelle;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- toast, pasta, egg, fish—introduced gradually by age."
+            "text": "- pane tostato, pasta, uova, pesce: introdotto gradualmente in base all'età."
           }
         },
         {
@@ -1262,25 +1261,25 @@
         {
           "type": "heading",
           "data": {
-            "text": "Combining with a spoon"
+            "text": "La combinazione con un cucchiaio"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "BLW doesn't ban spoons if the baby holds them independently."
+            "text": "BLW non vieta i cucchiai se il bambino li tiene in modo indipendente."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Starter pre-spoon utensils with small ridges work best."
+            "text": "Gli utensili iniziali pre-cucchiaio con piccole creste funzionano meglio."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Make sure purées are thick, not runny, so the baby can stay in control."
+            "text": "Assicurati che le puree siano dense, non liquide, in modo che il bambino possa mantenere il controllo."
           }
         },
         {
@@ -1289,37 +1288,37 @@
         {
           "type": "heading",
           "data": {
-            "text": "When BLW isn't suitable"
+            "text": "Quando BLW non è adatto"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Avoid this approach for babies with:"
+            "text": "Evitare questo approccio per i bambini con:"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- dysphagia (swallowing difficulties);"
+            "text": "- disfagia (difficoltà di deglutizione);"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- hypotonia or developmental delays;"
+            "text": "- ipotonia o ritardi di sviluppo;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- structural issues of the mouth;"
+            "text": "- problemi strutturali della bocca;"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- low weight, anemia, or prematurity (without pediatric approval)."
+            "text": "- basso peso, anemia o prematurità (senza approvazione pediatrica)."
           }
         },
         {
@@ -1328,31 +1327,31 @@
         {
           "type": "heading",
           "data": {
-            "text": "Global experience and recommendations"
+            "text": "Esperienza globale e raccomandazioni"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- WHO emphasizes starting complementary foods at 6 months while continuing breastfeeding up to 2 years or longer."
+            "text": "- L'OMS sottolinea l'importanza di iniziare gli alimenti complementari a 6 mesi continuando l'allattamento al seno fino a 2 anni o più."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- The American Academy of Pediatrics considers BLW safe if adults supervise and choose appropriate textures."
+            "text": "- L'American Academy of Pediatrics considera BLW sicuro se gli adulti supervisionano e scelgono le consistenze appropriate."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- The UK National Health Service notes that self-feeding helps babies recognize hunger and fullness and builds independence."
+            "text": "- Il Servizio sanitario nazionale del Regno Unito rileva che l'autoalimentazione aiuta i bambini a riconoscere la fame e la sazietà e costruisce l'indipendenza."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "- Systematic reviews in BMJ Open and the International Journal of Pediatrics show BLW diets provide similar nutrition, but it's crucial to monitor iron intake and avoid hard chunks."
+            "text": "- Revisioni sistematiche su BMJ Open e International Journal of Pediatrics mostrano che le diete BLW forniscono un nutrimento simile, ma è fondamentale monitorare l'assunzione di ferro ed evitare pezzi duri."
           }
         },
         {
@@ -1361,25 +1360,25 @@
         {
           "type": "paragraph",
           "data": {
-            "text": "BLW is a natural, mindful, and respectful way to support your child's development."
+            "text": "BLW è un modo naturale, consapevole e rispettoso per sostenere lo sviluppo del bambino."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "It fosters independence, builds a healthy relationship with food, and creates a positive mealtime atmosphere."
+            "text": "Promuove l'indipendenza, costruisce un rapporto sano con il cibo e crea un'atmosfera positiva durante il pasto."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Parents should stay close, support, and trust their little one."
+            "text": "I genitori dovrebbero stare vicini, sostenere e fidarsi del loro piccolo."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "The ultimate goal of solids is not just feeding but teaching a child to eat with joy, confidence, and safety ❤️."
+            "text": "L'obiettivo finale dei cibi solidi non è solo nutrire ma insegnare al bambino a mangiare con gioia, fiducia e sicurezza ❤️."
           }
         }
       ],
@@ -1412,23 +1411,23 @@
     },
     {
       "id": "08e35bc2-a02f-4d59-bb5f-c4698ceef69e",
-      "title": "Introducing Allergens During Baby's Weaning",
-      "teaser": "Why timely and well-monitored allergen exposure lowers the risk of food allergies later in life.",
+      "title": "Introdurre gli allergeni durante lo svezzamento del bambino",
+      "teaser": "Perché l'esposizione tempestiva e ben monitorata agli allergeni riduce il rischio di allergie alimentari più avanti nella vita.",
       "cover": {
         "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/allergy.webp",
-        "caption": "Parent offering an allergenic food safely during baby-led weaning."
+        "caption": "Genitore che offre un alimento allergenico in modo sicuro durante lo svezzamento guidato dal bambino."
       },
       "blocks": [
         {
           "type": "paragraph",
           "data": {
-            "text": "Food allergies are among the most common concerns in early childhood."
+            "text": "Le allergie alimentari sono tra le preoccupazioni più comuni nella prima infanzia."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Parents were once advised to delay allergenic foods, but current evidence shows the opposite: offering tiny, controlled portions early on trains the immune system to tolerate new ingredients."
+            "text": "Una volta ai genitori veniva consigliato di ritardare gli alimenti allergenici, ma le prove attuali dimostrano il contrario: offrire porzioni piccole e controllate precocemente allena il sistema immunitario a tollerare nuovi ingredienti."
           }
         },
         {
@@ -1437,25 +1436,25 @@
         {
           "type": "heading",
           "data": {
-            "text": "The modern approach"
+            "text": "L'approccio moderno"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Leading organizations such as WHO, ESPGHAN, and the American Academy of Pediatrics suggest introducing allergenic foods around six months, when the baby is developmentally ready for solids."
+            "text": "Organizzazioni leader come l'OMS, l'ESPGHAN e l'American Academy of Pediatrics suggeriscono di introdurre alimenti allergenici intorno ai sei mesi, quando il bambino è pronto per lo sviluppo per i cibi solidi."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "“Gradual exposure in small amounts builds immune tolerance,” emphasize pediatric allergists. Always choose a moment when your baby is healthy and free from rashes or colds."
+            "text": "“L'esposizione graduale a piccole quantità aumenta la tolleranza immunitaria”, sottolineano gli allergologi pediatrici. Scegli sempre un momento in cui il tuo bambino è sano e privo di eruzioni cutanee o raffreddori."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Introduce only one new ingredient at a time and do it earlier in the day so you can observe how your baby reacts."
+            "text": "Introduci solo un nuovo ingrediente alla volta e fallo all'inizio della giornata in modo da poter osservare come reagisce il tuo bambino."
           }
         },
         {
@@ -1464,19 +1463,19 @@
         {
           "type": "heading",
           "data": {
-            "text": "Major food allergens"
+            "text": "Principali allergeni alimentari"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "The European Union recognizes 14 major allergens: gluten, peanuts, tree nuts, celery, mustard, milk, eggs, sesame, fish, crustaceans, mollusks, soy, sulfites, and lupin."
+            "text": "L'Unione Europea riconosce 14 principali allergeni: glutine, arachidi, frutta a guscio, sedano, senape, latte, uova, sesamo, pesce, crostacei, molluschi, soia, solfiti e lupino."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "For infants, the most relevant are eggs, fish, milk, wheat, soy, peanuts, celery, assorted nuts, and sesame."
+            "text": "Per i neonati, i più importanti sono uova, pesce, latte, grano, soia, arachidi, sedano, frutta secca assortita e sesamo."
           }
         },
         {
@@ -1485,31 +1484,31 @@
         {
           "type": "heading",
           "data": {
-            "text": "When and how to start"
+            "text": "Quando e come iniziare"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Begin allergen exposure once your baby comfortably handles vegetables, cereals, and meats."
+            "text": "Inizia l'esposizione agli allergeni una volta che il bambino riesce a gestire con disinvoltura verdure, cereali e carne."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Start with micro portions — just a crumb or a quarter teaspoon."
+            "text": "• Inizia con micro porzioni: solo una briciola o un quarto di cucchiaino."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Increase gradually if no reactions appear and keep a feeding log with dates and amounts."
+            "text": "• Aumenta gradualmente se non compaiono reazioni e tieni un diario di alimentazione con date e quantità."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Offer the same allergen again during the week to reinforce tolerance."
+            "text": "• Offri nuovamente lo stesso allergene durante la settimana per rafforzare la tolleranza."
           }
         },
         {
@@ -1518,31 +1517,31 @@
         {
           "type": "heading",
           "data": {
-            "text": "Safe allergen introduction checklist"
+            "text": "Lista di controllo per l'introduzione sicura degli allergeni"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "1. Add only one new food at a time so you can pinpoint any reaction."
+            "text": "1. Aggiungi solo un nuovo alimento alla volta in modo da poter individuare qualsiasi reazione."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "2. Present the tiniest portion first and serve it during daytime hours."
+            "text": "2. Presenta prima la porzione più piccola e servila durante le ore diurne."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "3. Leave a three-day window before trying a different new food."
+            "text": "3. Lascia una finestra di tre giorni prima di provare un nuovo cibo diverso."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "4. If the food is well tolerated, repeat it one to two times per week to maintain tolerance."
+            "text": "4. Se il cibo è ben tollerato, ripetilo una o due volte alla settimana per mantenere la tolleranza."
           }
         },
         {
@@ -1551,19 +1550,19 @@
         {
           "type": "heading",
           "data": {
-            "text": "Possible allergy signs"
+            "text": "Possibili segni di allergia"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Watch for redness around the mouth, hives, swelling of the lips or eyelids, coughing, sneezing, breathing difficulties, vomiting, diarrhea, or sudden irritability."
+            "text": "Fai attenzione ad arrossamento intorno alla bocca, orticaria, gonfiore delle labbra o delle palpebre, tosse, starnuti, difficoltà respiratorie, vomito, diarrea o irritabilità improvvisa."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Seek urgent medical attention if you notice trouble breathing, facial swelling, or any signs of anaphylaxis."
+            "text": "Rivolgiti urgentemente al medico se noti problemi di respirazione, gonfiore del viso o qualsiasi segno di anafilassi."
           }
         },
         {
@@ -1572,19 +1571,19 @@
         {
           "type": "heading",
           "data": {
-            "text": "If your child already reacted"
+            "text": "Se tuo figlio ha già reagito"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Do not reintroduce the allergen without guidance from your pediatrician or an allergist. They can advise on supervised challenges and the right timing."
+            "text": "Non reintrodurre l'allergene senza la guida del pediatra o di un allergologo. Possono consigliare sfide supervisionate e il momento giusto."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Many children outgrow specific allergies, but it must happen gradually and under expert supervision."
+            "text": "Molti bambini superano le allergie specifiche, ma ciò deve avvenire gradualmente e sotto la supervisione di esperti."
           }
         },
         {
@@ -1593,13 +1592,13 @@
         {
           "type": "heading",
           "data": {
-            "text": "Key takeaway"
+            "text": "Prima di tutto"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Allergens are not the enemy when introduced mindfully. Consistent, monitored exposure encourages healthy eating habits and reduces the likelihood of future allergies."
+            "text": "Gli allergeni non sono il nemico se introdotti consapevolmente. Un'esposizione costante e monitorata incoraggia abitudini alimentari sane e riduce la probabilità di future allergie."
           }
         }
       ],
@@ -1620,71 +1619,71 @@
     },
     {
       "id": "b2eba6f0-4c4c-4a57-8bb0-bda297d91c19",
-      "title": "Prohibited foods for children: up to 1 year, up to 3 years, up to 5 years",
-      "teaser": "A practical parent guide to foods that are unsafe at different ages and the reasons to avoid them.",
+      "title": "Alimenti vietati per i bambini: fino a 1 anno, fino a 3 anni, fino a 5 anni",
+      "teaser": "Una guida pratica per i genitori sugli alimenti non sicuri a diverse età e i motivi per evitarli.",
       "cover": {
         "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/zaboroneni-produkty.webp",
-        "caption": "Prohibited foods for children at different ages"
+        "caption": "Alimenti vietati per bambini a diverse età"
       },
       "blocks": [
         {
           "type": "paragraph",
           "data": {
-            "text": "Young children need safe, age-appropriate meals. Certain foods pose choking risks, contain toxins, or overload immature organs, so it’s important to know what to avoid."
+            "text": "I bambini piccoli hanno bisogno di pasti sicuri e adatti all'età. Alcuni alimenti comportano rischi di soffocamento, contengono tossine o sovraccaricano organi immaturi, quindi è importante sapere cosa evitare."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "Up to 1 year"
+            "text": "Fino a 1 anno"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Honey. May contain botulism spores and is dangerous even in tiny amounts."
+            "text": "• Miele. Può contenere spore di botulismo ed è pericoloso anche in piccole quantità."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Salt and salty foods. Babies’ kidneys cannot handle excess sodium; avoid salty cheese, sausages, canned foods, and sauces."
+            "text": "• Sale e cibi salati. I reni dei bambini non riescono a gestire l’eccesso di sodio; evita formaggi salati, salsicce, cibi in scatola e salse."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Sugar and sweets. Increase the risk of cavities and obesity and create unhealthy taste preferences."
+            "text": "• Zucchero e dolci. Aumenta il rischio di carie e obesità e crea preferenze di gusto non salutari."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Whole nuts and seeds. Extremely high choking risk."
+            "text": "• Noci e semi interi. Rischio di soffocamento estremamente elevato."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Cow’s milk as a main drink. Too much protein and sodium, low iron → anemia risk; safe only for cooking."
+            "text": "• Latte vaccino come bevanda principale. Troppe proteine ​​e sodio, ferro basso → rischio di anemia; sicuro solo per cucinare."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• High-mercury fish. Shark, swordfish, and marlin can harm nervous system development."
+            "text": "• Pesce ad alto contenuto di mercurio. Squalo, pesce spada e marlin possono danneggiare lo sviluppo del sistema nervoso."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Raw or undercooked eggs, meat, fish. Risk of salmonella and other infections."
+            "text": "• Uova, carne, pesce crudi o poco cotti. Rischio di salmonella e altre infezioni."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Juices and sweet drinks. Overload the pancreas, trigger diarrhea, and damage tooth enamel."
+            "text": "• Succhi e bevande dolci. Sovraccarica il pancreas, provoca diarrea e danneggia lo smalto dei denti."
           }
         },
         {
@@ -1693,37 +1692,37 @@
         {
           "type": "heading",
           "data": {
-            "text": "From 1 to 3 years"
+            "text": "Da 1 a 3 anni"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Limit salt, sugar, and fatty foods. Harm teeth and kidneys; avoid sausages, fast food, store-bought sauces, sweet yogurts, and sugary drinks."
+            "text": "• Limita sale, zucchero e cibi grassi. Danneggiare denti e reni; evita salsicce, fast food, salse acquistate al supermercato, yogurt dolci e bevande zuccherate."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Juices, sodas, nectars. Very high in sugar — heavy load for the liver and teeth."
+            "text": "• Succhi, bibite, nettari. Molto ricco di zuccheri: un carico pesante per fegato e denti."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Popcorn, whole grapes, raw carrot sticks. Major choking hazards; serve grapes only sliced lengthwise."
+            "text": "• Popcorn, uva intera, bastoncini di carote crude. Principali rischi di soffocamento; servire l'uva solo tagliata a fette nel senso della lunghezza."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Rice drinks. May contain elevated arsenic levels."
+            "text": "• Bevande di riso. Può contenere livelli elevati di arsenico."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Salty, smoked, or cured meat products. High in salt and nitrites (sausages, ham, hot dogs)."
+            "text": "• Prodotti a base di carne salati, affumicati o stagionati. Ad alto contenuto di sale e nitriti (salsicce, prosciutto, wurstel)."
           }
         },
         {
@@ -1732,37 +1731,37 @@
         {
           "type": "heading",
           "data": {
-            "text": "From 3 to 5 years"
+            "text": "Da 3 a 5 anni"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Whole nuts and seeds. Can still block the airway at 4–5 years; offer ground nuts or unsweetened nut butters."
+            "text": "• Noci intere e semi. Può ancora bloccare le vie aeree a 4-5 anni; offrire arachidi o burro di noci non zuccherato."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Popcorn, hard candies, caramel. Very high choking risk."
+            "text": "• Popcorn, caramelle dure, caramello. Rischio di soffocamento molto elevato."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Foods high in sugar, salt, and fats. Drive obesity, diabetes, and cavities; examples include chips, snacks, donuts, sweet cookies, fast food."
+            "text": "• Cibi ricchi di zuccheri, sale e grassi. Guidare l'obesità, il diabete e la carie; gli esempi includono patatine, snack, ciambelle, biscotti dolci, fast food."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Soda and energy drinks. Lots of sugar and caffeine that harm teeth and the nervous system."
+            "text": "• Bibite gassate e bevande energetiche. Molto zucchero e caffeina che danneggiano i denti e il sistema nervoso."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "• Hard or round foods. Can block the airway: whole cherry tomatoes, whole grapes, firm raw vegetables."
+            "text": "• Cibi duri o rotondi. Può bloccare le vie aeree: pomodorini interi, uva intera, verdure crude sode."
           }
         },
         {
@@ -1797,145 +1796,145 @@
       ]
     },
     {
-      "title": "Meal Frequency and Portion Sizes During Complementary Feeding",
-      "teaser": "Evidence-based recommendations on feeding frequency, portion sizes, and intervals according to WHO, NHS, AAP, and Health Canada.",
+      "title": "Frequenza dei pasti e dimensioni delle porzioni durante l'alimentazione complementare",
+      "teaser": "Raccomandazioni basate sull'evidenza sulla frequenza dei pasti, le dimensioni delle porzioni e gli intervalli secondo OMS, NHS, AAP e Health Canada.",
       "blocks": [
         {
           "type": "heading",
           "data": {
-            "text": "When to Start and How Often to Offer Food"
+            "text": "Quando iniziare e quanto spesso offrire il cibo"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "International recommendations consistently state that complementary feeding should begin around six months when the infant shows signs of readiness. At the beginning, one small meal per day is sufficient. Breast milk or formula remains the primary source of nutrition."
+            "text": "Le raccomandazioni internazionali affermano costantemente che l'alimentazione complementare dovrebbe iniziare intorno ai sei mesi quando il bambino mostra segni di disponibilità. All'inizio è sufficiente un piccolo pasto al giorno. Il latte materno o artificiale rimane la fonte primaria di nutrimento."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "Meal Frequency by Age"
+            "text": "Frequenza dei pasti in base all'età"
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "6–8 months"
+            "text": "6–8 mesi"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Recommended frequency is 2–3 meals per day. Breastfeeding or formula feeding continues between meals. Food should be soft or provided as safe finger-sized pieces."
+            "text": "La frequenza consigliata è di 2–3 pasti al giorno. L'allattamento al seno o con latte artificiale continua tra i pasti. Il cibo deve essere morbido o fornito in pezzetti grandi quanto un dito."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "9–11 months"
+            "text": "9–11 mesi"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Recommended frequency is 3–4 meals per day. One or two healthy snacks may be added if needed. The variety of foods increases."
+            "text": "La frequenza consigliata è di 3–4 pasti al giorno. Se necessario, è possibile aggiungere uno o due snack salutari. La varietà degli alimenti aumenta."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "12 months and older"
+            "text": "Dai 12 mesi in su"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Three main meals and two snacks per day are recommended. The child gradually transitions to family foods, and milk is no longer the primary calorie source."
+            "text": "Si consigliano tre pasti principali e due spuntini al giorno. Il bambino passa gradualmente ai cibi della famiglia e il latte non è più la fonte calorica primaria."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "Recommended Portion Sizes"
+            "text": "Porzioni consigliate"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "6–8 months: vegetables and fruits — 2–3 tablespoons; cereals — 2–4 tablespoons; protein foods — 1–2 teaspoons."
+            "text": "6–8 mesi: frutta e verdura: 2–3 cucchiai; cereali – 2-4 cucchiai; alimenti proteici: 1–2 cucchiaini."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "9–11 months: vegetables and fruits — one-quarter to one-half cup; cereals — one-quarter to one-half cup; meat or legumes — 2–4 tablespoons."
+            "text": "9–11 mesi: frutta e verdura: da un quarto a mezza tazza; cereali: da un quarto a mezza tazza; carne o legumi — 2–4 cucchiai."
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "12–24 months: vegetables and fruits — one-half cup; grains — one-half cup; meat — 3–4 tablespoons; dairy — half a cup of yogurt or 20–30 g of cheese."
+            "text": "12–24 mesi: frutta e verdura — mezza tazza; cereali: mezza tazza; carne – 3-4 cucchiai; latticini: mezza tazza di yogurt o 20-30 g di formaggio."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "Intervals Between Meals"
+            "text": "Intervalli tra i pasti"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Optimal intervals are approximately two and a half to three and a half hours. This supports healthy appetite regulation and prevents overeating."
+            "text": "Gli intervalli ottimali sono circa due ore e mezza o tre ore e mezza. Ciò favorisce una sana regolazione dell'appetito e previene l'eccesso di cibo."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "How to Recognize Satiety and Hunger"
+            "text": "Come riconoscere la sazietà e la fame"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Signs of satiety include turning the head away, closing the mouth, and reduced interest. Signs of hunger include reaching for food, opening the mouth, and showing continued interest."
+            "text": "Segni di sazietà includono voltare la testa, chiudere la bocca e ridotto interesse. Segni di fame includono cercare di prendere il cibo, aprire la bocca e mostrare interesse continuo."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "Fluids During Complementary Feeding"
+            "text": "Liquidi durante l'alimentazione complementare"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "After six months, small amounts of water may be offered with meals. Water does not replace milk or formula."
+            "text": "Dopo sei mesi, è possibile offrire piccole quantità di acqua durante i pasti. L'acqua non sostituisce il latte o la formula."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "When to Consult a Doctor"
+            "text": "Quando consultare un medico"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Consultation is recommended if the child gains weight poorly, rejects solid foods, shows repeated reactions to foods, or has chronic health conditions."
+            "text": "Si consiglia di consultare un medico se il bambino aumenta poco di peso, rifiuta i cibi solidi, mostra reazioni ripetute agli alimenti o ha condizioni di salute croniche."
           }
         },
         {
           "type": "heading",
           "data": {
-            "text": "Summary"
+            "text": "Riepilogo"
           }
         },
         {
           "type": "paragraph",
           "data": {
-            "text": "Complementary feeding should begin after six months with a gradual increase in meal frequency. Portions should remain small and intervals regular. The core principle is gradual progression and responsiveness to the child's needs."
+            "text": "L'alimentazione complementare dovrebbe iniziare dopo sei mesi con un aumento graduale della frequenza dei pasti. Le porzioni dovrebbero rimanere piccole e gli intervalli regolari. Il principio fondamentale è la progressione graduale e la risposta ai bisogni del bambino."
           }
         },
         {
@@ -1945,7 +1944,7 @@
       "id": "31d7da57-b214-45e4-981e-7835b5d2e530",
       "cover": {
         "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/pryiomy-yizhi.webp",
-        "caption": "Meal schedule and portion sizes for complementary feeding"
+        "caption": "Programma dei pasti e dimensioni delle porzioni per l'alimentazione complementare"
       },
       "sources": [
         {

@@ -1,0 +1,1973 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2025-05-29T00:00:00Z",
+  "language": "en",
+  "articles": [
+    {
+      "id": "b6dd27cc-8a79-4d12-a609-6bc0afd4f1b9",
+      "title": "How to Use the “My Feeding” App",
+      "teaser": "Tour the main sections of the My Feeding Tracker app and keep baby-led weaning notes in order.",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/app.webp",
+        "caption": "My Feeding app interface"
+      },
+      "blocks": [
+        {
+          "type": "heading",
+          "data": {
+            "text": "Important medical notice"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "The My Feeding app does not replace professional medical advice."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Always consult your pediatrician or allergist before adding new foods, changing the feeding schedule, or responding to symptoms."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "About the app"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "My Feeding Tracker helps you monitor complementary feeding progress and keep every note tidy."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Track which foods your baby has already tried."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Log reactions, notes, and comments."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Create custom dishes."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Plan meals for a day or an entire week."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Main sections"
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "📊 Statistics"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Gives you a snapshot of recent meals, reactions, and newly introduced foods so you can follow progress."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "🥣 Products"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Browse age-appropriate foods, mark the items you have introduced, and add observations."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "The ⚠️ label marks regulated allergens while ❗ highlights potential sensitivities."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "🍽️ Menu"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Plan breakfast, lunch, dinner, or snacks by adding dishes and quick notes."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "The menu is split into three sections:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "1. Today."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "2. Planned meals."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "3. History."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "🧾 Custom foods"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Add your own foods or recipes, including preparation details and notes."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Edit or delete them whenever needed."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "⚙️ Settings"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Toggle iCloud sync on or off at any time."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Use the “Sync Now” button for manual updates, and clear cache or hints when required."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Synchronization"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "All information is stored in your private iCloud database and visible only to you."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Devices stay up to date automatically."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "If your iCloud storage is full, free up space or upgrade your plan."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Privacy"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "No data is shared with third parties, and developers cannot access your records."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Everything stays secure inside your Apple ID."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Support"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "For technical questions or ideas, open Settings → Feedback."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "You can also email support with your device model, iOS version, and issue description."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Remember: the app is a handy companion, but it never replaces professional medical consultation."
+          }
+        }
+      ]
+    },
+    {
+      "id": "3f91c5db-5f06-4e36-9d2c-2b9188cbf65c",
+      "title": "When to Start Complementary Feeding: Signs Your Baby Is Ready",
+      "teaser": "How to determine if your baby is ready for the first solids and choose the perfect moment.",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/1.webp",
+        "caption": "First spoonfuls of complementary food for a curious baby"
+      },
+      "blocks": [
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Introducing complementary foods is an important milestone in your baby's development when they move from exclusive breastmilk or formula to new foods. Choosing the right time to start affects not only appetite, but also the development of the digestive system, eating habits, and even future attitudes toward food."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "The best age to start complementary feeding"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "According to the World Health Organization (WHO) and pediatricians in most countries, solids should be introduced at around 6 months. Until then, breastmilk or formula fully covers your baby's nutritional needs."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Some babies may be ready a little earlier—at 5 months—while others only closer to 7 months. The main thing is not to rush and to focus not only on age but also on readiness cues."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Readiness signs to watch for"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Every child develops at their own pace, so it is important to observe their behavior. Below are the key signals that show it's time to introduce new tastes."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "1. Your baby holds their head steady"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Your baby should be able to hold their head upright and sit with minimal support. This is crucial for safety so there is no risk of choking during meals."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "2. Shows interest in family meals"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "If your baby watches you eat with fascination, reaches for the spoon, or tries to grab a piece, it's a sign they are curious about new foods."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "3. The tongue-thrust reflex has faded"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Newborns have a natural tongue-thrust reflex that automatically pushes out anything thicker than milk. Once this reflex fades, your baby can handle puréed textures."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "4. Bigger appetite and milk is not enough"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "If your baby asks to feed more often but still seems unsatisfied afterward, it may mean their body needs more nutrients."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "5. Weight has doubled since birth"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Doubling their birth weight is another readiness marker. It shows that your baby is growing actively and needs extra energy."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "6. No signs of illness"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Start solids only when your baby is healthy, without colds, tummy troubles, or teething discomfort that could cause a temporary refusal of new foods."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "When to postpone complementary feeding"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Don't introduce new foods if your baby is ill or has just received vaccinations."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Avoid starting during heat waves because of the risk of dehydration."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Delay the introduction if you notice major stress or routine changes, such as moving house or a new caregiver."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Wait if your baby still can't hold their head steady or sit on their own."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "How to prepare for the first feeding"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "1. Pick the right time of day—when your baby is alert, not too hungry, and in a good mood."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "2. Start with a single food and observe the reaction for 2–3 days."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "3. Don't force it—if your baby turns away or presses their lips together, simply try again later."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "4. Offer food with a spoon, not from a bottle—this helps your baby learn to swallow correctly."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "5. Keep notes—maintain a small feeding diary or use a mobile app."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Early or late? Why balance matters"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Introducing solids too early, before 4 months, can overload the digestive system and raise the risk of allergies and tummy issues."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Starting too late, after 8 months, can lead to iron deficiency, refusal of textured foods, and delays in developing chewing skills."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "The best strategy is to focus on your baby's readiness rather than fixed dates on the calendar."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Introducing solids isn't only about food—it's a new step in your baby's development. When you notice readiness cues, offer new tastes slowly, with care and curiosity."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Remember: every spoonful is a small discovery, a step toward independence and new sensations."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "WHO complementary feeding guidance",
+          "url": "https://www.who.int/publications/i/item/9789240081864"
+        },
+        {
+          "title": "UNICEF Baby Friendly: Start4Life",
+          "url": "https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2008/02/Start4Life-Introducing-Solid-Foods-2015.pdf"
+        },
+        {
+          "title": "EFSA Journal 5780",
+          "url": "https://www.efsa.europa.eu/en/efsajournal/pub/5780"
+        },
+        {
+          "title": "NHS: From around 6 months",
+          "url": "https://www.nhs.uk/best-start-in-life/baby/weaning/what-to-feed-your-baby/from-around-6-months"
+        }
+      ]
+    },
+    {
+      "id": "f7ddca56-f196-4524-bb21-51b5a63a40f3",
+      "title": "First Foods for Complementary Feeding: What to Offer First",
+      "teaser": "A guide to the vegetables and cereals that work best for the first solids and how to safely introduce new tastes.",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/2.webp",
+        "caption": "Purées and cereals as first complementary dishes"
+      },
+      "blocks": [
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Starting solids is a new stage in your baby's life and an important step for parents. After six months, breastmilk or formula alone is no longer enough, so babies gradually need extra foods. But where do you begin to keep everything safe and beneficial?"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Which food to choose first"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "There are several ways to start solids, and the choice often depends on health, weight gain, and your doctor's advice. Pediatricians usually recommend single-ingredient vegetable or grain purées so your baby's body can adapt gradually."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Option 1. Vegetable purée"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Ideal for babies who are gaining weight quickly or already have a higher weight."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "The first vegetables usually include:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- zucchini;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- cauliflower;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- broccoli;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- pumpkin."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "They are easy to digest, rarely cause allergies, and have a delicate flavor similar to breastmilk. Prepare the purée without salt or spices, starting with 1–2 teaspoons per day."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Option 2. Gluten-free cereals"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "If your baby gains weight slowly or seems low on energy, start with single-ingredient, dairy-free cereals:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- rice;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- buckwheat;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- corn."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Cook the cereal in water or mix it with breastmilk or formula. The key is no sugar, salt, or additives."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Option 3. Fruit purée"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Fruits taste great and babies get used to them quickly, but don't rush. Offer them after vegetables so your little one doesn't refuse less sweet meals."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Good first options are:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- apple;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- pear;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- banana (from 7 months)."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "How to introduce the first foods"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "1. Start with one ingredient. Offer each new food on its own so it's easier to track any reaction."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "2. Increase the amount gradually. Begin with 1 teaspoon and slowly work up to a full serving—100–150 g per day."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "3. Watch for reactions. If there is no rash, tummy ache, or change in stool, you can add another food after 3–4 days."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "4. Cook without salt, sugar, or spices. The natural taste of the ingredients is all your baby needs."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "5. Choose the right timing. Offer new foods in the daytime—between morning and midday feeds—when your baby is in a good mood."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Sample first-week menu"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Days 1–3: zucchini purée — 1 tsp → 3–4 tsp."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Days 4–6: cauliflower purée — 1 tsp → 5 tsp."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Days 7–10: zucchini + cauliflower, or switch to buckwheat cereal."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "From 7 months you can add potato, carrot, pumpkin, apple, pear, and later meat."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Common mistakes when starting solids"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Starting before your baby can sit or hold their head."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Offering several new foods at once."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Adding salt or sugar."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Pressuring your baby to eat when they don't want to."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Offering solids during illness or right after vaccinations."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Remember: complementary feeding is not a race but a gentle introduction to a world of new flavors."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "When to call the doctor"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Contact your pediatrician if you notice after a new food:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- rash or redness;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- diarrhea or constipation;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- frequent spit-ups;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- restlessness or disrupted sleep;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- swelling or breathing difficulties—stop the new food immediately and see a pediatrician or allergist."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Tips for parents"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Breastmilk or formula remains the main source of nutrition up to age one."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Create a positive mealtime setting: smile and keep your voice calm."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Let your baby touch the spoon and try feeding themselves—it sparks curiosity and fine motor skills."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- If something isn't liked, take a break for a few days and offer it again."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Takeaway"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "First complementary foods should be simple, safe, and natural. Start with vegetables or cereals, watch your baby closely, and add new dishes step by step."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Above all, stay calm, unhurried, and caring. Every new spoonful is your baby's step into the big world of family meals."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "NHS — Your baby’s first solid foods",
+          "url": "https://www.nhs.uk/baby/weaning-and-feeding/babys-first-solid-foods/"
+        },
+        {
+          "title": "Start4Life / UNICEF — Introducing Solid Foods",
+          "url": "https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2008/02/Start4Life-Introducing-Solid-Foods-2015.pdf"
+        },
+        {
+          "title": "ESPGHAN — Complementary Feeding Position Paper",
+          "url": "https://alimentacionysalud.unam.mx/wp-content/uploads/2020/12/Complementary-Feeding_-A-Position-Paper-by-the-European-Society-for-Paediatric-Gastroenterology-Hepatology-and-Nutrition-ESPGHAN-Committee-on-Nutrition.pdf"
+        },
+        {
+          "title": "AAP — Starting Solid Foods handout",
+          "url": "https://18andundermd.com/wp-content/uploads/2020/02/solid-food-introduction-handout.pdf"
+        },
+        {
+          "title": "Allergy UK — Weaning: Introducing Your Baby to Solids",
+          "url": "https://www.allergyuk.org/wp-content/uploads/2022/02/Weaning-%E2%80%93-Introducing-Your-Baby-to-Solids.pdf"
+        }
+      ]
+    },
+    {
+      "id": "7accabaa-306a-4267-8159-7b684cfec85d",
+      "title": "BLW (Baby-Led Weaning) or Self-Feeding — a Modern Way to Introduce Solids",
+      "teaser": "What the BLW approach is, how to assess readiness, and how to organize safe self-feeding.",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/3.webp",
+        "caption": "A baby exploring solid food independently during the first meal"
+      },
+      "blocks": [
+        {
+          "type": "heading",
+          "data": {
+            "text": "What is BLW"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "BLW (baby-led weaning) isn't a type of food but an approach where the baby takes the lead in feeding from the very first solid meals."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "The idea was formulated by Gill Rapley—a British nurse, lactation consultant, and researcher."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "BLW spread worldwide thanks to its simple yet revolutionary concept:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "“The child leads their own feeding, and adults provide a safe, natural environment.”"
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Benefits of self-feeding"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- encourages healthy eating habits from infancy;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- builds coordination and fine motor skills;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- stimulates sensory development through touch, taste, and smell;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- reduces the risk of overeating and picky eating later on;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- strengthens the emotional bond between child and parents during meals."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "When to start BLW"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Self-feeding is suitable for babies around 6 months old when they:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- can sit independently or with minimal support;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- hold their head steady;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- can grab food with their hands and bring it to their mouth."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Before you start, make sure your baby is physically ready—their digestive system, chewing skills, and postural stability should be developed enough."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "The World Health Organization also recommends introducing solids after 6 months while continuing breastfeeding."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Core rules of BLW"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "1. Safety first. Your baby should sit upright to coordinate swallowing and breathing."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "2. Don't spoon-feed. Let your baby decide what, when, and how much to eat."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "3. Never leave your baby unattended while eating."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "4. Skip salt, sugar, honey, and spices."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "5. Offer soft foods in safe shapes and sizes."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "6. Serve water in a cup or open glass, not in a sippy cup."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "7. No gadgets or TV during meals."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "8. Breastmilk or formula remains the main food until one year."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "How to set up mealtime"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- seat your baby in a comfortable high chair with a footrest;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- choose plain dishware without patterns to reduce distractions;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- use a suction plate or silicone mat;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- place a mat or cloth under the chair—mess is inevitable at the start;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- prepare a silicone bib with a pocket;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- serve foods as long strips or sticks roughly adult-finger size."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Safe ways to serve food"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Check the texture: if the food squishes easily between your fingers, it's safe."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Start with soft vegetables and fruits—broccoli, cauliflower, carrot, zucchini, avocado, banana, steamed apple."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Gradually add other foods such as cereals, meat, legumes, and eggs."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "The key is to take it slow and introduce new ingredients gradually while watching your baby's reactions."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Choking risk and natural reflexes"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Parents often worry about choking, but studies show the risk with BLW is no higher than with traditional spoon-feeding."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Babies have a strong gag reflex—a natural safety mechanism that keeps pieces from going too far down the throat."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Important:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- don't put your hands or a spoon into your baby's mouth;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- don't pat them on the back;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- calmly allow them to cough it out;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- intervene only if the baby isn't breathing, makes no sound, and turns blue."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "What to offer first"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "For the first attempts choose soft foods that can be mashed with the gums:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- cooked vegetables (carrot, pumpkin, potato, broccoli);"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- fruit (banana, pear, avocado);"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- soft meat or meatballs;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- thick porridges shaped into strips;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- toast, pasta, egg, fish—introduced gradually by age."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Combining with a spoon"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "BLW doesn't ban spoons if the baby holds them independently."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Starter pre-spoon utensils with small ridges work best."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Make sure purées are thick, not runny, so the baby can stay in control."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "When BLW isn't suitable"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Avoid this approach for babies with:"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- dysphagia (swallowing difficulties);"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- hypotonia or developmental delays;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- structural issues of the mouth;"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- low weight, anemia, or prematurity (without pediatric approval)."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Global experience and recommendations"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- WHO emphasizes starting complementary foods at 6 months while continuing breastfeeding up to 2 years or longer."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- The American Academy of Pediatrics considers BLW safe if adults supervise and choose appropriate textures."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- The UK National Health Service notes that self-feeding helps babies recognize hunger and fullness and builds independence."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "- Systematic reviews in BMJ Open and the International Journal of Pediatrics show BLW diets provide similar nutrition, but it's crucial to monitor iron intake and avoid hard chunks."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "BLW is a natural, mindful, and respectful way to support your child's development."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "It fosters independence, builds a healthy relationship with food, and creates a positive mealtime atmosphere."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Parents should stay close, support, and trust their little one."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "The ultimate goal of solids is not just feeding but teaching a child to eat with joy, confidence, and safety ❤️."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "WHO – Complementary Feeding",
+          "url": "https://www.who.int/health-topics/complementary-feeding"
+        },
+        {
+          "title": "WHO – Continued Breastfeeding",
+          "url": "https://www.who.int/tools/elena/bbc/continued-breastfeeding"
+        },
+        {
+          "title": "NHS – Baby’s First Solid Foods",
+          "url": "https://www.nhs.uk/baby/weaning-and-feeding/babys-first-solid-foods/"
+        },
+        {
+          "title": "NHS – Weaning & Readiness Signs",
+          "url": "https://bedslutonchildrenshealth.nhs.uk/feeding-and-eating/weaning-and-introducing-solid-foods/"
+        },
+        {
+          "title": "UNICEF / Start4Life – Introducing Solid Foods",
+          "url": "https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2008/02/Start4Life-Introducing-Solid-Foods-2015.pdf"
+        },
+        {
+          "title": "AAP – Baby-Led Weaning: Is It Safe?",
+          "url": "https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/baby-led-weaning-is-it-safe.aspx"
+        }
+      ]
+    },
+    {
+      "id": "08e35bc2-a02f-4d59-bb5f-c4698ceef69e",
+      "title": "Introducing Allergens During Baby's Weaning",
+      "teaser": "Why timely and well-monitored allergen exposure lowers the risk of food allergies later in life.",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/allergy.webp",
+        "caption": "Parent offering an allergenic food safely during baby-led weaning."
+      },
+      "blocks": [
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Food allergies are among the most common concerns in early childhood."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Parents were once advised to delay allergenic foods, but current evidence shows the opposite: offering tiny, controlled portions early on trains the immune system to tolerate new ingredients."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "The modern approach"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Leading organizations such as WHO, ESPGHAN, and the American Academy of Pediatrics suggest introducing allergenic foods around six months, when the baby is developmentally ready for solids."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "“Gradual exposure in small amounts builds immune tolerance,” emphasize pediatric allergists. Always choose a moment when your baby is healthy and free from rashes or colds."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Introduce only one new ingredient at a time and do it earlier in the day so you can observe how your baby reacts."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Major food allergens"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "The European Union recognizes 14 major allergens: gluten, peanuts, tree nuts, celery, mustard, milk, eggs, sesame, fish, crustaceans, mollusks, soy, sulfites, and lupin."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "For infants, the most relevant are eggs, fish, milk, wheat, soy, peanuts, celery, assorted nuts, and sesame."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "When and how to start"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Begin allergen exposure once your baby comfortably handles vegetables, cereals, and meats."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Start with micro portions — just a crumb or a quarter teaspoon."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Increase gradually if no reactions appear and keep a feeding log with dates and amounts."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Offer the same allergen again during the week to reinforce tolerance."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Safe allergen introduction checklist"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "1. Add only one new food at a time so you can pinpoint any reaction."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "2. Present the tiniest portion first and serve it during daytime hours."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "3. Leave a three-day window before trying a different new food."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "4. If the food is well tolerated, repeat it one to two times per week to maintain tolerance."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Possible allergy signs"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Watch for redness around the mouth, hives, swelling of the lips or eyelids, coughing, sneezing, breathing difficulties, vomiting, diarrhea, or sudden irritability."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Seek urgent medical attention if you notice trouble breathing, facial swelling, or any signs of anaphylaxis."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "If your child already reacted"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Do not reintroduce the allergen without guidance from your pediatrician or an allergist. They can advise on supervised challenges and the right timing."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Many children outgrow specific allergies, but it must happen gradually and under expert supervision."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Key takeaway"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Allergens are not the enemy when introduced mindfully. Consistent, monitored exposure encourages healthy eating habits and reduces the likelihood of future allergies."
+          }
+        }
+      ],
+      "sources": [
+        {
+          "title": "HealthyChildren.org",
+          "url": "https://www.healthychildren.org/English/healthy-living/nutrition/Pages/when-to-introduce-egg-peanut-butter-and-other-common-food-allergens-to-your-baby-food-allergy-prevention-tips.aspx"
+        },
+        {
+          "title": "AAP Pediatrics",
+          "url": "https://publications.aap.org/pediatrics/article/152/5/e2023062836/194356/Updates-in-Food-Allergy-Prevention-in-Children"
+        },
+        {
+          "title": "EFSA: Food allergens",
+          "url": "https://www.efsa.europa.eu/en/safe2eat/food-allergens"
+        }
+      ]
+    },
+    {
+      "id": "b2eba6f0-4c4c-4a57-8bb0-bda297d91c19",
+      "title": "Prohibited foods for children: up to 1 year, up to 3 years, up to 5 years",
+      "teaser": "A practical parent guide to foods that are unsafe at different ages and the reasons to avoid them.",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/zaboroneni-produkty.webp",
+        "caption": "Prohibited foods for children at different ages"
+      },
+      "blocks": [
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Young children need safe, age-appropriate meals. Certain foods pose choking risks, contain toxins, or overload immature organs, so it’s important to know what to avoid."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Up to 1 year"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Honey. May contain botulism spores and is dangerous even in tiny amounts."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Salt and salty foods. Babies’ kidneys cannot handle excess sodium; avoid salty cheese, sausages, canned foods, and sauces."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Sugar and sweets. Increase the risk of cavities and obesity and create unhealthy taste preferences."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Whole nuts and seeds. Extremely high choking risk."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Cow’s milk as a main drink. Too much protein and sodium, low iron → anemia risk; safe only for cooking."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• High-mercury fish. Shark, swordfish, and marlin can harm nervous system development."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Raw or undercooked eggs, meat, fish. Risk of salmonella and other infections."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Juices and sweet drinks. Overload the pancreas, trigger diarrhea, and damage tooth enamel."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "From 1 to 3 years"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Limit salt, sugar, and fatty foods. Harm teeth and kidneys; avoid sausages, fast food, store-bought sauces, sweet yogurts, and sugary drinks."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Juices, sodas, nectars. Very high in sugar — heavy load for the liver and teeth."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Popcorn, whole grapes, raw carrot sticks. Major choking hazards; serve grapes only sliced lengthwise."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Rice drinks. May contain elevated arsenic levels."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Salty, smoked, or cured meat products. High in salt and nitrites (sausages, ham, hot dogs)."
+          }
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "From 3 to 5 years"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Whole nuts and seeds. Can still block the airway at 4–5 years; offer ground nuts or unsweetened nut butters."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Popcorn, hard candies, caramel. Very high choking risk."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Foods high in sugar, salt, and fats. Drive obesity, diabetes, and cavities; examples include chips, snacks, donuts, sweet cookies, fast food."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Soda and energy drinks. Lots of sugar and caffeine that harm teeth and the nervous system."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "• Hard or round foods. Can block the airway: whole cherry tomatoes, whole grapes, firm raw vegetables."
+          }
+        },
+        {
+          "type": "divider"
+        }
+      ],
+      "sources": [
+        {
+          "title": "WHO — Complementary Feeding",
+          "url": "https://www.who.int/health-topics/complementary-feeding"
+        },
+        {
+          "title": "NHS — Foods to Avoid Giving Babies and Young Children",
+          "url": "https://www.nhs.uk/baby/weaning-and-feeding/foods-to-avoid-giving-babies-and-young-children/"
+        },
+        {
+          "title": "UNICEF / Start4Life — Introducing Solid Foods",
+          "url": "https://www.unicef.org.uk/babyfriendly/wp-content/uploads/sites/2/2008/02/Start4Life-Introducing-Solid-Foods-2015.pdf"
+        },
+        {
+          "title": "UK GOV — Feeding Young Children (1–5 years)",
+          "url": "https://www.gov.uk/government/publications/sacn-report-feeding-young-children-aged-1-to-5-years"
+        },
+        {
+          "title": "Healthy Eating Research — Infant & Toddler Feeding Guidelines",
+          "url": "https://healthyeatingresearch.org/tips-for-families/ages-0-2-feeding-recommendations/"
+        },
+        {
+          "title": "Early Years Foundation Stage – Choking Hazard Table",
+          "url": "https://www.foundationyears.org.uk/files/2021/09/Early-Years-Choking-Hazards-Table_FINAL_21-Sept-2021.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Meal Frequency and Portion Sizes During Complementary Feeding",
+      "teaser": "Evidence-based recommendations on feeding frequency, portion sizes, and intervals according to WHO, NHS, AAP, and Health Canada.",
+      "blocks": [
+        {
+          "type": "heading",
+          "data": {
+            "text": "When to Start and How Often to Offer Food"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "International recommendations consistently state that complementary feeding should begin around six months when the infant shows signs of readiness. At the beginning, one small meal per day is sufficient. Breast milk or formula remains the primary source of nutrition."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Meal Frequency by Age"
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "6–8 months"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Recommended frequency is 2–3 meals per day. Breastfeeding or formula feeding continues between meals. Food should be soft or provided as safe finger-sized pieces."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "9–11 months"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Recommended frequency is 3–4 meals per day. One or two healthy snacks may be added if needed. The variety of foods increases."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "12 months and older"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Three main meals and two snacks per day are recommended. The child gradually transitions to family foods, and milk is no longer the primary calorie source."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Recommended Portion Sizes"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "6–8 months: vegetables and fruits — 2–3 tablespoons; cereals — 2–4 tablespoons; protein foods — 1–2 teaspoons."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "9–11 months: vegetables and fruits — one-quarter to one-half cup; cereals — one-quarter to one-half cup; meat or legumes — 2–4 tablespoons."
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "12–24 months: vegetables and fruits — one-half cup; grains — one-half cup; meat — 3–4 tablespoons; dairy — half a cup of yogurt or 20–30 g of cheese."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Intervals Between Meals"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Optimal intervals are approximately two and a half to three and a half hours. This supports healthy appetite regulation and prevents overeating."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "How to Recognize Satiety and Hunger"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Signs of satiety include turning the head away, closing the mouth, and reduced interest. Signs of hunger include reaching for food, opening the mouth, and showing continued interest."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Fluids During Complementary Feeding"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "After six months, small amounts of water may be offered with meals. Water does not replace milk or formula."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "When to Consult a Doctor"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Consultation is recommended if the child gains weight poorly, rejects solid foods, shows repeated reactions to foods, or has chronic health conditions."
+          }
+        },
+        {
+          "type": "heading",
+          "data": {
+            "text": "Summary"
+          }
+        },
+        {
+          "type": "paragraph",
+          "data": {
+            "text": "Complementary feeding should begin after six months with a gradual increase in meal frequency. Portions should remain small and intervals regular. The core principle is gradual progression and responsiveness to the child's needs."
+          }
+        },
+        {
+          "type": "divider"
+        }
+      ],
+      "id": "31d7da57-b214-45e4-981e-7835b5d2e530",
+      "cover": {
+        "url": "https://tverdokhlibk.github.io/kostyatverdokhlib.github.io-blw-blog/images/pryiomy-yizhi.webp",
+        "caption": "Meal schedule and portion sizes for complementary feeding"
+      },
+      "sources": [
+        {
+          "title": "WHO – Complementary Feeding",
+          "url": "https://www.who.int/health-topics/complementary-feeding"
+        },
+        {
+          "title": "WHO – Guiding Principles for Complementary Feeding",
+          "url": "https://www.who.int/publications/i/item/9241593431"
+        },
+        {
+          "title": "NHS – Your baby’s first solid foods",
+          "url": "https://www.nhs.uk/conditions/baby/weaning-and-feeding/"
+        },
+        {
+          "title": "American Academy of Pediatrics – Starting Solid Foods",
+          "url": "https://www.healthychildren.org/English/ages-stages/baby/feeding-nutrition/Pages/Starting-Solid-Foods.aspx"
+        },
+        {
+          "title": "Health Canada – Infant Feeding",
+          "url": "https://www.canada.ca/en/health-canada/services/infant-care/infant-feeding.html"
+        }
+      ]
+    }
+  ]
+}
